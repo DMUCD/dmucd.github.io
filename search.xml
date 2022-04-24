@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>上传者之书-Beta</title>
-    <url>/2022/04/25/DMUCD/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>医学救济</category>
-      </categories>
-      <tags>
-        <tag>资源发布</tag>
-        <tag>获取教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>医学救济白页</title>
     <url>/2022/04/25/Medical/</url>
     <content><![CDATA[]]></content>
@@ -22,6 +10,18 @@
       <tags>
         <tag>资源发布</tag>
         <tag>其他标签</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>上传者之书-Beta</title>
+    <url>/2022/04/25/DMUCD/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>医学救济</category>
+      </categories>
+      <tags>
+        <tag>资源发布</tag>
+        <tag>获取教程</tag>
       </tags>
   </entry>
 </search>
