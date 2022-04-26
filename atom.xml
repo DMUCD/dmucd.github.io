@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>DMUCD</title>
   
-  
+  <subtitle>Do my utmost to change the world.</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-24T18:18:23.661Z</updated>
+  <updated>2022-04-26T14:30:49.781Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,40 +17,50 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>医学救济白页</title>
-    <link href="http://example.com/2022/04/25/Medical/"/>
-    <id>http://example.com/2022/04/25/Medical/</id>
+    <title>上传者之书</title>
+    <link href="http://example.com/2022/04/25/DMUCD/"/>
+    <id>http://example.com/2022/04/25/DMUCD/</id>
     <published>2022-04-25T12:46:25.000Z</published>
-    <updated>2022-04-24T18:18:23.661Z</updated>
+    <updated>2022-04-26T14:30:49.781Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="86ce6633682a9bf9331b40cb9e90a62aae2a4df762f84fd1f34f7acfb2ad458c">20338d39c901e408c6d8ef5d83376837ad87b9a3595a3d3d077a3de55db16dbaea125dd402abcac0167b773c401bb505</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">本文已加密, 需输入密码查看.</summary>
     
     
     
+    <category term="DMUCD" scheme="http://example.com/categories/DMUCD/"/>
     
-    <category term="医学救济" scheme="http://example.com/categories/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E/"/>
+    <category term="精选网站" scheme="http://example.com/categories/DMUCD/%E7%B2%BE%E9%80%89%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="软件下载" scheme="http://example.com/categories/DMUCD/%E7%B2%BE%E9%80%89%E7%BD%91%E7%AB%99/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/"/>
     
     
-    <category term="资源发布" scheme="http://example.com/tags/%E8%B5%84%E6%BA%90%E5%8F%91%E5%B8%83/"/>
-    
-    <category term="其他标签" scheme="http://example.com/tags/%E5%85%B6%E4%BB%96%E6%A0%87%E7%AD%BE/"/>
+    <category term="软件下载" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
   <entry>
-    <title>上传者之书-Beta</title>
-    <link href="http://example.com/2022/04/25/DMUCD/"/>
-    <id>http://example.com/2022/04/25/DMUCD/</id>
+    <title>医学救济站</title>
+    <link href="http://example.com/2022/04/25/Medical/"/>
+    <id>http://example.com/2022/04/25/Medical/</id>
     <published>2022-04-25T12:46:25.000Z</published>
-    <updated>2022-04-24T18:18:32.458Z</updated>
+    <updated>2022-04-26T14:31:17.624Z</updated>
     
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="11058e3e6b324bcd8e2675249feccd5387842d3f5964cc29b338f5cdbcd05f59">82f956f7e09bfa5d0c3c82e9768a86cb6543e521b08b776f4320a558d1c3c0ffe57785a83dab2a0bde8fd9db88e6d010</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">本文已加密, 需输入密码查看.</summary>
     
     
     
     <category term="医学救济" scheme="http://example.com/categories/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E/"/>
     
+    <category term="魔法之书" scheme="http://example.com/categories/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E/%E9%AD%94%E6%B3%95%E4%B9%8B%E4%B9%A6/"/>
     
-    <category term="资源发布" scheme="http://example.com/tags/%E8%B5%84%E6%BA%90%E5%8F%91%E5%B8%83/"/>
     
-    <category term="获取教程" scheme="http://example.com/tags/%E8%8E%B7%E5%8F%96%E6%95%99%E7%A8%8B/"/>
+    <category term="医学救济" scheme="http://example.com/tags/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E/"/>
     
   </entry>
   

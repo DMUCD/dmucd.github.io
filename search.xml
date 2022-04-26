@@ -1,27 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>医学救济白页</title>
-    <url>/2022/04/25/Medical/</url>
-    <content><![CDATA[]]></content>
+    <title>上传者之书</title>
+    <url>/2022/04/25/DMUCD/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="86ce6633682a9bf9331b40cb9e90a62aae2a4df762f84fd1f34f7acfb2ad458c">20338d39c901e408c6d8ef5d83376837ad87b9a3595a3d3d077a3de55db16dbaea125dd402abcac0167b773c401bb505</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>医学救济</category>
+        <category>DMUCD</category>
+        <category>精选网站</category>
+        <category>软件下载</category>
       </categories>
       <tags>
-        <tag>资源发布</tag>
-        <tag>其他标签</tag>
+        <tag>软件下载</tag>
       </tags>
   </entry>
   <entry>
-    <title>上传者之书-Beta</title>
-    <url>/2022/04/25/DMUCD/</url>
-    <content><![CDATA[]]></content>
+    <title>医学救济站</title>
+    <url>/2022/04/25/Medical/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="11058e3e6b324bcd8e2675249feccd5387842d3f5964cc29b338f5cdbcd05f59">82f956f7e09bfa5d0c3c82e9768a86cb6543e521b08b776f4320a558d1c3c0ffe57785a83dab2a0bde8fd9db88e6d010</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>医学救济</category>
+        <category>魔法之书</category>
       </categories>
       <tags>
-        <tag>资源发布</tag>
-        <tag>获取教程</tag>
+        <tag>医学救济</tag>
       </tags>
   </entry>
 </search>
