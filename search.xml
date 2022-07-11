@@ -1,6 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>上网去冲浪</title>
+    <url>/2022/04/28/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
+    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+<li>在PC端打开该文档可显示目录，阅读效果更佳</li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
+<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+</ul>
+<h2 id="01-新手必看"><a href="#01-新手必看" class="headerlink" title="01. 新手必看"></a>01. 新手必看</h2><blockquote>
+<p>添加脚本的步骤：</p>
+</blockquote>
+<ol>
+<li>在扩展商店搜索<code>Tampermonkey</code>这个扩展程序并添加</li>
+<li>在<a href="https://greasyfork.org/zh-CN">greasyfork</a>搜索添加脚本即可</li>
+</ol>
+<blockquote>
+<p>扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
+</blockquote>
+<h2 id="02-奶酪专区"><a href="#02-奶酪专区" class="headerlink" title="02. 奶酪专区"></a>02. 奶酪专区</h2><blockquote>
+<p>浏览器深度开发技术达人</p>
+</blockquote>
+<ul>
+<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
+<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
+<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome Extensions</a>：奶酪-扩展推荐</li>
+</ul>
+<h2 id="03-GH-辅助"><a href="#03-GH-辅助" class="headerlink" title="03. GH 辅助"></a>03. GH 辅助</h2><ol>
+<li>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速</a>、<a href="https://steampp.net/">Steam++</a></li>
+<li>GitHub加速代理下载站：</li>
+</ol>
+<ul>
+<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
+</ul>
+<ol start="3">
+<li>Github的辅助工具：</li>
+</ol>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD">Github 增强-高速下载</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592-github-%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E8%BD%BD">GitHub 文件夹下载</a></li>
+<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
+</ul>
+<h2 id="04-脚本商店"><a href="#04-脚本商店" class="headerlink" title="04. 脚本商店"></a>04. 脚本商店</h2><ul>
+<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
+<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
+<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
+<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a></li>
+</ul>
+<h2 id="05-扩展商店"><a href="#05-扩展商店" class="headerlink" title="05. 扩展商店"></a>05. 扩展商店</h2><ol>
+<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
+</li>
+<li><p>离线扩展下载：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
+<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
+</ul>
+<h2 id="06-网页辅助"><a href="#06-网页辅助" class="headerlink" title="06. 网页辅助"></a>06. 网页辅助</h2><h3 id="6-1-视觉优化"><a href="#6-1-视觉优化" class="headerlink" title="6.1 视觉优化"></a>6.1 视觉优化</h3><ul>
+<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
+<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
+<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
+<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
+<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
+<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
+<li><code>扩展</code> 网页翻译：<a href="https://github.com/FilipePS/Traduzir-paginas-web">谷歌翻译-翻译网页</a>、<a href="https://saladict.crimx.com/">沙拉查词-聚合词典划词翻译</a></li>
+</ul>
+<h3 id="6-2-权限处理"><a href="#6-2-权限处理" class="headerlink" title="6.2 权限处理"></a>6.2 权限处理</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130-%E6%96%87%E6%9C%AC%E9%80%89%E4%B8%AD%E5%A4%8D%E5%88%B6">文本选中复制</a>：解除复制限制</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9">网页限制解除(改)</a></li>
+</ul>
+<h3 id="6-3-视频播放"><a href="#6-3-视频播放" class="headerlink" title="6.3 视频播放"></a>6.3 视频播放</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC">HTML5视频播放器增强脚本</a>：可在线倍速播放百度网盘视频</li>
+<li><code>扩展</code> <a href="https://github.com/polywock/globalSpeed">Global Speed: 视频速度控制</a>：可在线倍速播放百度网盘视频</li>
+</ul>
+<h3 id="6-4-图片查看"><a href="#6-4-图片查看" class="headerlink" title="6.4 图片查看"></a>6.4 图片查看</h3><ul>
+<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
+<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
+</ul>
+<h2 id="07-下载视频"><a href="#07-下载视频" class="headerlink" title="07. 下载视频"></a>07. 下载视频</h2><h3 id="7-1-综合下载"><a href="#7-1-综合下载" class="headerlink" title="7.1 综合下载"></a>7.1 综合下载</h3><ul>
+<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
+<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
+<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
+</ul>
+<h3 id="7-2-B-站下载"><a href="#7-2-B-站下载" class="headerlink" title="7.2 B 站下载"></a>7.2 B 站下载</h3><ul>
+<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
+<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
+<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
+<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
+<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
+</ul>
+<h2 id="08-调教百度"><a href="#08-调教百度" class="headerlink" title="08. 调教百度"></a>08. 调教百度</h2><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%80%E9%94%AE%E9%87%8D%E5%91%BD%E5%90%8D%E5%BD%93%E5%89%8D%E7%9B%AE%E5%BD%95">百度网盘一键重命名当前目录</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814-%E7%99%BE%E5%BA%A6%E4%BA%91%E5%8E%BB%E5%B9%BF%E5%91%8A-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%80%8D%E9%80%9F-%E5%85%8Dvip%E8%A7%A3%E9%94%81%E5%80%8D%E9%80%9F-%E7%94%BB%E8%B4%A8-%E5%85%A8%E7%BD%91%E7%8B%AC%E5%AE%B6">快捷键倍速，免VIP解锁倍速、画质</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/437609-%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8">百度文库下载器</a></li>
+<li><code>脚本</code> <a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a></li>
+<li><code>脚本</code> <a href="https://www.cnblogs.com/softxmm/p/13972678.html">百度网盘简易下载助手</a></li>
+</ul>
+<h2 id="09-快照查询"><a href="#09-快照查询" class="headerlink" title="09. 快照查询"></a>09. 快照查询</h2><blockquote>
+<p>历史网页快照查询</p>
+</blockquote>
+<ul>
+<li><a href="https://archive.org/">Internet Archive</a></li>
+<li><a href="https://archive.md/">Webpage archive</a></li>
+<li><a href="https://2tool.top/">搜索引擎网页快照查询</a></li>
+</ul>
+<h2 id="10-保存网站"><a href="#10-保存网站" class="headerlink" title="10. 保存网站"></a>10. 保存网站</h2><ul>
+<li><a href="https://www.httrack.com/">HTTrack Website Copier</a>：将整个网站离线到本地</li>
+<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
+<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号发布</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>DMUCD</category>
+      </categories>
+      <tags>
+        <tag>网上冲浪</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>上传者之书</title>
     <url>/2022/04/28/%E4%B8%8A%E4%BC%A0%E8%80%85%E4%B9%8B%E4%B9%A6/</url>
     <content><![CDATA[<p>命里有时终须有，命里无时莫强求。</p>
@@ -461,7 +589,7 @@
 <li>使用非正版软件发表论文可能存在被起诉风险，机构使用风险＞＞个人使用风险，请注意！</li>
 <li>本文档中的所有资源收集自网络，仅供学习交流之用，请在下载后24h内删除，切勿商用！</li>
 </ul>
-<h2 id="1-资源传送"><a href="#1-资源传送" class="headerlink" title="1. 资源传送"></a>1. 资源传送</h2><h4 id="1-1-医济网盘"><a href="#1-1-医济网盘" class="headerlink" title="1.1 医济网盘"></a>1.1 医济网盘</h4><ul>
+<h2 id="01-资源传送"><a href="#01-资源传送" class="headerlink" title="01. 资源传送"></a>01. 资源传送</h2><h4 id="1-1-医济网盘"><a href="#1-1-医济网盘" class="headerlink" title="1.1 医济网盘"></a>1.1 医济网盘</h4><ul>
 <li><p>网盘资源渠道1：<a href="https://dmucd-my.sharepoint.com/:f:/g/personal/daud_dmucd_onmicrosoft_com/Er-rW-B7PWBIrGbjvrQy7H0BT9BOmlh_xmdKD18ahzCWPQ?e=xlElzg">医学救济包-Ondrive</a></p>
 </li>
 <li><p>网盘资源渠道2：<a href="https://pan.quark.cn/s/944527b1e501">医学救济包-夸克网盘</a></p>
@@ -488,37 +616,20 @@
 <ul>
 <li>下载备份：为防止视频被删除，可以使用<a href="client.jijidown.com/">JIJIDOWN</a> 下载到本地观看</li>
 </ul>
-<h2 id="2-必备站点"><a href="#2-必备站点" class="headerlink" title="2. 必备站点"></a>2. 必备站点</h2><h3 id="2-1-下电子书"><a href="#2-1-下电子书" class="headerlink" title="2.1 下电子书"></a>2.1 下电子书</h3><ul>
-<li><a href="https://jwc.symc.edu.cn/info/1112/1308.htm">人卫医学书籍PDF版</a>  ：沈阳医学院官网资源</li>
+<h2 id="02-必备站点"><a href="#02-必备站点" class="headerlink" title="02. 必备站点"></a>02. 必备站点</h2><h3 id="2-1-下电子书"><a href="#2-1-下电子书" class="headerlink" title="2.1 下电子书"></a>2.1 下电子书</h3><ul>
+<li><a href="https://jwc.symc.edu.cn/info/1112/1308.htm">人卫医学书籍PDF版</a>  ：沈阳医学院官网资源<code>error</code></li>
 <li><a href="https://z-lib.org/">z-library</a> ：全世界电子资源最多的书库</li>
 <li><a href="https://www.jiumodiary.com/">鸠摩搜书</a> ：国内最好用的免费搜书引擎</li>
 <li><a href="https://www.xueshu86.com/">图书馆联盟书籍互助</a> ：三五块钱就能买到电子书，省事</li>
 </ul>
-<h3 id="2-2-PPT模板"><a href="#2-2-PPT模板" class="headerlink" title="2.2 PPT模板"></a>2.2 PPT模板</h3><blockquote>
-<p>以下网站任选其一即可，别挑花了眼：</p>
-</blockquote>
-<ul>
-<li><a href="https://www.pptsupermarket.com/">PPT超级市场</a> 、<a href="https://www.dingdangsheji.com/category/ppt/">叮当市场</a>、<a href="http://www.51pptmoban.com/">51PPT</a>、<a href="http://www.ypppt.com/">优品PPT</a>、<a href="https://www.ppthui.com/">PPT汇</a></li>
-</ul>
-<h3 id="2-3-插图下载"><a href="#2-3-插图下载" class="headerlink" title="2.3 插图下载"></a>2.3 插图下载</h3><h4 id="2-3-1-图片素材"><a href="#2-3-1-图片素材" class="headerlink" title="2.3.1 图片素材"></a>2.3.1 图片素材</h4><ul>
-<li><a href="https://scidraw.io/">SCI插图素材</a> ：更加适合搞学术的人</li>
+<h3 id="2-2-素材下载"><a href="#2-2-素材下载" class="headerlink" title="2.2 素材下载"></a>2.2 素材下载</h3><ul>
+<li><a href="https://www.pptsupermarket.com/">免费PPT模板下载</a> </li>
+<li><a href="https://scidraw.io/">免费SCI插图下载</a></li>
 </ul>
 <blockquote>
-<p>以下几个作为备选：</p>
+<p>更多同类型网站请查阅《无名的网站》</p>
 </blockquote>
-<ul>
-<li><a href="https://www.pexels.com/zh-cn/">Pexels</a>、<a href="https://unsplash.com/">Unsplash</a>、<a href="https://pixabay.com/zh/">Pixabay</a></li>
-</ul>
-<h4 id="2-3-2-矢量图标"><a href="#2-3-2-矢量图标" class="headerlink" title="2.3.2 矢量图标"></a>2.3.2 矢量图标</h4><ul>
-<li><a href="https://www.iconfont.cn/">阿里矢量图库</a> ：阿里的矢量图标库还是很不错的</li>
-</ul>
-<blockquote>
-<p>以下几个作为备选：</p>
-</blockquote>
-<ul>
-<li><a href="https://fontawesome.com/">fontawesome</a>、<a href="https://icons8.com/">Free Icons</a>、<a href="https://www.stickpng.com/">Freepik</a>、<a href="https://iconstore.co/">Iconstore</a>、<a href="https://www.stickpng.com/">Stickpng</a></li>
-</ul>
-<h2 id="3-文献下载"><a href="#3-文献下载" class="headerlink" title="3. 文献下载"></a>3. 文献下载</h2><h3 id="3-1-白嫖知网："><a href="#3-1-白嫖知网：" class="headerlink" title="3.1 白嫖知网："></a>3.1 白嫖知网：</h3><ul>
+<h2 id="03-文献下载"><a href="#03-文献下载" class="headerlink" title="03. 文献下载"></a>03. 文献下载</h2><h3 id="3-1-白嫖知网："><a href="#3-1-白嫖知网：" class="headerlink" title="3.1 白嫖知网："></a>3.1 白嫖知网：</h3><ul>
 <li>在<a href="http://www.gxlib.org.cn/">广西壮族图书馆</a>注册一个账号即可</li>
 <li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/389343-%E4%B8%AD%E5%9B%BD%E7%9F%A5%E7%BD%91cnki%E7%A1%95%E5%8D%9A%E8%AE%BA%E6%96%87pdf%E4%B8%8B%E8%BD%BD">知网硕博论文PDF下载</a></li>
 </ul>
@@ -544,7 +655,7 @@
 <li><a href="https://www.ablesci.com/">科研通-文献互助</a></li>
 <li>在群里适度礼貌求助也会有热心群众帮你的</li>
 </ul>
-<h2 id="4-论文写作"><a href="#4-论文写作" class="headerlink" title="4. 论文写作"></a>4. 论文写作</h2><h3 id="4-1-查重降重"><a href="#4-1-查重降重" class="headerlink" title="4.1 查重降重"></a>4.1 查重降重</h3><ul>
+<h2 id="04-论文写作"><a href="#04-论文写作" class="headerlink" title="04. 论文写作"></a>04. 论文写作</h2><h3 id="4-1-查重降重"><a href="#4-1-查重降重" class="headerlink" title="4.1 查重降重"></a>4.1 查重降重</h3><ul>
 <li><a href="https://www.bigan.net/">笔杆网</a>：连接校网的情况下可以每天免费查两次</li>
 <li><a href="https://xiezuocat.com/">秘塔写作猫</a>：对语句进行同义改写，降重可用，但请<code>谨慎使用！</code></li>
 </ul>
@@ -553,7 +664,7 @@
 <li><a href="https://www.grammarly.com/">Grammarly</a>：Free Online Writing Assistant</li>
 <li><a href="https://aimwriting.mtutor.engkoo.com/">微软爱写作 - Aim Writing</a></li>
 </ul>
-<h2 id="5-学术加速"><a href="#5-学术加速" class="headerlink" title="5. 学术加速"></a>5. 学术加速</h2><blockquote>
+<h2 id="05-学术加速"><a href="#05-学术加速" class="headerlink" title="05. 学术加速"></a>05. 学术加速</h2><blockquote>
 <p>警告：魔法不可传于麻瓜！</p>
 </blockquote>
 <h3 id="5-1-谷鸽镜像"><a href="#5-1-谷鸽镜像" class="headerlink" title="5.1 谷鸽镜像"></a>5.1 谷鸽镜像</h3><ul>
@@ -578,10 +689,15 @@
 <li><p>UU加速器支持加速的站点包括但不限于：<strong>Sci-Hub</strong>、Web of Science、ScienceDirect、ResearchGate、Springer、arXiv、ProQuest、JSTOR、IEEE、<strong>PubMed</strong>、Kaggle</p>
 </li>
 </ul>
-<h4 id="5-2-3-关于魔法"><a href="#5-2-3-关于魔法" class="headerlink" title="5.2.3 关于魔法"></a>5.2.3 关于魔法</h4><ul>
-<li>如果你想了解更多，请参照<a href="https://www.xiaoshuai.link/">小帅博客</a>的文章</li>
+<h2 id="06-丁香好文"><a href="#06-丁香好文" class="headerlink" title="06. 丁香好文"></a>06. 丁香好文</h2><ul>
+<li><a href="https://mp.weixin.qq.com/s/ohH6pRztpcfi9rjwNTucpg">通过文献学习统计分析方法的选择</a></li>
+<li><a href="https://mp.weixin.qq.com/s/QveiBJdeb2YI2Aro62lkIg">两款能自动推送目标文献的小助手</a></li>
+<li><a href="https://mp.weixin.qq.com/s/-RgoUcBxSo1qcW9ui1wGUg">毕业之后如何继续白嫖知网数据库</a></li>
+<li>文献管理软件的使用：<a href="https://mp.weixin.qq.com/s/sOTmlM4CP-dpqHVncwMRxQ">Endnote</a>、<a href="https://mp.weixin.qq.com/s/zpr0WpfqIqWFHxD2s94TKA">Citavi</a>、<a href="https://mp.weixin.qq.com/s/GOfGOi_NZNCBOWwcxm2OrA">Mendeley</a></li>
+<li><a href="https://mp.weixin.qq.com/s/VeRWUFNnuSAwvqjhM4MOqg">绘图神器Biorender与Pathway Builder Tool</a></li>
+<li><a href="https://mp.weixin.qq.com/s/-S2DyyRDulstpKFZTwWb0g">病例资料收集软件 Epi Info™</a></li>
 </ul>
-<h2 id="6-帮助文档"><a href="#6-帮助文档" class="headerlink" title="6. 帮助文档"></a>6. 帮助文档</h2><blockquote>
+<h2 id="07-帮助文档"><a href="#07-帮助文档" class="headerlink" title="07. 帮助文档"></a>07. 帮助文档</h2><blockquote>
 <p>该板块（问题解决）目前仅提供GraphPad Prism的安装问题解决方案。</p>
 </blockquote>
 <h3 id="6-1-版本选择"><a href="#6-1-版本选择" class="headerlink" title="6.1 版本选择"></a>6.1 版本选择</h3><ul>
@@ -613,121 +729,48 @@
       </tags>
   </entry>
   <entry>
-    <title>上网去冲浪</title>
-    <url>/2022/04/28/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
-    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+    <title>看不懂教程</title>
+    <url>/2022/04/28/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
 <span id="more"></span>
 
 
 <h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+<li>本文中记录了一些阿岩看过的教程，仅供参考</li>
 <li>在PC端打开该文档可显示目录，阅读效果更佳</li>
 </ul>
 <h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
-<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+<li>某些教程内容或已失效，建议去Google最新教程</li>
+<li>在实践之前建议先把教程看个<code>2-3</code>遍，做到心中有数</li>
 </ul>
-<h2 id="01-新手必看"><a href="#01-新手必看" class="headerlink" title="01. 新手必看"></a>01. 新手必看</h2><blockquote>
-<p>添加脚本的步骤：</p>
-</blockquote>
-<ol>
-<li>在扩展商店搜索<code>Tampermonkey</code>这个扩展程序并添加</li>
-<li>在<a href="https://greasyfork.org/zh-CN">greasyfork</a>搜索添加脚本即可</li>
-</ol>
-<blockquote>
-<p>扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
-</blockquote>
-<h2 id="02-奶酪专区"><a href="#02-奶酪专区" class="headerlink" title="02. 奶酪专区"></a>02. 奶酪专区</h2><blockquote>
-<p>浏览器深度开发技术达人</p>
-</blockquote>
-<ul>
-<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
-<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
-<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome Extensions</a>：奶酪-扩展推荐</li>
+<h2 id="Office365-E5账号申请"><a href="#Office365-E5账号申请" class="headerlink" title="Office365 E5账号申请"></a>Office365 E5账号申请</h2><h3 id="必看注意事项"><a href="#必看注意事项" class="headerlink" title="必看注意事项"></a>必看注意事项</h3><ul>
+<li>申请E5账号时可能需要使用魔法</li>
+<li>能否成功续期E5账号是概率问题</li>
+<li>通过Action续期时小心Github被封</li>
 </ul>
-<h2 id="03-GH-辅助"><a href="#03-GH-辅助" class="headerlink" title="03. GH 辅助"></a>03. GH 辅助</h2><ol>
-<li>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速</a>、<a href="https://steampp.net/">Steam++</a></li>
-<li>GitHub加速代理下载站：</li>
-</ol>
-<ul>
-<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
+<h3 id="推荐参考教程"><a href="#推荐参考教程" class="headerlink" title="推荐参考教程"></a>推荐参考教程</h3><ul>
+<li><a href="https://iweeyi.com/archives/93"> iweeyi-2022年4月教程</a></li>
+<li><a href="https://www.maxiaobang.com/9794.html">马小帮-2022年2月教程</a></li>
+<li><a href="https://zblogs.top/how-to-join-in-microsoft-365-e5-developer-plan/">Justin  -2022年3月教程</a></li>
+<li><a href="https://www.godseven.com/archives/30.html">神七地-2022年5月教程</a></li>
+<li><a href="https://logi.im/script/permanently-keeping-an-office-e5-account.html">LOGI  - 2020年7月教程</a></li>
+<li>知彼而知己-2022年6月教程：<a href="https://mp.weixin.qq.com/s/5mVDMojiskuVmAuRiQso6Q">上篇</a>、<a href="https://mp.weixin.qq.com/s/BZLnMstcG7a1AtEm-MOlkA">下篇</a></li>
+<li><a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502">Office 365 E5 Renew Plus 续订程序</a></li>
+<li><a href="https://owo.misaka.rest/mse5-apirenew-cfworkers/">透过Cloudflare Workers续订微软E5</a></li>
 </ul>
-<ol start="3">
-<li>Github的辅助工具：</li>
-</ol>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD">Github 增强-高速下载</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592-github-%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E8%BD%BD">GitHub 文件夹下载</a></li>
-<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
+<h2 id="Hexo-Github-搭建博客"><a href="#Hexo-Github-搭建博客" class="headerlink" title="Hexo+Github 搭建博客"></a>Hexo+Github 搭建博客</h2><h3 id="博客搭建教程"><a href="#博客搭建教程" class="headerlink" title="博客搭建教程"></a>博客搭建教程</h3><ul>
+<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">中传讲师安靖_Hexo生成博客并发布到Gitee</a>:讲解详细全面，非常适合小白</li>
+<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">LieGuのBlog_Hexo搭建博客并发布到Github</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/github-pages">Hexo官方_将Hexo部署到GitHub Pages</a></li>
 </ul>
-<h2 id="04-脚本商店"><a href="#04-脚本商店" class="headerlink" title="04. 脚本商店"></a>04. 脚本商店</h2><ul>
-<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
-<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
-<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
-<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a></li>
+<h3 id="博客美化教程"><a href="#博客美化教程" class="headerlink" title="博客美化教程"></a>博客美化教程</h3><ul>
+<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">vic.kim_Hexo博客-Next主题美化</a></li>
+<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">younger_Hexo的Next主题详细配置</a></li>
+<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
 </ul>
-<h2 id="05-扩展商店"><a href="#05-扩展商店" class="headerlink" title="05. 扩展商店"></a>05. 扩展商店</h2><ol>
-<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
-</li>
-<li><p>离线扩展下载：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
-<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
-</ul>
-<h2 id="06-网页辅助"><a href="#06-网页辅助" class="headerlink" title="06. 网页辅助"></a>06. 网页辅助</h2><h3 id="6-1-视觉优化"><a href="#6-1-视觉优化" class="headerlink" title="6.1 视觉优化"></a>6.1 视觉优化</h3><ul>
-<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
-<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
-<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
-<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
-<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
-<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
-<li><code>扩展</code> 网页翻译：<a href="https://github.com/FilipePS/Traduzir-paginas-web">谷歌翻译-翻译网页</a>、<a href="https://saladict.crimx.com/">沙拉查词-聚合词典划词翻译</a></li>
-</ul>
-<h3 id="6-2-权限处理"><a href="#6-2-权限处理" class="headerlink" title="6.2 权限处理"></a>6.2 权限处理</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130-%E6%96%87%E6%9C%AC%E9%80%89%E4%B8%AD%E5%A4%8D%E5%88%B6">文本选中复制</a>：解除复制限制</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497-%E7%BD%91%E9%A1%B5%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4-%E6%94%B9">网页限制解除(改)</a></li>
-</ul>
-<h3 id="6-3-视频播放"><a href="#6-3-视频播放" class="headerlink" title="6.3 视频播放"></a>6.3 视频播放</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC">HTML5视频播放器增强脚本</a>：可在线倍速播放百度网盘视频</li>
-<li><code>扩展</code> <a href="https://github.com/polywock/globalSpeed">Global Speed: 视频速度控制</a>：可在线倍速播放百度网盘视频</li>
-</ul>
-<h3 id="6-4-图片查看"><a href="#6-4-图片查看" class="headerlink" title="6.4 图片查看"></a>6.4 图片查看</h3><ul>
-<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
-<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
-</ul>
-<h2 id="07-下载视频"><a href="#07-下载视频" class="headerlink" title="07. 下载视频"></a>07. 下载视频</h2><h3 id="7-1-综合下载"><a href="#7-1-综合下载" class="headerlink" title="7.1 综合下载"></a>7.1 综合下载</h3><ul>
-<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
-<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
-<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
-</ul>
-<h3 id="7-2-B-站下载"><a href="#7-2-B-站下载" class="headerlink" title="7.2 B 站下载"></a>7.2 B 站下载</h3><ul>
-<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
-<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
-<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
-<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
-<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
-</ul>
-<h2 id="08-调教百度"><a href="#08-调教百度" class="headerlink" title="08. 调教百度"></a>08. 调教百度</h2><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%80%E9%94%AE%E9%87%8D%E5%91%BD%E5%90%8D%E5%BD%93%E5%89%8D%E7%9B%AE%E5%BD%95">百度网盘一键重命名当前目录</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814-%E7%99%BE%E5%BA%A6%E4%BA%91%E5%8E%BB%E5%B9%BF%E5%91%8A-%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%80%8D%E9%80%9F-%E5%85%8Dvip%E8%A7%A3%E9%94%81%E5%80%8D%E9%80%9F-%E7%94%BB%E8%B4%A8-%E5%85%A8%E7%BD%91%E7%8B%AC%E5%AE%B6">快捷键倍速，免VIP解锁倍速、画质</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/437609-%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8">百度文库下载器</a></li>
-<li><code>脚本</code> <a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a></li>
-<li><code>脚本</code> <a href="https://www.cnblogs.com/softxmm/p/13972678.html">百度网盘简易下载助手</a></li>
-</ul>
-<h2 id="09-快照查询"><a href="#09-快照查询" class="headerlink" title="09. 快照查询"></a>09. 快照查询</h2><blockquote>
-<p>历史网页快照查询</p>
-</blockquote>
-<ul>
-<li><a href="https://archive.org/">Internet Archive</a></li>
-<li><a href="https://archive.md/">Webpage archive</a></li>
-<li><a href="https://2tool.top/">搜索引擎网页快照查询</a></li>
-</ul>
-<h2 id="10-保存网站"><a href="#10-保存网站" class="headerlink" title="10. 保存网站"></a>10. 保存网站</h2><ul>
-<li><a href="https://www.httrack.com/">HTTrack Website Copier</a>：将整个网站离线到本地</li>
-<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
-<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
+<h3 id="博客迁移教程"><a href="#博客迁移教程" class="headerlink" title="博客迁移教程"></a>博客迁移教程</h3><ul>
+<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">LolitaAnn_换电脑后进行hexo博客的迁移</a></li>
 </ul>
 <h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
 <li>后续更新事宜会在微信公众号发布</li>
@@ -737,7 +780,7 @@
         <category>DMUCD</category>
       </categories>
       <tags>
-        <tag>网上冲浪</tag>
+        <tag>自主学习</tag>
       </tags>
   </entry>
   <entry>
@@ -962,61 +1005,6 @@
       </categories>
       <tags>
         <tag>优质站点</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>看不懂教程</title>
-    <url>/2022/04/28/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文中记录了一些阿岩看过的教程，仅供参考</li>
-<li>在PC端打开该文档可显示目录，阅读效果更佳</li>
-</ul>
-<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>某些教程内容或已失效，建议去Google最新教程</li>
-<li>在实践之前建议先把教程看个<code>2-3</code>遍，做到心中有数</li>
-</ul>
-<h2 id="Office365-E5账号申请"><a href="#Office365-E5账号申请" class="headerlink" title="Office365 E5账号申请"></a>Office365 E5账号申请</h2><h3 id="必看注意事项"><a href="#必看注意事项" class="headerlink" title="必看注意事项"></a>必看注意事项</h3><ul>
-<li>申请E5账号时可能需要使用魔法</li>
-<li>能否成功续期E5账号是概率问题</li>
-<li>通过Action续期时小心Github被封</li>
-</ul>
-<h3 id="推荐参考教程"><a href="#推荐参考教程" class="headerlink" title="推荐参考教程"></a>推荐参考教程</h3><ul>
-<li><a href="https://iweeyi.com/archives/93"> iweeyi-2022年4月教程</a></li>
-<li><a href="https://www.maxiaobang.com/9794.html">马小帮-2022年2月教程</a></li>
-<li><a href="https://zblogs.top/how-to-join-in-microsoft-365-e5-developer-plan/">Justin  -2022年3月教程</a></li>
-<li><a href="https://www.godseven.com/archives/30.html">神七地-2022年5月教程</a></li>
-<li><a href="https://logi.im/script/permanently-keeping-an-office-e5-account.html">LOGI  - 2020年7月教程</a></li>
-<li>知彼而知己-2022年6月教程：<a href="https://mp.weixin.qq.com/s/5mVDMojiskuVmAuRiQso6Q">上篇</a>、<a href="https://mp.weixin.qq.com/s/BZLnMstcG7a1AtEm-MOlkA">下篇</a></li>
-<li><a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502">Office 365 E5 Renew Plus 续订程序</a></li>
-<li><a href="https://owo.misaka.rest/mse5-apirenew-cfworkers/">透过Cloudflare Workers续订微软E5</a></li>
-</ul>
-<h2 id="Hexo-Github-搭建博客"><a href="#Hexo-Github-搭建博客" class="headerlink" title="Hexo+Github 搭建博客"></a>Hexo+Github 搭建博客</h2><h3 id="博客搭建教程"><a href="#博客搭建教程" class="headerlink" title="博客搭建教程"></a>博客搭建教程</h3><ul>
-<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">中传讲师安靖_Hexo生成博客并发布到Gitee</a>:讲解详细全面，非常适合小白</li>
-<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">LieGuのBlog_Hexo搭建博客并发布到Github</a></li>
-<li><a href="https://hexo.io/zh-cn/docs/github-pages">Hexo官方_将Hexo部署到GitHub Pages</a></li>
-</ul>
-<h3 id="博客美化教程"><a href="#博客美化教程" class="headerlink" title="博客美化教程"></a>博客美化教程</h3><ul>
-<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">vic.kim_Hexo博客-Next主题美化</a></li>
-<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">younger_Hexo的Next主题详细配置</a></li>
-<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
-<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
-</ul>
-<h3 id="博客迁移教程"><a href="#博客迁移教程" class="headerlink" title="博客迁移教程"></a>博客迁移教程</h3><ul>
-<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">LolitaAnn_换电脑后进行hexo博客的迁移</a></li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号发布</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>DMUCD</category>
-      </categories>
-      <tags>
-        <tag>自主学习</tag>
       </tags>
   </entry>
 </search>
