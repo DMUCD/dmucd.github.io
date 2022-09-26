@@ -1,107 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>医学救济站</title>
-    <url>/2022/04/28/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E%E7%AB%99/</url>
-    <content><![CDATA[<p>姑妄言之姑听之，豆棚瓜架雨如丝。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>该文挡中提供了医学生常用到的软件及课程资源</li>
-<li>在PC端打开该文档可显示目录，阅读效果更佳</li>
-</ul>
-<h2 id="关于医济"><a href="#关于医济" class="headerlink" title="关于医济"></a>关于医济</h2><blockquote>
-<p>医学救济&#x3D;1个作者+1个文档+1个群组</p>
-</blockquote>
-<ul>
-<li>1个作者：混迹互联网多年的医学生、自媒体人阿岩</li>
-<li>1个文档：随时更新各种资源的博文《医学救济站》</li>
-<li>1个群组：只面向医学生(研究生)的交流、互助群组</li>
-</ul>
-<h2 id="风险告知"><a href="#风险告知" class="headerlink" title="风险告知"></a>风险告知</h2><ul>
-<li>使用非正版软件发表论文可能存在被起诉风险，机构使用风险＞＞个人使用风险，请注意！</li>
-<li>本文档中的所有资源收集自网络，仅供学习交流之用，请在下载后24h内删除，切勿商用！</li>
-</ul>
-<h2 id="01-资源传送"><a href="#01-资源传送" class="headerlink" title="01. 资源传送"></a>01. 资源传送</h2><h4 id="1-1-医济网盘"><a href="#1-1-医济网盘" class="headerlink" title="1.1 医济网盘"></a>1.1 医济网盘</h4><ol>
-<li>网盘渠道：<a href="https://dmucd-my.sharepoint.com/:f:/g/personal/daud_dmucd_onmicrosoft_com/Er-rW-B7PWBIrGbjvrQy7H0BT9BOmlh_xmdKD18ahzCWPQ?e=xlElzg">医学救济包-OneDrive</a>、<a href="https://pan.quark.cn/s/944527b1e501">医学救济包-夸克网盘</a></li>
-</ol>
-<ul>
-<li>资源描述：医学相关专业需用的<code>软件</code>、<code>书籍</code>资源</li>
-</ul>
-<ol start="2">
-<li><p>下载帮助：直接在浏览器中下载夸克网盘文件需添加<code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/448675-%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD">夸克网盘直链下载</a>,脚本添加<a href="https://greasyfork.org/zh-CN">官方教程</a></p>
-</li>
-<li><p>解压说明：网盘中文件均被制作为<code>exe</code>格式的自解压程序，双击运行后输入密码即可自动解压</p>
-</li>
-</ol>
-<h4 id="1-2-课程资源"><a href="#1-2-课程资源" class="headerlink" title="1.2 课程资源"></a>1.2 课程资源</h4><ol>
-<li>全套资源：<a href="https://pan.baidu.com/s/1DWyztm4UZ0n-QLpTXu_waA">医学课程-百度网盘</a></li>
-</ol>
-<ul>
-<li>资源描述：全网最全的科研全套课程（丁香园、解螺旋等）</li>
-</ul>
-<ol start="2">
-<li>文字教程：<a href="https://mengte.online/">梦特医数通-无广告</a></li>
-</ol>
-<ul>
-<li>网站描述：有SPSS、Stata、R、SAS、jamovi、Python、GraphPad、PASS等在线教程</li>
-<li>网站离线：可用<a href="https://www.httrack.com/">HTTRACK</a> 离线保存整个网站</li>
-</ul>
-<ol start="3">
-<li>备选渠道：在哔哩哔哩上有很多高质量的教程！</li>
-</ol>
-<ul>
-<li>下载备份：为防止视频被删除，可以使用<a href="client.jijidown.com/">JIJIDOWN</a> 下载到本地观看</li>
-</ul>
-<h4 id="1-3-其他资源"><a href="#1-3-其他资源" class="headerlink" title="1.3 其他资源"></a>1.3 其他资源</h4><ul>
-<li>详见博文《顶刊留名客》</li>
-</ul>
-<h2 id="02-帮助文档"><a href="#02-帮助文档" class="headerlink" title="02. 帮助文档"></a>02. 帮助文档</h2><blockquote>
-<p>该板块（问题解决）目前仅提供GraphPad Prism的安装问题解决方案。</p>
-</blockquote>
-<h3 id="2-1-版本选择"><a href="#2-1-版本选择" class="headerlink" title="2.1 版本选择"></a>2.1 版本选择</h3><ul>
-<li><p>推荐顺序：Prism8&gt;Prism9便携版&gt;Prism9安装版 </p>
-</li>
-<li><p>推荐理由：Prism8很稳定；Prism9便携版无需安装；Prism9安装版激活易失效。</p>
-</li>
-<li><p>所有安装包中都附有安装说明（readme.txt)</p>
-</li>
-</ul>
-<h3 id="2-2-解压错误"><a href="#2-2-解压错误" class="headerlink" title="2.2 解压错误"></a>2.2 解压错误</h3><blockquote>
-<p>解压过程中出现错误请尝试如下操作：</p>
-</blockquote>
-<h4 id="2-2-1-Win-OS"><a href="#2-2-1-Win-OS" class="headerlink" title="2.2.1 Win OS"></a>2.2.1 Win OS</h4><ul>
-<li>方案一：将自解压程序的后缀由<code>exe</code>改为<code>rar</code>后再次尝试</li>
-<li>方案二：安装解压软件<a href="https://www.bandisoft.com/bandizip/">Bandizip</a>后再次尝试</li>
-</ul>
-<h4 id="2-2-1-Win-OS-1"><a href="#2-2-1-Win-OS-1" class="headerlink" title="2.2.1 Win OS"></a>2.2.1 Win OS</h4><ul>
-<li>将自解压程序的后缀由<code>exe</code>改为<code>rar</code>后再次尝试</li>
-</ul>
-<blockquote>
-<p>若以上方案均无效请联系阿岩获取帮助</p>
-</blockquote>
-<h3 id="2-3-激活失效"><a href="#2-3-激活失效" class="headerlink" title="2.3 激活失效"></a>2.3 激活失效</h3><ul>
-<li>若安装Prism9后显示激活失效，请参照以下办法解决：<br>1.卸载已安装软件<br>2.在“我的电脑”搜索“prsim”,并删除所有查询到的结果,除外安装包(清除许可证书)<br>3.按照安装说明重新安装<br>4.若以上操作无效，请考虑安装Prism8</li>
-</ul>
-<blockquote>
-<p>以上“清除许可证书”步骤可能存在风险，请谨慎操作,通过电脑垃圾清理工具（如ccleaner）亦可进行许可证书的清除！</p>
-</blockquote>
-<h3 id="2-4-卡顿问题"><a href="#2-4-卡顿问题" class="headerlink" title="2.4 卡顿问题"></a>2.4 卡顿问题</h3><ul>
-<li>关于Win10系统中运行卡顿的问题，请参照官方提供的<a href="https://zhuanlan.zhihu.com/p/172040807">解决办法</a></li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>本文档更新后会在医学救济内部群组通知哦！</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>医疗废物</category>
-      </categories>
-      <tags>
-        <tag>医学资源</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上传者之书</title>
     <url>/2022/04/28/%E4%B8%8A%E4%BC%A0%E8%80%85%E4%B9%8B%E4%B9%A6/</url>
     <content><![CDATA[<p>命里有时终须有，命里无时莫强求。</p>
@@ -375,7 +274,7 @@
 </ul>
 <h3 id="5-3-视频播放"><a href="#5-3-视频播放" class="headerlink" title="5.3 视频播放"></a>5.3 视频播放</h3><ul>
 <li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC">HTML5视频播放器增强脚本</a>：可在线倍速播放百度网盘视频</li>
-<li><code>扩展</code> <a href="https://github.com/polywock/globalSpeed">Global Speed: 视频速度控制</a>：~~可在线倍速播放百度网盘视频~</li>
+<li><code>扩展</code> <a href="https://github.com/polywock/globalSpeed">Global Speed: 视频速度控制</a>：<del>可在线倍速播放百度网盘视频</del></li>
 </ul>
 <h3 id="5-4-图片查看"><a href="#5-4-图片查看" class="headerlink" title="5.4 图片查看"></a>5.4 图片查看</h3><ul>
 <li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
@@ -677,6 +576,107 @@
       </categories>
       <tags>
         <tag>软件下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>医学救济站</title>
+    <url>/2022/04/28/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E%E7%AB%99/</url>
+    <content><![CDATA[<p>姑妄言之姑听之，豆棚瓜架雨如丝。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>该文挡中提供了医学生常用到的软件及课程资源</li>
+<li>在PC端打开该文档可显示目录，阅读效果更佳</li>
+</ul>
+<h2 id="关于医济"><a href="#关于医济" class="headerlink" title="关于医济"></a>关于医济</h2><blockquote>
+<p>医学救济&#x3D;1个作者+1个文档+1个群组</p>
+</blockquote>
+<ul>
+<li>1个作者：混迹互联网多年的医学生、自媒体人阿岩</li>
+<li>1个文档：随时更新各种资源的博文《医学救济站》</li>
+<li>1个群组：只面向医学生(研究生)的交流、互助群组</li>
+</ul>
+<h2 id="风险告知"><a href="#风险告知" class="headerlink" title="风险告知"></a>风险告知</h2><ul>
+<li>使用非正版软件发表论文可能存在被起诉风险，机构使用风险＞＞个人使用风险，请注意！</li>
+<li>本文档中的所有资源收集自网络，仅供学习交流之用，请在下载后24h内删除，切勿商用！</li>
+</ul>
+<h2 id="01-资源传送"><a href="#01-资源传送" class="headerlink" title="01. 资源传送"></a>01. 资源传送</h2><h4 id="1-1-医济网盘"><a href="#1-1-医济网盘" class="headerlink" title="1.1 医济网盘"></a>1.1 医济网盘</h4><ol>
+<li>网盘渠道：<a href="https://dmucd-my.sharepoint.com/:f:/g/personal/daud_dmucd_onmicrosoft_com/Er-rW-B7PWBIrGbjvrQy7H0BT9BOmlh_xmdKD18ahzCWPQ?e=xlElzg">医学救济包-OneDrive</a>、<a href="https://pan.quark.cn/s/944527b1e501">医学救济包-夸克网盘</a></li>
+</ol>
+<ul>
+<li>资源描述：医学相关专业需用的<code>软件</code>、<code>书籍</code>资源</li>
+</ul>
+<ol start="2">
+<li><p>下载帮助：直接在浏览器中下载夸克网盘文件需添加<code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/448675-%E5%A4%B8%E5%85%8B%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD">夸克网盘直链下载</a>,脚本添加<a href="https://greasyfork.org/zh-CN">官方教程</a></p>
+</li>
+<li><p>解压说明：网盘中文件均被制作为<code>exe</code>格式的自解压程序，双击运行后输入密码即可自动解压</p>
+</li>
+</ol>
+<h4 id="1-2-课程资源"><a href="#1-2-课程资源" class="headerlink" title="1.2 课程资源"></a>1.2 课程资源</h4><ol>
+<li>全套资源：<a href="https://pan.baidu.com/s/1DWyztm4UZ0n-QLpTXu_waA">医学课程-百度网盘</a></li>
+</ol>
+<ul>
+<li>资源描述：全网最全的科研全套课程（丁香园、解螺旋等）</li>
+</ul>
+<ol start="2">
+<li>文字教程：<a href="https://mengte.online/">梦特医数通-无广告</a></li>
+</ol>
+<ul>
+<li>网站描述：有SPSS、Stata、R、SAS、jamovi、Python、GraphPad、PASS等在线教程</li>
+<li>网站离线：可用<a href="https://www.httrack.com/">HTTRACK</a> 离线保存整个网站</li>
+</ul>
+<ol start="3">
+<li>备选渠道：在哔哩哔哩上有很多高质量的教程！</li>
+</ol>
+<ul>
+<li>下载备份：为防止视频被删除，可以使用<a href="client.jijidown.com/">JIJIDOWN</a> 下载到本地观看</li>
+</ul>
+<h4 id="1-3-其他资源"><a href="#1-3-其他资源" class="headerlink" title="1.3 其他资源"></a>1.3 其他资源</h4><ul>
+<li>详见博文《顶刊留名客》</li>
+</ul>
+<h2 id="02-帮助文档"><a href="#02-帮助文档" class="headerlink" title="02. 帮助文档"></a>02. 帮助文档</h2><blockquote>
+<p>该板块（问题解决）目前仅提供GraphPad Prism的安装问题解决方案。</p>
+</blockquote>
+<h3 id="2-1-版本选择"><a href="#2-1-版本选择" class="headerlink" title="2.1 版本选择"></a>2.1 版本选择</h3><ul>
+<li><p>推荐顺序：Prism8&gt;Prism9便携版&gt;Prism9安装版 </p>
+</li>
+<li><p>推荐理由：Prism8很稳定；Prism9便携版无需安装；Prism9安装版激活易失效。</p>
+</li>
+<li><p>所有安装包中都附有安装说明（readme.txt)</p>
+</li>
+</ul>
+<h3 id="2-2-解压错误"><a href="#2-2-解压错误" class="headerlink" title="2.2 解压错误"></a>2.2 解压错误</h3><blockquote>
+<p>解压过程中出现错误请尝试如下操作：</p>
+</blockquote>
+<h4 id="2-2-1-Win-OS"><a href="#2-2-1-Win-OS" class="headerlink" title="2.2.1 Win OS"></a>2.2.1 Win OS</h4><ul>
+<li>方案一：将自解压程序的后缀由<code>exe</code>改为<code>rar</code>后再次尝试</li>
+<li>方案二：安装解压软件<a href="https://www.bandisoft.com/bandizip/">Bandizip</a>后再次尝试</li>
+</ul>
+<h4 id="2-2-1-Win-OS-1"><a href="#2-2-1-Win-OS-1" class="headerlink" title="2.2.1 Win OS"></a>2.2.1 Win OS</h4><ul>
+<li>将自解压程序的后缀由<code>exe</code>改为<code>rar</code>后再次尝试</li>
+</ul>
+<blockquote>
+<p>若以上方案均无效请联系阿岩获取帮助</p>
+</blockquote>
+<h3 id="2-3-激活失效"><a href="#2-3-激活失效" class="headerlink" title="2.3 激活失效"></a>2.3 激活失效</h3><ul>
+<li>若安装Prism9后显示激活失效，请参照以下办法解决：<br>1.卸载已安装软件<br>2.在“我的电脑”搜索“prsim”,并删除所有查询到的结果,除外安装包(清除许可证书)<br>3.按照安装说明重新安装<br>4.若以上操作无效，请考虑安装Prism8</li>
+</ul>
+<blockquote>
+<p>以上“清除许可证书”步骤可能存在风险，请谨慎操作,通过电脑垃圾清理工具（如ccleaner）亦可进行许可证书的清除！</p>
+</blockquote>
+<h3 id="2-4-卡顿问题"><a href="#2-4-卡顿问题" class="headerlink" title="2.4 卡顿问题"></a>2.4 卡顿问题</h3><ul>
+<li>关于Win10系统中运行卡顿的问题，请参照官方提供的<a href="https://zhuanlan.zhihu.com/p/172040807">解决办法</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>本文档更新后会在医学救济内部群组通知哦！</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>医疗废物</category>
+      </categories>
+      <tags>
+        <tag>医学资源</tag>
       </tags>
   </entry>
   <entry>
