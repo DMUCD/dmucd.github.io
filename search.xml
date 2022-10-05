@@ -997,6 +997,19 @@
 <li><a href="https://www.storkapp.me/">Stork</a>：根据<code>检索关键词</code>定期推送相关的最新文献至邮箱中</li>
 <li><a href="https://www.ncbi.nlm.nih.gov/research/litsuggest/">LitSuggest</a>：运用先进的机器学习筛选所文献，<a href="https://academic.oup.com/nar/article/49/W1/W352/6266425?login+=+true&login=false">工作原理</a>、<a href="https://www.ncbi.nlm.nih.gov/research/litsuggest/tutorial">使用教程</a></li>
 </ul>
+<h3 id="3-6-特色检索工具"><a href="#3-6-特色检索工具" class="headerlink" title="3.6 特色检索工具"></a>3.6 特色检索工具</h3><ol>
+<li><p><a href="https://www.connectedpapers.com/">Connected Papers</a>：获得与所检索文献相关的论文<code>知识图谱</code>，追踪文献的引用和被引关系</p>
+</li>
+<li><p>PubMed第三方检索工具：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://www.geenmedical.com/">GM-根哥学术</a>：根据IF（区间）、中科院分区、被引次数对检索结果排序；显示文献IF、分区</li>
+<li><a href="https://www.pmop.cn/">银杏叶-PMOP</a>：根据IF区间筛选检索结果；显示文献IF、<del>分区(类型未知)</del></li>
+</ul>
+<ol>
+<li>按照影响因子</li>
+</ol>
 <h2 id="04-文章写作"><a href="#04-文章写作" class="headerlink" title="04. 文章写作"></a>04. 文章写作</h2><h3 id="4-1-配图制作"><a href="#4-1-配图制作" class="headerlink" title="4.1 配图制作"></a>4.1 配图制作</h3><ul>
 <li>免费医学插图素材：<a href="https://scidraw.io/">SCI Draw</a>、<a href="https://smart.servier.com/">SMART</a>、<a href="https://healthicons.org/">HealthIcons</a></li>
 <li>医学生物插图绘制：<a href="https://app.biorender.com/">Biorender-❤</a>、PPT插件“ScienceSlides”、<a href="https://www.figdraw.com/static/index.html#/">科研绘-国内</a></li>
