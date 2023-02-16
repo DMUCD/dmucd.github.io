@@ -315,7 +315,10 @@
 <li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
 <li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
 </ul>
-<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
+<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
+<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
+</blockquote>
+<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
 <li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
 <li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
 <li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
@@ -1052,7 +1055,7 @@
 <li>在医济群里礼貌求助总会有热心群众帮你<code>快速</code>找到的</li>
 </ol>
 <h3 id="1-4-找电子书"><a href="#1-4-找电子书" class="headerlink" title="1.4 找电子书"></a>1.4 找电子书</h3><h4 id="1-4-1-综合查询"><a href="#1-4-1-综合查询" class="headerlink" title="1.4.1 综合查询"></a>1.4.1 综合查询</h4><ul>
-<li>Z-Library|全世界电子资源最多的书库：<a href="https://z-lib.org/">官网-被墙</a>、<a href="https://www.zhelper.net/">镜像发布1</a>、<a href="https://www.ooopn.com/tool/zlibrary/">镜像发布2</a>、<a href="https://find.looks.wang/">镜像发布3</a>、<a href="http://pilimi.org/zlib-downloads.html">书库备份torrent</a>、<a href="https://dmucd.lanzoum.com/ieyns0gqaj4b">Zlib-APP</a>、<a href="https://www.reddit.com/r/zlibrary/comments/zx6z62">More</a></li>
+<li>Z-Library|全世界电子资源最多的书库：<a href="https://singlelogin.me/">最新官网</a>、<a href="https://www.zhelper.net/">镜像发布1</a>、<a href="https://find.looks.wang/">镜像发布2</a>、<a href="http://pilimi.org/zlib-downloads.html">书库备份</a>、<a href="https://dmucd.lanzoum.com/ieyns0gqaj4b">Zlib-APP</a>、<a href="https://www.reddit.com/r/zlibrary/comments/zx6z62">More</a></li>
 <li><a href="https://annas-archive.org/">Anna’s Archive</a>：支持对Z-Library, Library Genesis, Sci-Hub进行跨库检索</li>
 <li>Library Genesis|帮助全人类知识无版权传播：<a href="https://librarygenesis.net/">镜像发布-国外</a>、<a href="https://www.ooopn.com/tool/libgen/">镜像发布-国内</a></li>
 <li><a href="https://www.jiumodiary.com/">鸠摩搜书</a> ：国内最好用的免费搜书引擎</li>
