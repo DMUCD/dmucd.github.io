@@ -389,6 +389,7 @@
 <li><a href="https://www.httrack.com/">HTTrack Website Copier</a>：将整个网站离线到本地</li>
 <li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
 <li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
+<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
 </ul>
 <h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
 <li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
