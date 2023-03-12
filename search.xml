@@ -866,8 +866,13 @@
 </ul>
 <p><code>3. 动态壁纸：</code></p>
 <ul>
+<li>视频壁纸下载网站：<a href="https://vsthemes.org/en/">Vsthemes</a>、<a href="https://wallegend.net/en/">Wallegend</a>、<a href="https://www.wallpaperhdv.net/">Wallpaperhdv</a></li>
 <li>将视频导入免费的<a href="https://github.com/rocksdanister/lively#download">Lively Wallpaper</a>即可生成作为动态壁纸</li>
+<li>打开<a href="https://steamcommunity.com/app/431960/workshop/">Steam创意工坊</a>，查找自己喜欢的壁纸，复制链接到以下任一网址下载(无法下载&gt;1GB的壁纸）：<a href="http://steamworkshop.download/">网址一</a>、<a href="https://ggntw.com/steam">网址二</a>、<a href="https://uiuiui.in/en/workshop">网址三</a></li>
 </ul>
+<blockquote>
+<p>详细教程：<br>①将下载的zip文件解压到一个单独的文件夹中（如“wallpaper_DMUCD”）<br>②将以上整个文件夹（如“wallpaper_DMUCD”）移动到Wallpaper Engine安装目录下的“projects\myprojects”文件夹中<br>③重启Wallpaper Engine即可选择使用下载好的壁纸</p>
+</blockquote>
 <p><code>4. 摄影作品：</code></p>
 <ul>
 <li><a href="https://unsplash.com/">Unsplash-❤</a>、<a href="https://pixabay.com/">Pixabay</a>、<a href="https://skitterphoto.com/">Skitterphoto</a>、<a href="https://isorepublic.com/">ISO Republic</a>、<a href="https://pixabay.com/zh/">Pixabay</a>、<a href="https://freenaturestock.com/">Nature Stock</a>、<a href="https://www.foodiesfeed.com/">Food Photos</a>、<a href="https://www.logosc.cn/so/">搜图神器</a>、<a href="https://cc0.cn/">cc0图片网</a></li>
