@@ -356,8 +356,8 @@
 <h2 id="07-调教百度"><a href="#07-调教百度" class="headerlink" title="07. 调教百度"></a>07. 调教百度</h2><ul>
 <li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
 <li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
-<li>度盘下载加速软件：<a href="https://static-s.iqiyi.com/wnbf/get.html">爱奇艺万能联播</a>、<del><a href="https://pan.quark.cn/s/df60991f597d">数码小站</a></del></li>
-<li>度盘在线解析下载：<a href="https://pan.mchzb.com/">MCHZB</a>-基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
+<li>度盘下载加速软件：<a href="https://static-s.iqiyi.com/wnbf/get.html">爱奇艺万能联播</a></li>
+<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
 <li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a></li>
 <li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
 <li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
@@ -1020,9 +1020,7 @@
 </ol>
 <figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
 
-
-
-<h2 id="05-一些硬核技术极客论坛"><a href="#05-一些硬核技术极客论坛" class="headerlink" title="05. 一些硬核技术极客论坛"></a>05. 一些硬核技术极客论坛</h2><ul>
+<h2 id="06-一些硬核技术极客论坛"><a href="#06-一些硬核技术极客论坛" class="headerlink" title="06. 一些硬核技术极客论坛"></a>06. 一些硬核技术极客论坛</h2><ul>
 <li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a>：</li>
 <li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a>:</li>
 </ul>
