@@ -217,6 +217,230 @@
       </tags>
   </entry>
   <entry>
+    <title>上网去冲浪</title>
+    <url>/2022/06/04/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
+    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+<li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
+<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+</ul>
+<h2 id="01-搜索引擎"><a href="#01-搜索引擎" class="headerlink" title="01. 搜索引擎"></a>01. 搜索引擎</h2><h3 id="1-1-综合搜索"><a href="#1-1-综合搜索" class="headerlink" title="1.1 综合搜索"></a>1.1 综合搜索</h3><ol>
+<li><p><a href="https://www.library.ac.cn/">Mirror List</a>：发布谷歌搜索、谷歌学术、Github、维基百科等的镜像网站</p>
+</li>
+<li><p>访问Google搜索：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://谷歌.ml/">马里共和国Google搜索</a>官方站点：大陆用户可以直接访问</li>
+<li>Google搜索镜像：<a href="https://www.ooopn.com/tool/gglink/">镜像发布站</a>、<a href="http://g.luciaz.me/">浙大镜像站</a>（网站答案分别是“心灵之约、水朝夕、csxy@123”）</li>
+<li>添加 <code>扩展</code> <a href="https://igghelper.com/">iGG谷歌访问助手</a>后亦可访问</li>
+</ul>
+<ol start="3">
+<li><a href="https://yandex.com/">Yandex</a>：只有以图找图功能很好用</li>
+<li><a href="https://fsoufsou.com/">F 搜</a>：国产阉割版Goolge搜索</li>
+<li><a href="https://quark.sm.cn/">神马搜索</a>：夸克浏览器在用，搜小说还可以</li>
+</ol>
+<h3 id="1-2-网盘搜索"><a href="#1-2-网盘搜索" class="headerlink" title="1.2 网盘搜索"></a>1.2 网盘搜索</h3><blockquote>
+<p>专门搜索各大网盘资源，可能并不太好用……</p>
+</blockquote>
+<p><code>1. 聚合搜索工具：</code></p>
+<ul>
+<li><a href="https://pan.qianfan.app/">千帆搜索</a>、<a href="https://www.yunpanziyuan.com/">云盘资源网</a>、<a href="https://yiso.fun/">易搜</a>、<a href="https://www.nmme.cc/">橘子盘搜</a></li>
+<li><code>脚本</code> <a href="https://www.guapizhu.com/11576.html">我是网盘管家婆</a></li>
+<li><code>插件</code> 网盘全网搜索<a href="https://chrome.google.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*1</a>&#x2F;<a href="https://www.crxsoso.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*2</a></li>
+</ul>
+<p><code>2. 阿里网盘搜索：</code></p>
+<ul>
+<li><a href="https://www.upyunso.com/">UP云搜</a>、<a href="https://www.alipansou.com/">猫狸盘搜</a>、<a href="https://yunpan1.com/">云盘资源分享社区</a></li>
+</ul>
+<p><code>3. 百度网盘搜索：</code></p>
+<ul>
+<li>比较好用：<a href="https://www.sopandas.cn/">熊猫搜盘</a>、<a href="https://www.wuyasou.com/">乌鸦搜</a></li>
+<li>不太好使：<a href="https://www.xiongdipan.com/">兄弟盘</a>、<a href="https://www.xuebapan.com/">学霸盘</a>、<a href="https://www.45256.com/">45256搜索</a></li>
+</ul>
+<h3 id="1-3-TG-搜索"><a href="#1-3-TG-搜索" class="headerlink" title="1.3 (TG)搜索"></a>1.3 (TG)搜索</h3><ul>
+<li><a href="http://www.sssoou.com/">telegram中文搜索</a>、<a href="https://meow.tg/">TG喵</a>、<a href="https://tg.qianfan.app/">千帆FG搜索</a></li>
+</ul>
+<h3 id="1-4-其他搜索"><a href="#1-4-其他搜索" class="headerlink" title="1.4 其他搜索"></a>1.4 其他搜索</h3><ul>
+<li><a href="http://www.iplant.cn/">iPlant 植物智</a>：上传图片识别植物</li>
+<li><a href="https://thepiratebay.org/i">The Pirate Bay</a>：著名的海盗湾</li>
+<li>历史网页查询：<a href="https://archive.org/">Internet Archive</a>、<a href="https://archive.ph/">Archive Today</a></li>
+</ul>
+<h2 id="02-插件脚本"><a href="#02-插件脚本" class="headerlink" title="02. 插件脚本"></a>02. 插件脚本</h2><blockquote>
+<p>添加脚本的步骤：</p>
+</blockquote>
+<ol>
+<li>在扩展商店搜索 <code>Tampermonkey</code> 这个扩展程序并添加</li>
+<li>在脚本商店搜索并添加想要的脚本即可</li>
+</ol>
+<h3 id="2-1-脚本商店"><a href="#2-1-脚本商店" class="headerlink" title="2.1 脚本商店"></a>2.1 脚本商店</h3><ul>
+<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a>：推荐使用</li>
+<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
+<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
+<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
+</ul>
+<h3 id="2-2-扩展商店"><a href="#2-2-扩展商店" class="headerlink" title="2.2 扩展商店"></a>2.2 扩展商店</h3><ol>
+<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
+</li>
+<li><p>离线扩展下载：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
+<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
+</ul>
+<h2 id="03-奶酪专区"><a href="#03-奶酪专区" class="headerlink" title="03. 奶酪专区"></a>03. 奶酪专区</h2><blockquote>
+<p>浏览器深度开发技术达人</p>
+</blockquote>
+<ul>
+<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
+<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
+<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome-Extensions</a>：奶酪-扩展推荐</li>
+</ul>
+<h2 id="04-GH-辅助"><a href="#04-GH-辅助" class="headerlink" title="04. GH 辅助"></a>04. GH 辅助</h2><ol>
+<li><p>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速器</a>、<a href="https://steampp.net/">Steam++</a>、<a href="https://github.com/dotnetcore/FastGithub">FastGithub</a>、<a href="https://www.dogfight360.com/blog/686">Steamcommunity 302</a></p>
+</li>
+<li><p>GitHub加速代理下载站：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
+</ul>
+<ol start="3">
+<li>Github的辅助工具：</li>
+</ol>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245">Github 增强-高速下载</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
+<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
+</ul>
+<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
+<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
+</blockquote>
+<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
+<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
+<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
+<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
+<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
+<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
+<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
+</ul>
+<h3 id="5-2-权限处理"><a href="#5-2-权限处理" class="headerlink" title="5.2 权限处理"></a>5.2 权限处理</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130">文本选中复制</a>：解除复制限制</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497">网页限制解除(改)</a>：可以解除禁止复制、剪切、选择文本、右键菜单的限制</li>
+</ul>
+<h3 id="5-3-图片查看"><a href="#5-3-图片查看" class="headerlink" title="5.3 图片查看"></a>5.3 图片查看</h3><ul>
+<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
+<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
+</ul>
+<h3 id="5-4-网页翻译"><a href="#5-4-网页翻译" class="headerlink" title="5.4 网页翻译"></a>5.4 网页翻译</h3><ol>
+<li><code>扩展</code> 网页翻译：</li>
+</ol>
+<ul>
+<li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
+<li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
+<li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
+</ul>
+<h2 id="06-下载视频"><a href="#06-下载视频" class="headerlink" title="06. 下载视频"></a>06. 下载视频</h2><h3 id="6-1-综合下载"><a href="#6-1-综合下载" class="headerlink" title="6.1 综合下载"></a>6.1 综合下载</h3><ul>
+<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
+<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
+<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
+</ul>
+<h3 id="6-2-B-站下载"><a href="#6-2-B-站下载" class="headerlink" title="6.2 B 站下载"></a>6.2 B 站下载</h3><ul>
+<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
+<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
+<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
+<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
+<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
+</ul>
+<h2 id="07-调教网盘"><a href="#07-调教网盘" class="headerlink" title="07. 调教网盘"></a>07. 调教网盘</h2><blockquote>
+<p><a href="https://flowus.cn/runningcheese/share/35fc2fb2-21a6-42f8-aa21-d1b007c39423">部分内容摘自奶大分享文档 2023-05-18</a></p>
+</blockquote>
+<h3 id="7-1-百度网盘"><a href="#7-1-百度网盘" class="headerlink" title="7.1 百度网盘"></a>7.1 百度网盘</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
+<li>度盘下载加速软件：<a href="https://static-s.iqiyi.com/wnbf/get.html">爱奇艺万能联播</a></li>
+<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
+<li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a>、<a href="https://scriptcat.org/script-show-page/913">KubeDown</a></li>
+<li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
+<li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
+</ul>
+<h3 id="7-2-其他网盘"><a href="#7-2-其他网盘" class="headerlink" title="7.2 其他网盘"></a>7.2 其他网盘</h3><ul>
+<li><code>脚本</code> <a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">（改）网盘直链下载助手</a>：在网页端获取网盘文件真实下载地址，调用IDM等工具下载。支持 <code>百度阿里天翼迅雷夸克移动</code> 六大网盘</li>
+</ul>
+<h3 id="7-3-辅助工具"><a href="#7-3-辅助工具" class="headerlink" title="7.3 辅助工具"></a>7.3 辅助工具</h3><ul>
+<li>倍速播放网盘视频： <a href="https://scriptcat.org/script-show-page/340"><code>脚本</code> BD网盘视频播放器</a>、 <a href="https://greasyfork.org/zh-CN/scripts/381682"><code>脚本</code> HTML5视频播放器增强</a>、<a href="https://github.com/polywock/globalSpeed"><code>扩展</code> Global Speed</a></li>
+</ul>
+<h2 id="08-真互联网"><a href="#08-真互联网" class="headerlink" title="08. 真互联网"></a>08. 真互联网</h2><blockquote>
+<p>部分素材来源：<a href="https://mp.weixin.qq.com/s/2HuwPXlqCofHR8sGFghOQA">奔跑中的奶酪</a></p>
+</blockquote>
+<p><code>1. 去网页重定向：</code></p>
+<ul>
+<li><code>脚本</code> 自动跳转(重定向)到目标链接：<a href="https://greasyfork.org/zh-CN/scripts/412612">Open the F**king URL Right Now</a>、<a href="https://greasyfork.org/zh-CN/scripts/416338">redirect外链跳转</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/11915">Anti-redirect</a>：去除各搜索引擎&#x2F;常用网站的重定向</li>
+</ul>
+<p><code>2. 调教搜索引擎：</code></p>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/443491">百度谷歌必应链接缩短</a>：缩短搜索引擎的冗长链接</li>
+<li><code>扩展</code> <a href="https://github.com/dessant/buster">Buster</a>：谷歌机器人验证码自动验证</li>
+</ul>
+<p><code>3. 去除登陆弹窗：</code></p>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/428960">CSDN&#x2F;知乎&#x2F;哔哩哔哩&#x2F;简书免登录去除弹窗广告</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/440871">骚扰拦截</a>：自动拦截或删除<code>下载弹窗</code>、<code>悬浮按钮</code>等影响用户体验的元素</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/37988">拒绝二维码登录</a>：默认使用账号密码登录，不出现二维码登录界面</li>
+</ul>
+<p><code>4. 自动展开全文：</code></p>
+<ul>
+<li><code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/414010">阅读全文&#x2F;自动展开全文</a></li>
+</ul>
+<h2 id="09-保存网站"><a href="#09-保存网站" class="headerlink" title="09. 保存网站"></a>09. 保存网站</h2><ul>
+<li><a href="https://www.httrack.com/">HTTrack Website Copier</a>：将整个网站离线到本地</li>
+<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
+<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
+<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>DMUCD</category>
+      </categories>
+      <tags>
+        <tag>网上冲浪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>医学救济站</title>
+    <url>/2022/06/04/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E%E7%AB%99/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="be7a8e027c009c74049d66dcb119e17ebb12374e4bebf6de7f7178517e8657de">82f956f7e09bfa5d0c3c82e9768a86cb1b2cbe07148f8c36073520d5975583f710e039fd4a950af17a456461110b9dc3130bd9586a4066ef37086a2c857faf3247ce845adf0be05c3a0729e77ef7f30c71f46d53c06cde5e5c5c55c0ab578e0859cb84d1567c14ca17c6f893d0bfa2213b4be645b8298ef250db810e46fac0322c35fd8b6eeacc018e383ffa340b21f3df30e84dba1e2146c223760dfe4ab531e5cc731fbc149fae4c8c7eb7fa2c05a8dcc244963b41c1bbbc71dfea8feead815884eba556f4ddd54405a342ed157278bc9cd1192670e2fb79f39c7565e8aa6d7bbfb110b23b55e0d7bf2c333adadbd7ade108b519e00660ff52f13fa6d2d02650b08f924de90653eb223ae92eb44d80aebb65473848b404c4796c6fe633eb6ff27eb23a6eb3a81cd8477ae0a11d2dd704ad1034463e9ffba1f7411ab936b7244a0c7ce6218939881ebaf0b306707832d498d18c64d3c24e76a34a9541b7425304ea516067078fcf268171ee50ee1252a8e191f1e93c2b36b64c755bcb2fc633962ac791c7ab1e5cc29700c0f2d048aaa2fbf938302afc68e6e049d221dced25901342455df5101e278cd74e5de7fc2c20a92773a7461379703582cc5788384fff18e9d2affaa484f7bca606c947d9dfff91def06d6219d3d43a553513b7978de45a768653599f3a4ca53ef5464b4d38ca28275655dcf004ca9341ead828d64e6e06f1d2908528c009cbb6e630b4d49741b6740f20898f4aa56b5b8c9d74cc0a08eee6ac2e7217c9a4c6da4a202aea8ecc89138715bc52b3655a18a348e5bec4265333083265ee5d7a5880adf582cf3ade6405c90fdbeea5fc54efcec169cf03d1d14cf769a29807f07aa0774a322f8af91d013e0e80fc7821d7c24105ccd089f0db7bec25cd001d285d35b55fe345fb7bbc25437ea96b53c5ef6454f54235426b748b6dd7c1b02edfc98359ffb4f5df351414614be99726f0a811997c136b6e89643e1a3a9100bc84f5b6c110e86a7b21d139e6412d93cf002318d303ec1b6c5863cf88b995a0850667dec0762a57f3b15faaed00ec8dff0122acb3a09ad6dfbe3ae9f03f799773e256278e0f2da7661e008e17def8a44412148a51b3250effdada2a6cce6530653942acaa3e68ae088a90dd1f998f5cf254489329c65b243eba6b0a767466ecbcec28df3fd8441a6e8d94d2d2d3bec1aa9303933c8bdd5953faf3aeb52328b897d1c8c871d5e419ffaf5b397580d7b1d70efd4910b8105b866f605178449dbf173710c4747a1c1f35df2ff042fdad83c910871873e0e7385903a776d944164283122d99e60586723898342c0273cd84a39787fdf1dd95a516f202d7bdd3549df7a32d6601813c3629b934955e73c4e3de48f268bb1e6e5ebe2986cbb5c2905f201cb75ca337e9d41f4da0a9904c8fead249270c9d8db534e890d1928dc89f42fb76e1a45e592dc101a8ea0de5f43f0d0f7e60c685fdfc56431118c6952e0c99fca8e8e6b57a30e942913078b6abe9df68838a2785f6590a18ad5ea7247d386832d3d0b3ee507603354415ca3107ff6aa6c859c6fd2394f92db348da71001a20be6fdf17e149e913cfcdcebaf8eef2333c0e9904a258d51f2dddc191f6a6c81d8e3358f575a2dfbea5b1383d4e0d136bfbc982d2f1a59488f15855ed24634aead259bed538e7afa54263cd26812bc19f1251fb91f111624ab50a32d6cffceb3da8bac3edb2687553962c070304607f706eb89aa0ed1c3ca3da5a81b21b5348dbedc8e9a305c436306c778d409338441f83f7021a1cb37bbbe3f083f9fb6a79c5d41532b2c05da830fef154dbc146c5b4f40459361c7cd59b8eda55e7cf3b905972bc145d371409c9c8b7338191b1c903350b17905ea9082a4fdf803a6e5231f1bad5daa68152f28ca104a0d04ccca17c658a0e1537208812169a04503930348661dd489c3a3407d3838f95efb8adb9bea5ba2e479c38cfe0f5b91aab1121542e9bfdce68ab9e2fdb129ecd6a97960abdf6bb9ba2e5bf3dbd0da698b6d8ae6f49dccd98428e4ea7cf591e4f90d9f407d5cfd545b09e5eac0284332258e21b6b91da80fb0d43571d7e2421a1fb39b4c1b6551506716f1134df6d4d3395e30fa284dd93920bb5c929a6ca063ed57a1d9cc102e0200597c169f75861bb41c3a4646850c3851ce54a5b0757b3814b4a3734b91a00e88490083d364444971725d84ad12e62139bb4e7ca1fed7800c16009ac62d92ac8bd5a5a485895e6a6cd0ddc22895f8ee3cdbc74b019e0bdabd7aa1f9511bc99885c691789060cbf0d06ef7bc6a524ef75253a4b515750f07a8e9caae1842b707f15522384f96699e58d16151e47fa480566ae4892000998bd2837dd280553805fc2567bb742dd3f1ccb18aa4562aff5085497b2957db852635a71bd3d421d1c92153cd35b9f19231399ffb34b3a43de53ef6f8127fd86c54f6eee402d5fedad5a5bc60ce6fcd202523e3680d13afca349cf8df7f5a2ac73eff2ded7be9ba9c92eee39cc29a2caa03401cc062dac2e0fd1a30bceb3f4979df412e7fe67931a3005f9e7df9f159e959206c604da4c8227532374ca5d7c55f194a89f88df48dd38c944813ae51b55c16cb131e64a8d20eea62d8cdd8e99dfe7a0f50733026e961eb133381e8177d9aa21fd04aec00d31e2acd8f7e712a1f4ebd427a2a92022c81975f82891953a9b01790c1505d7fe82823d7cda6276157e93b9b4f429451a3259dc50cd8692427882fac2b8a7d0887ed50a750006663369921ef1f6dfd59d6c6e0cf24f5ac0a8c19bc05bde18e448501d7e390121b2e60ff58a616f609998f2f75b57a22eb7153ceac7527303c49296f8de1042932e31f89e8bd6787657fe4aa00adfbfa31dfac25bafa54ee0df5f024582ca0aa6fb60aefcfcab5d969ccf374ef52b52230adc23309c9d1258a3268ad5391d3de5f3906a22d5312d6f09027cc3e78228addf0c0f539f85016216ceb39347004b3c07b5734ebfa22caf8980488d08929aff35d4e6838d4351a4eb583f3c4d2efe8fe0775e81b5a78c2949746b9e96510ffa49b7118f0b3804b948b3d703d460c9f05dcf0be1b09ab98ca89f3f3568869a12b7cab45c88bd1933878973b47d29aae6fdf51315ea6ede767d6d713d3b542495a878052bc8d7cc817392c56d4ae12db00a60e14a12bbb70eaa44c64f1bd2f76819dda374e9e9890fc05a1aff65c76ba3fc8e402a39672622b046ab7904fcb49b479f933a06a56f35db0c0f9c08b48bb12a2d9357c20bd2925e5b7bcf069f7d1126e3c418cf70a77d28f1a2f2a96aac3cfd4ca8d722414ca9daad04351e013620fac033e5ef6275900fef4be13c354e7119e5afe5daa41e120ddd6d7ef8fd58097d9ed4b07ca706540cf2d9f95bfdc97bdbd9d1c5ae96ca2df2c83b36e698766bfd9e4052b50b7811f210ff9f8aecd949947f3179c5065c2be17d40492adc3c326d77b537c0d1298cead95094c93b9583a2e404b470281fa113adeff2dbec4c7ddbea8add81636bad42489baa7b44eb9c6367709c94274ba69ed0a05213554a42ece37e9dea199525f8cb99bcfba51916190ca7a68d71decabab07f3f372995f64809bcdb55b8e084722833a8af80817e0803caab98226f24f4f0c70299755b4807b3b4cca86c8ce24c164e2bec045ed4e3ae2829865d4845f0eae6cc1f941d75928fe615e471dc30b503541701bca35a5ddcb98bff263a9cf8ee43cac56ccdc8a2edc4b5ba375b5b6c6e5094b23cfe5a8d2f6740fd8f585ba9d3855f6c40ffd2ecce98b30072087dfd9ccbdf8f8302382e8b5b91e7e87a532f26e0aef44ba926c0bad312cc810ffd570fcf53925c6c082fee11d63f180f7710c96f5c9ae55695d81c0e34960ea9570c61faae656e004af271e58769a17267c93144a7889cbdfe68164d7fe13f302b4a481e612ce1bea9e793b906861db5705c8462b3b7e88124682959ea15ac5a5ea54848f18bb6a71f135c5d311515537ca8167667d8e52058c02a0a5f91b9f1433a2b0a246ef16c0f4c0213fc7b450a8d3ca4a5dca67d48320e84da10d783638f476f9118220922efe7497c1c02c8362cf1e45ce5ca9d3b54baf8b49d9cc753b60ff8870a410f3e3df093c4e2000a365797f8687c9f7cea75bfd514ba05f49d18dc6e876f62598868d57555c98834917ae3135e41d8e5d2e5971b39f25b95081522b9f3c05280af733e91bad201e13b134bd817791ced30ec9f9e255ef97f3381fa060c5b5fadfd05749afd1221232f7d437cd6fa7533ac3e033b7f0972acd27eb262b01cd435c8202677e1816bdcaf7ff260db3de2c9bca256a06d5c383900694e3668a934be815867ed42304fadf128308ba67143ff866732d9ebd5be65c46a11e4de69a94bd3e8ab966450766a33131fb688544b44d1fc330650cd1c53d91982ce62e93b91be128e92d841b2885ae58f2dfdf92f2748b562fa5a2fd0a0c6c98547be95c97d13be62256fb1fecde29e796bf1787518a7b040552334350e62df5efc9f0f5be41c54e4b9044263019aad54e495bb88e353d25c836263bafffc0665d463751a9bb691d50fb07f62b7bc823326d854e13ac01802b40677a6e8366309b181f549f48b507951ac22c4cf17706d932a09299549c5b915e6a82f9c2eefd1f9fc51745bc8dd035afc789783dbe4be033d6c5583a9902e5179d1dbf96f2898d667aa302f2eba6d4570e282632166ef40fbae986fb20982c346e45c6d1cdbdd37db8e9310aadd27fded3635e8685e8f315f3a1035f1582adf6c0455767da281856920b51351096d0ffcc2c8c0ff1fb40901e413c2bba746fb5084a37c54d15ca17bdc67d438cd9769fadef4cb3e7399e988747528abbe6ea296bc514f27579df9e12b0c2d316d6986af6408e5e949ca4240d3cd72203629e5909bf904132a87703fc8ebb5e746da30fd3c3dcc082379e4b03b579a946216322f6484c16eef25213650ca9842f0f4041b463f7f020f406ceb1ac32aac500c87a85d4608c2fb3a66e009639feb022b06e0d731d4dde9e5d222e7af5ff00a929f1d8372cf2b9c02acacdad95a1d06ae802036f5ffe1247195812ccfa86ff741ba4f041e18d92807c75bd58f2a4c32d4448a072de6607bf8788eea1534a6fa0f47e22deeaac154a4b45c1b95f37b95843c46f685929fc6beb4b5ae7cac059ae42be7ad68497db80bb2673559b6ddf6d51781f936cfab413c20fdc1b6fc95c9073a0bb931f7b34fa0ca204f9f7135d94babd1b92bc1533d5ce5610b4f247cce509672a7119aeecd0d5759060bdf7ee0996f62e96731f019df2295601ff5ec5ce1d4dc37b64fbcb9c26fce5e5de5b8bf02d6b212d423d230c558583962560285fe4753debc515d39a483fda37b6c8a6e5e0d60d4b0cfe5f9c0ddbfbc40f0035f764efb364f239b76f7512b2d99bb300e570acdc15db2e671e265b87c9a1e2a31538384c983a9be9203ea388007c2384dda62743a73a96a8e18a5bae1b8c0a305ecd68ac0c357186f6a8f5b8768fe197ecb7762dea01dae6ed967face73dea1f43177aae37b3f6defbe1b18e8a150daa162aedb10761fa4dc75f25ed4c13eb246a439a0ba098803694a9c6f72a0be206c40fea03aa48fd963e08dc9fb8ba922bdf984ef079a16891e3ee46a71f9bb77215f8f9582e5a18f5805522e61e756d18eeb49597a769b75d1a8f4a3ccd6931f4f68727864ba16cd5c763723c5ba1ddb502d983e3d85552010ccd95184020a75899996a9fd19e6e9e3c6947ff3efdaed7e6f7e53880a897013f8747bf5ad130acd7b1ffb4ecd104a318d8a8d2aade7a550093a4778c611df3498a4073f795ef823ed13436b92c84e820ba555a757c9cbed6bd779e6af468b88ad3f8e8eb3f88aebaf3218fd0221fef26bbccf02b5d6cb3bf86bdd90160e51924663d24289d974c966285f2ad5d3685ff5c6e5bdb259e1bb9840888069a9ea6f16f46f37025e81c83b405398b8346467f10d03b2576d6df225973e9f57bcd6b17d0b262f7a566c65491cc4fa2bd2cfa1f9bb9f3151823bad4901e652668bef0b4550d09cbe5a1bb586fe27d170041fbfd404234a2f97ff8afb5a3e749e3777b71c50844e8b31efcd36876cd829f781d2f2762305bdbc3051957991df5f38f02bb951d668023c81c4d85b61c63e02d5cfe14f6adc631931a4e881bd295dc688ba433c3659e65191a61489a6bb21518cc9b8ab45e3aa890ce6bcfe5cefd39b550a7432dad27eb0c835b7a52c7945729b691d8dea367df7ddd6af8991c68405a60cc811036ffae4ddd23ff950c0a664e3a01007cb36f66dd78184d3db1d8fb6403ae8d64d56174947d4637cd770a736e278d88a1709184f9c4060cdaf8adedf93bbbc20fdb7eb2f14ebbd10f77a006d594912bf162fa2f66f8c6cb63df43948447b287121a0f53e214c9e0cbd801db26761ff6245d5f3fb27991c4c35e23180617709a496ca21946f53d0714ac8d683822f3d1c7ad980bdddf9d3d70ef6837a100010d120d179036983637cfc2f409fd47ab61610176037269a3d5f6aa78b3e99fee002d5ec87593cd8369e1401ca6d723c5097394455e2d3ee281f6c1411d81aeb5be51c61b370e84f8d5d179757d6c45803c5697664a5ce3967ecde5ea71cb9b2af7f8a921faca791fa78f2d4533690dbc3ef499b11caf8738363c6b704e6dfc82118ee72f9cf920e8e9ee2a78da0016620fb14ee7663c515bf3a5be77c55d773c1c3c6ace9e7cbb1c731dbb0d47e63f8bad33f5bac3f807a564405bdf2b79cc412952f5daf747891da137a0d25069f9765b5de8eb588fe9d2f2c0326244f2e041c41afb0e7d7900d4fd4c213b65c7d67d5319193615b3a2479c389057f3264b596ca4016fe50697f1802f7c07c91060bb83fcfe5478e94f409e66c70a491cd6d04c1f58bb83aa86fd177df139f252792e50fae4990020214612d09a7ddb3cc837a6969b92ed51eb00049e7e5424ba5ddac232d09688e528ffe7abf00f01d9344c35d267fb9adc5133a74867f68fdc69be8f4703fba5c1c0994e3e2928201dc776eff7f6194d40c6644c157215aea8e7be49369e662e363d89b7b85210b7002d9b4134bbdc5a1c3101d9513c650bea8b102e03df69b4e53a4507607bbde1d22a101cd74b9ce9c5699cb646b3db9041e7d74adecb8693e74d9acf8c2d6318602c0717b0a860fc55d85146c2e8b8f6be7008a4ad2514611da1331b2959cf3eed87dc9df1b8d146fe6e7c286b0285aad625fd6b48ca756945d2b8e0ff9a0d3f5ea211f6dae305df79cd32248423eb6ed2ebcf80afaf02a02a07a3d17e8b8ecbe76e8ae273ea43e3d9f891c2eced85a9e8255e65a13b9b7e6a2f62685625cf1bdebd211fdf0770935a81553925118e33df4d07f7865cc02fd2d1442de6ba3a7b997a0aa8b018d24595c20bdbfd4a8b047297ab73a0047da05b06ab1e05a6f6e9da218cb488eb9c84971fe661b629c90afe0e92b894f9097c3b5c2620d3d2a498592663e54205280dbd9765b814581cafc6731588f2e65e0963b2c8018727519b6092fbad32deea5f35908a095b21a59b98fd37ebb2ae6cd9f07c2f7cbeb76f1208b125ec8e9bc5b6d8a8aaaf961ce62fcbc0a3b2b73efee9acd1295a337be457ad55c11a7dc74bb2d14961fbed1aa12f5b8917bc07bea8fb23c1ec4be6c02642a85223543aa85217d8b03f856a80da32e8093671e74ce95e4a6c73986eb540cf4d20edaa24969ab93b5b0c07073030ceac72ad012ac79ea17953b60f4f52424f76cd9de5fedad5c340435636f434dc4f0f8a72933953e4c71500bd8dcb8378711097c4e86abb8457304cea7f2034062183576135a25e00d5ced69fd2dc0f949dc1953142c2228874c9e8984eee9e55e029b5a4e1bca0d402546bb9a04f0</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>医疗废物</category>
+      </categories>
+      <tags>
+        <tag>医学资源</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>不会选软件</title>
     <url>/2022/06/04/%E4%B8%8D%E4%BC%9A%E9%80%89%E8%BD%AF%E4%BB%B6/</url>
     <content><![CDATA[<p>二八佳人体似酥，腰间仗剑斩愚夫。</p>
@@ -445,6 +669,7 @@
 <li><a href="https://github.com/SubtitleEdit/subtitleedit">Subtitle Editor</a>：开源视频字幕编辑软件</li>
 <li>文字转语音：<a href="http://www.51taojinge.com/include/voice/voice.php">淘金阁</a>、<a href="https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview">Microsoft Azure</a>、<a href="http://balabolka.site/cn/balabolka.htm">Balabolka</a>、<a href="https://zenvideo.qq.com/home">智影</a></li>
 <li>语音转文字：<a href="https://www.feishu.cn/product/minutes?from=thosefree.com">飞书妙记</a></li>
+<li><a href="https://github.com/Const-me/Whisper">Whisper</a>：傻瓜式提取音频字幕工具</li>
 </ul>
 <h3 id="15-6-水印处理"><a href="#15-6-水印处理" class="headerlink" title="15.6 水印处理"></a>15.6 水印处理</h3><ul>
 <li>DIKDIK Video Kit：批量去除、添加 <code>滚动</code> 水印； <code>追踪人像</code> 添加马赛克等</li>
@@ -534,10 +759,11 @@
 <h2 id="文档说明"><a href="#文档说明" class="headerlink" title="文档说明"></a>文档说明</h2><ul>
 <li>本文中收录的一些网站很容易挂掉，可以通过文章底部的渠道向作者反馈以及时更新</li>
 </ul>
-<h2 id="01-观影追剧"><a href="#01-观影追剧" class="headerlink" title="01. 观影追剧"></a>01. 观影追剧</h2><h3 id="1-1-字幕下载"><a href="#1-1-字幕下载" class="headerlink" title="1.1 字幕下载"></a>1.1 字幕下载</h3><ul>
+<h2 id="01-视觉娱乐"><a href="#01-视觉娱乐" class="headerlink" title="01. 视觉娱乐"></a>01. 视觉娱乐</h2><h3 id="1-1-字幕下载"><a href="#1-1-字幕下载" class="headerlink" title="1.1 字幕下载"></a>1.1 字幕下载</h3><ul>
 <li><a href="https://www.zimuxia.cn/">字幕侠</a>：百度、夸克、115、磁力资源</li>
 <li><a href="https://www.yysub.net/">人人影视字幕组</a>：磁力资源</li>
 <li><a href="http://zimuku.org/">字幕库</a>、<a href="https://4k-m.com/zimu/">影视字幕</a>、<a href="https://www.a4k.net/">A4k字幕网</a>、<a href="https://subhd.tv/">SubHD</a>、<a href="http://cn.zimuzimu.com/">中文字幕网</a>、<a href="https://www.rikua.com/">日夸字幕</a></li>
+<li><a href="https://www.subtitlecat.com/">SUBTITLe CAT</a>：这个里面有🔞字幕</li>
 </ul>
 <h3 id="1-2-纪录片区"><a href="#1-2-纪录片区" class="headerlink" title="1.2 纪录片区"></a>1.2 纪录片区</h3><ul>
 <li><a href="http://www.jlpcn.net/">纪录片天地</a>、<a href="http://jishi.cctv.com/">CCTV纪实</a>、<a href="https://www.bilibili.com/documentary">哔哩哔哩</a></li>
@@ -547,7 +773,7 @@
 </blockquote>
 <h3 id="1-3-搜索引擎"><a href="#1-3-搜索引擎" class="headerlink" title="1.3 搜索引擎"></a>1.3 搜索引擎</h3><p><code>1. 在线资源搜索：</code></p>
 <ul>
-<li><a href="https://www.dianyinggou.com/">电影狗</a>、<a href="http://www.cupfox.com/">茶杯狐</a>、<a href="https://www.dianyingtaotao.com/">电影淘淘</a>、<a href="https://7080.wang/index.html">7080影视搜</a>、<a href="http://www.yszy5.com/">影视资源屋</a></li>
+<li><a href="https://www.s5t.com/">搜网通</a>、<a href="https://www.dianyinggou.com/">电影狗</a>、<a href="http://www.cupfox.com/">茶杯狐</a>、<a href="https://www.dianyingtaotao.com/">电影淘淘</a>、<a href="https://7080.wang/index.html">7080影视搜</a>、<a href="http://www.yszy5.com/">影视资源屋</a></li>
 </ul>
 <p><code>2. 网盘资源搜索：</code></p>
 <ul>
@@ -566,13 +792,17 @@
 <li><a href="https://www.jpys.me/">极品影视网</a>、<a href="https://www.niumatv.cc/">牛马TV</a>、<a href="https://www.appmovie.best/">APP影院</a>、<a href="https://xmmi.xyz/">小猫咪影视</a>、<a href="https://www.mdoutv.com/">麦豆TV</a>、<a href="https://dmxq.fun/">大米星球</a>、<a href="https://www.citydy.com/">城市电影</a>、<a href="https://555dianying.cc/">555电影</a></li>
 <li><a href="https://gmtv1.xyz/">GimyTV</a>、<a href="https://www.dandanzan.cc/">蛋蛋赞影院</a>、<a href="https://www.wanmeikk.film/">完美看看</a>、<a href="http://www.zhenbuka.fun/">真不卡影院</a>、<a href="https://dogechan.com/">Doge分享</a>、<a href="https://www.nkdyw.com/">南柯电影网</a>、<a href="https://www.czspp.com/">厂长资源</a>、<a href="http://www.tvyb03.com/">TVB云播</a></li>
 </ul>
-<h3 id="1-5-动漫专区"><a href="#1-5-动漫专区" class="headerlink" title="1.5 动漫专区"></a>1.5 动漫专区</h3><p><code>1. 在线播放：</code></p>
+<h3 id="1-5-二次元区"><a href="#1-5-二次元区" class="headerlink" title="1.5 二次元区"></a>1.5 二次元区</h3><p><code>1. 在线动漫：</code></p>
 <ul>
-<li><a href="http://halihali2.com/">哈哩哈哩</a>、<a href="http://www.fengchedm.com/">风车动漫</a>、<a href="http://www.zzzfun.com/">ZzzFun</a>、<a href="https://imomoe.one/">樱花动漫</a></li>
+<li><a href="https://www.cywacg.moe/">次元W</a>、<a href="http://halihali2.com/">哈哩哈哩</a>、<a href="http://www.fengchedm.com/">风车动漫</a>、<a href="http://www.zzzfun.com/">ZzzFun</a>、<a href="https://imomoe.one/">樱花动漫</a></li>
 </ul>
-<p><code>2. 磁力种子：</code></p>
+<p><code>2. 动漫磁力：</code></p>
 <ul>
 <li><a href="http://share.dmhy.org/">動漫花園</a>、<a href="https://nyaa.si/">Nyaa</a>、<a href="https://bangumi.moe/">萌番组</a>、<a href="https://acg.rip/">ACG.RIP</a>、<a href="https://dmly.me/">动漫领域</a>、<a href="https://mikanani.me/">蜜柑计划</a>、<a href="http://www.hysub.net/">幻樱字幕组</a></li>
+</ul>
+<p><code>3. 在线漫画</code></p>
+<ul>
+<li><a href="http://picacgm.com/">哔咔漫画</a>、<a href="http://www.qiman59.com/">奇漫屋</a>、<a href="https://manhua.dmzj.com/">动漫之家</a>、<a href="https://www.1kkk.com/">漫画人</a>、<a href="https://www.manhuadb.com/#">日漫大全</a></li>
 </ul>
 <h3 id="1-6-欧美日韩"><a href="#1-6-欧美日韩" class="headerlink" title="1.6 欧美日韩"></a>1.6 欧美日韩</h3><blockquote>
 <p>本文档中的绝大多数影视网站都有你想看的欧美日韩剧</p>
@@ -597,7 +827,7 @@
 <li><a href="https://yyds.fans/">YYDSfans</a>、<a href="https://yydshd.com/index">YYDSHD</a>、<a href="https://www.rrdynb.com/index.html">人人电影网</a>、<a href="https://unnn.fun/">皮皮虾资源</a></li>
 </ul>
 <h3 id="1-8-磁力资源"><a href="#1-8-磁力资源" class="headerlink" title="1.8 磁力资源"></a>1.8 磁力资源</h3><blockquote>
-<p>可以将磁力直接转存到迅雷云盘观看</p>
+<p>可以将磁力直接转存到迅雷云盘、PikPak、<a href="https://www.diancigaoshou.com/">电磁高手</a>观看</p>
 </blockquote>
 <p><code>1. 高清画质：</code></p>
 <ul>
@@ -744,11 +974,11 @@
 <p><code>1. 资源空间：</code></p>
 <ul>
 <li>某储物间：<a href="https://www.xiaoshuai.link/locker">小帅同学的储物间</a>、<a href="https://axutongxue.com/">阿虚同学的储物间</a></li>
-<li>永硕E盘：<a href="http://chendandan.ysepan.com/">陈蛋蛋的宝藏库</a>、<a href="http://yuzhuyi.ysepan.com/">羽享平台</a></li>
+<li>永硕E盘：<a href="http://chendandan.ysepan.com/">陈蛋蛋的宝藏库</a>、<a href="http://yuzhuyi.ysepan.com/">羽享平台</a>、<a href="http://baozangku.ysepan.com/">哆啦A梦的神奇口袋</a></li>
 </ul>
 <p><code>2. 导航网站：</code></p>
 <ul>
-<li><a href="https://www.sousuopu.com/">搜索铺</a>、<a href="https://wanyouw.com/">万有导航</a>、<a href="https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/fodkuzz5eaw0w">Noise导航</a>、<a href="https://www.jizhihezi.com/">集知盒子</a>、<a href="http://ilxdh.com/">龙轩导航</a>、<a href="https://xydh.fun/gmengshuai">小帅同学导航</a>、<a href="https://rjawei.vip/">阿威导航</a></li>
+<li><a href="https://www.sousuopu.com/">搜索铺</a>、<a href="https://wanyouw.com/">万有导航</a>、<a href="https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/fodkuzz5eaw0w">Noise导航</a>、<a href="https://www.jizhihezi.com/">集知盒子</a>、<a href="http://ilxdh.com/">龙轩导航</a>、<a href="https://xydh.fun/gmengshuai">小帅同学导航</a>、<a href="https://rjawei.vip/">阿威导航</a>、<a href="www.jayhome.cc">Jay仓库</a></li>
 </ul>
 <h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
 <li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
@@ -762,195 +992,90 @@
       </tags>
   </entry>
   <entry>
-    <title>上网去冲浪</title>
-    <url>/2022/06/04/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
-    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+    <title>看不懂教程</title>
+    <url>/2022/06/04/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
 <span id="more"></span>
 
 
 <h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+<li>本文中记录了一些阿岩看过的教程及极客论坛</li>
 <li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
 </ul>
 <h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
-<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+<li>某些教程内容或已失效，建议去Google最新教程</li>
+<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
 </ul>
-<h2 id="01-搜索引擎"><a href="#01-搜索引擎" class="headerlink" title="01. 搜索引擎"></a>01. 搜索引擎</h2><h3 id="1-1-综合搜索"><a href="#1-1-综合搜索" class="headerlink" title="1.1 综合搜索"></a>1.1 综合搜索</h3><ol>
-<li><p><a href="https://www.library.ac.cn/">Mirror List</a>：发布谷歌搜索、谷歌学术、Github、维基百科等的镜像网站</p>
-</li>
-<li><p>访问Google搜索：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://谷歌.ml/">马里共和国Google搜索</a>官方站点：大陆用户可以直接访问</li>
-<li>Google搜索镜像：<a href="https://www.ooopn.com/tool/gglink/">镜像发布站</a>、<a href="http://g.luciaz.me/">浙大镜像站</a>（网站答案分别是“心灵之约、水朝夕、csxy@123”）</li>
-<li>添加 <code>扩展</code> <a href="https://igghelper.com/">iGG谷歌访问助手</a>后亦可访问</li>
+<h2 id="01-Microsoft-365-A1账号申请"><a href="#01-Microsoft-365-A1账号申请" class="headerlink" title="01. Microsoft 365 A1账号申请"></a>01. Microsoft 365 A1账号申请</h2><ul>
+<li><code>警告：</code> 微软于 <code>2022/10/20</code> 对伪官方教育机构的A1账号进行了大规模封禁，即使现在还有个别没被封禁的，也快了，谨防上当受骗</li>
+<li>拥有学校配发的教育邮箱的用户可以直接前往<a href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>填写信息申请A1子账号</li>
 </ul>
-<ol start="3">
-<li><a href="https://yandex.com/">Yandex</a>：只有以图找图功能很好用</li>
-<li><a href="https://fsoufsou.com/">F 搜</a>：国产阉割版Goolge搜索</li>
-<li><a href="https://quark.sm.cn/">神马搜索</a>：夸克浏览器在用，搜小说还可以</li>
-</ol>
-<h3 id="1-2-网盘搜索"><a href="#1-2-网盘搜索" class="headerlink" title="1.2 网盘搜索"></a>1.2 网盘搜索</h3><blockquote>
-<p>专门搜索各大网盘资源，可能并不太好用……</p>
+<h2 id="02-Microsoft-365-E5账号申请"><a href="#02-Microsoft-365-E5账号申请" class="headerlink" title="02. Microsoft 365 E5账号申请"></a>02. Microsoft 365 E5账号申请</h2><h3 id="2-1-必看注意事项"><a href="#2-1-必看注意事项" class="headerlink" title="2.1 必看注意事项"></a>2.1 必看注意事项</h3><ul>
+<li>申请E5账号时可能需要使用魔法</li>
+<li>能否成功续期E5账号是概率问题</li>
+<li>通过Action续期时小心Github被封</li>
+</ul>
+<blockquote>
+<p>为防E5账号被封，最好不要给别人开子号；重要数据不要存在OneDrive里</p>
 </blockquote>
-<p><code>1. 聚合搜索工具：</code></p>
+<h3 id="2-2-推荐参考教程"><a href="#2-2-推荐参考教程" class="headerlink" title="2.2 推荐参考教程"></a>2.2 推荐参考教程</h3><ul>
+<li><p><a href="https://www.maxiaobang.com/9794.html">MS 365 E5 申请与续期</a> <code>马小帮-2022/2</code></p>
+</li>
+<li><p><a href="https://zblogs.top/how-to-join-in-microsoft-365-e5-developer-plan/">MS 365 E5 申请与续期</a> <code>Justin-2022/3</code></p>
+</li>
+<li><p><a href="https://www.godseven.com/archives/30.html">MS 365 E5 申请与续期</a> <code>神七地-2022/5</code></p>
+</li>
+<li><p><a href="https://logi.im/script/permanently-keeping-an-office-e5-account.html">MS 365 E5申请与续期</a> <code>LOGI-2020/7</code></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">MS 365 E5 申请与续期</a> 、<a href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a> <code>HEU-2022/1</code></p>
+</li>
+<li><p>Microsoft 365 E5 Renew Plus：微软E5开发者订阅续订软件<a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502"><code>博客</code></a>、<a href="https://e5renew.com/"><code>官网</code></a></p>
+</li>
+<li><p><code>警告：</code> 微软于<code>2023/4/4</code>对使用了<a href="https://qyi.io/archives/687.html">浅忆-qyi</a>自动订阅程序的E5账号进行了“强制”过期</p>
+</li>
+<li><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a></p>
+</li>
+<li><p>直达链接：<a href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
+</li>
+</ul>
+<h2 id="03-Hexo-Github-搭建博客"><a href="#03-Hexo-Github-搭建博客" class="headerlink" title="03. Hexo+Github 搭建博客"></a>03. Hexo+Github 搭建博客</h2><h3 id="3-1-博客搭建教程"><a href="#3-1-博客搭建教程" class="headerlink" title="3.1 博客搭建教程"></a>3.1 博客搭建教程</h3><ul>
+<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">Hexo生成博客并发布到Gitee</a>：讲解详细全面，非常适合小白 <code>安靖-2021/4</code></li>
+<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">Hexo搭建博客并发布到Github</a> <code>LieGuのBlog-2022/10</code></li>
+<li><a href="https://hexo.io/zh-cn/docs/github-pages">将Hexo部署到GitHub Pages</a> <code>Hexo官方</code></li>
+</ul>
+<h3 id="3-2-博客美化教程"><a href="#3-2-博客美化教程" class="headerlink" title="3.2 博客美化教程"></a>3.2 博客美化教程</h3><ul>
+<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">Hexo博客-Next主题美化</a> <code>vic.kim-2019/5</code></li>
+<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">Hexo的Next主题详细配置</a> <code>younger-2017/12</code></li>
+<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
+</ul>
+<h3 id="3-3-博客迁移教程"><a href="#3-3-博客迁移教程" class="headerlink" title="3.3 博客迁移教程"></a>3.3 博客迁移教程</h3><ul>
+<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">换电脑后进行hexo博客的迁移</a> <code>LolitaAnn-2021/06</code></li>
+</ul>
+<h2 id="04-OpenAI-ChatGPT-使用"><a href="#04-OpenAI-ChatGPT-使用" class="headerlink" title="04. OpenAI ChatGPT 使用"></a>04. OpenAI ChatGPT 使用</h2><blockquote>
+<p>Accesss Denied：切换代理，刷新页面！</p>
+</blockquote>
 <ul>
-<li><a href="https://pan.qianfan.app/">千帆搜索</a>、<a href="https://www.yunpanziyuan.com/">云盘资源网</a>、<a href="https://yiso.fun/">易搜</a>、<a href="https://www.nmme.cc/">橘子盘搜</a></li>
-<li><code>脚本</code> <a href="https://www.guapizhu.com/11576.html">我是网盘管家婆</a></li>
-<li><code>插件</code> 网盘全网搜索<a href="https://chrome.google.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*1</a>&#x2F;<a href="https://www.crxsoso.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*2</a></li>
+<li><a href="https://sms-activate.org/cn/info/ChatGPT">中国区注册ChatGPT完全指南</a> <code>SMS-Activate-2022/12</code></li>
+<li><a href="https://mailberry.com.cn/2023/02/chatgpt-access-denied-error-code-1020/">解决Access denied问题</a> <code>邮莓-2023/02</code></li>
+<li><a href="https://github.com/lencx/ChatGPT">ChatGPT Desktop Application (Mac, Windows and Linux) </a></li>
+<li>更多内容见奶大在Github的介绍：<a href="https://github.com/runningcheese/Awesome-ChatGPT">Awesome-ChatGPT</a></li>
 </ul>
-<p><code>2. 阿里网盘搜索：</code></p>
-<ul>
-<li><a href="https://www.upyunso.com/">UP云搜</a>、<a href="https://www.alipansou.com/">猫狸盘搜</a>、<a href="https://yunpan1.com/">云盘资源分享社区</a></li>
-</ul>
-<p><code>3. 百度网盘搜索：</code></p>
-<ul>
-<li>比较好用：<a href="https://www.sopandas.cn/">熊猫搜盘</a>、<a href="https://www.wuyasou.com/">乌鸦搜</a></li>
-<li>不太好使：<a href="https://www.xiongdipan.com/">兄弟盘</a>、<a href="https://www.xuebapan.com/">学霸盘</a>、<a href="https://www.45256.com/">45256搜索</a></li>
-</ul>
-<h3 id="1-3-TG-搜索"><a href="#1-3-TG-搜索" class="headerlink" title="1.3 (TG)搜索"></a>1.3 (TG)搜索</h3><ul>
-<li><a href="http://www.sssoou.com/">telegram中文搜索</a>、<a href="https://meow.tg/">TG喵</a>、<a href="https://tg.qianfan.app/">千帆FG搜索</a></li>
-</ul>
-<h3 id="1-4-其他搜索"><a href="#1-4-其他搜索" class="headerlink" title="1.4 其他搜索"></a>1.4 其他搜索</h3><ul>
-<li><a href="http://www.iplant.cn/">iPlant 植物智</a>：上传图片识别植物</li>
-<li><a href="https://thepiratebay.org/i">The Pirate Bay</a>：著名的海盗湾</li>
-<li>历史网页查询：<a href="https://archive.org/">Internet Archive</a>、<a href="https://archive.ph/">Archive Today</a></li>
-</ul>
-<h2 id="02-插件脚本"><a href="#02-插件脚本" class="headerlink" title="02. 插件脚本"></a>02. 插件脚本</h2><blockquote>
-<p>添加脚本的步骤：</p>
+<h2 id="05-实用资源搜索技巧记录"><a href="#05-实用资源搜索技巧记录" class="headerlink" title="05. 实用资源搜索技巧记录"></a>05. 实用资源搜索技巧记录</h2><blockquote>
+<p>搜索引擎推荐顺序：<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a href="https://www.google.com/">Google</a> &gt; <a href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
 </blockquote>
 <ol>
-<li>在扩展商店搜索 <code>Tampermonkey</code> 这个扩展程序并添加</li>
-<li>在脚本商店搜索并添加想要的脚本即可</li>
+<li>检索网盘分享资源：「资源名称+空格+“提取码”」，如「疾速追杀 提取码」</li>
+<li>检索磁力链接资源：「资源名称+空格+“magnet”」，如「疾速追杀 magnet」</li>
+<li>搜索特定网站内容：「资源名称+空格+(site:网站链接)」，如「Elden Ring (site:rutracker.org)」</li>
+<li>精确检索完整匹配：「intext:”需精确匹配文字”」，如「intext:”Based on OpenAI API (gpt-3.5-turbo)”」</li>
+<li>使用书签跨站检索：新建一个书签，将网址改为以下内容（需删除“站点1&#x2F;2网址”）</li>
 </ol>
-<h3 id="2-1-脚本商店"><a href="#2-1-脚本商店" class="headerlink" title="2.1 脚本商店"></a>2.1 脚本商店</h3><ul>
-<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a>：推荐使用</li>
-<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
-<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
-<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
-</ul>
-<h3 id="2-2-扩展商店"><a href="#2-2-扩展商店" class="headerlink" title="2.2 扩展商店"></a>2.2 扩展商店</h3><ol>
-<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
-</li>
-<li><p>离线扩展下载：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
-<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
-</ul>
-<h2 id="03-奶酪专区"><a href="#03-奶酪专区" class="headerlink" title="03. 奶酪专区"></a>03. 奶酪专区</h2><blockquote>
-<p>浏览器深度开发技术达人</p>
-</blockquote>
-<ul>
-<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
-<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
-<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome-Extensions</a>：奶酪-扩展推荐</li>
-</ul>
-<h2 id="04-GH-辅助"><a href="#04-GH-辅助" class="headerlink" title="04. GH 辅助"></a>04. GH 辅助</h2><ol>
-<li><p>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速器</a>、<a href="https://steampp.net/">Steam++</a>、<a href="https://github.com/dotnetcore/FastGithub">FastGithub</a>、<a href="https://www.dogfight360.com/blog/686">Steamcommunity 302</a></p>
-</li>
-<li><p>GitHub加速代理下载站：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
-</ul>
-<ol start="3">
-<li>Github的辅助工具：</li>
-</ol>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245">Github 增强-高速下载</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
-<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
-</ul>
-<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
-<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
-</blockquote>
-<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
-<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
-<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
-<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
-<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
-<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
-<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
-</ul>
-<h3 id="5-2-权限处理"><a href="#5-2-权限处理" class="headerlink" title="5.2 权限处理"></a>5.2 权限处理</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130">文本选中复制</a>：解除复制限制</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497">网页限制解除(改)</a>：可以解除禁止复制、剪切、选择文本、右键菜单的限制</li>
-</ul>
-<h3 id="5-3-图片查看"><a href="#5-3-图片查看" class="headerlink" title="5.3 图片查看"></a>5.3 图片查看</h3><ul>
-<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
-<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
-</ul>
-<h3 id="5-4-网页翻译"><a href="#5-4-网页翻译" class="headerlink" title="5.4 网页翻译"></a>5.4 网页翻译</h3><ol>
-<li><code>扩展</code> 网页翻译：</li>
-</ol>
-<ul>
-<li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
-<li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
-<li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
-</ul>
-<h2 id="06-下载视频"><a href="#06-下载视频" class="headerlink" title="06. 下载视频"></a>06. 下载视频</h2><h3 id="6-1-综合下载"><a href="#6-1-综合下载" class="headerlink" title="6.1 综合下载"></a>6.1 综合下载</h3><ul>
-<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
-<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
-<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
-</ul>
-<h3 id="6-2-B-站下载"><a href="#6-2-B-站下载" class="headerlink" title="6.2 B 站下载"></a>6.2 B 站下载</h3><ul>
-<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
-<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
-<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
-<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
-<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
-</ul>
-<h2 id="07-调教网盘"><a href="#07-调教网盘" class="headerlink" title="07. 调教网盘"></a>07. 调教网盘</h2><blockquote>
-<p><a href="https://flowus.cn/runningcheese/share/35fc2fb2-21a6-42f8-aa21-d1b007c39423">部分内容摘自奶大分享文档 2023-05-18</a></p>
-</blockquote>
-<h3 id="7-1-百度网盘"><a href="#7-1-百度网盘" class="headerlink" title="7.1 百度网盘"></a>7.1 百度网盘</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
-<li>度盘下载加速软件：<a href="https://static-s.iqiyi.com/wnbf/get.html">爱奇艺万能联播</a></li>
-<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
-<li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a>、<a href="https://scriptcat.org/script-show-page/913">KubeDown</a></li>
-<li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
-<li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
-</ul>
-<h3 id="7-2-其他网盘"><a href="#7-2-其他网盘" class="headerlink" title="7.2 其他网盘"></a>7.2 其他网盘</h3><ul>
-<li><code>脚本</code> <a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">（改）网盘直链下载助手</a>：在网页端获取网盘文件真实下载地址，调用IDM等工具下载。支持 <code>百度阿里天翼迅雷夸克移动</code> 六大网盘</li>
-</ul>
-<h3 id="7-3-辅助工具"><a href="#7-3-辅助工具" class="headerlink" title="7.3 辅助工具"></a>7.3 辅助工具</h3><ul>
-<li>倍速播放网盘视频： <a href="https://scriptcat.org/script-show-page/340"><code>脚本</code> BD网盘视频播放器</a>、 <a href="https://greasyfork.org/zh-CN/scripts/381682"><code>脚本</code> HTML5视频播放器增强</a>、<a href="https://github.com/polywock/globalSpeed"><code>扩展</code> Global Speed</a></li>
-</ul>
-<h2 id="08-真互联网"><a href="#08-真互联网" class="headerlink" title="08. 真互联网"></a>08. 真互联网</h2><blockquote>
-<p>部分素材来源：<a href="https://mp.weixin.qq.com/s/2HuwPXlqCofHR8sGFghOQA">奔跑中的奶酪</a></p>
-</blockquote>
-<p><code>1. 去网页重定向：</code></p>
-<ul>
-<li><code>脚本</code> 自动跳转(重定向)到目标链接：<a href="https://greasyfork.org/zh-CN/scripts/412612">Open the F**king URL Right Now</a>、<a href="https://greasyfork.org/zh-CN/scripts/416338">redirect外链跳转</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/11915">Anti-redirect</a>：去除各搜索引擎&#x2F;常用网站的重定向</li>
-</ul>
-<p><code>2. 调教搜索引擎：</code></p>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/443491">百度谷歌必应链接缩短</a>：缩短搜索引擎的冗长链接</li>
-<li><code>扩展</code> <a href="https://github.com/dessant/buster">Buster</a>：谷歌机器人验证码自动验证</li>
-</ul>
-<p><code>3. 去除登陆弹窗：</code></p>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/428960">CSDN&#x2F;知乎&#x2F;哔哩哔哩&#x2F;简书免登录去除弹窗广告</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/440871">骚扰拦截</a>：自动拦截或删除<code>下载弹窗</code>、<code>悬浮按钮</code>等影响用户体验的元素</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/37988">拒绝二维码登录</a>：默认使用账号密码登录，不出现二维码登录界面</li>
-</ul>
-<p><code>4. 自动展开全文：</code></p>
-<ul>
-<li><code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/414010">阅读全文&#x2F;自动展开全文</a></li>
-</ul>
-<h2 id="09-保存网站"><a href="#09-保存网站" class="headerlink" title="09. 保存网站"></a>09. 保存网站</h2><ul>
-<li><a href="https://www.httrack.com/">HTTrack Website Copier</a>：将整个网站离线到本地</li>
-<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
-<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
-<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
+<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="06-一些硬核技术极客论坛"><a href="#06-一些硬核技术极客论坛" class="headerlink" title="06. 一些硬核技术极客论坛"></a>06. 一些硬核技术极客论坛</h2><ul>
+<li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a>：</li>
+<li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a>:</li>
 </ul>
 <h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
 <li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
@@ -960,29 +1085,7 @@
         <category>DMUCD</category>
       </categories>
       <tags>
-        <tag>网上冲浪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>医学救济站</title>
-    <url>/2022/06/04/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E%E7%AB%99/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="be7a8e027c009c74049d66dcb119e17ebb12374e4bebf6de7f7178517e8657de">82f956f7e09bfa5d0c3c82e9768a86cb1b2cbe07148f8c36073520d5975583f710e039fd4a950af17a456461110b9dc3130bd9586a4066ef37086a2c857faf3247ce845adf0be05c3a0729e77ef7f30c71f46d53c06cde5e5c5c55c0ab578e0859cb84d1567c14ca17c6f893d0bfa2213b4be645b8298ef250db810e46fac0322c35fd8b6eeacc018e383ffa340b21f3df30e84dba1e2146c223760dfe4ab531e5cc731fbc149fae4c8c7eb7fa2c05a8dcc244963b41c1bbbc71dfea8feead815884eba556f4ddd54405a342ed157278bc9cd1192670e2fb79f39c7565e8aa6d7bbfb110b23b55e0d7bf2c333adadbd7ade108b519e00660ff52f13fa6d2d02650b08f924de90653eb223ae92eb44d80aebb65473848b404c4796c6fe633eb6ff27eb23a6eb3a81cd8477ae0a11d2dd704ad1034463e9ffba1f7411ab936b7244a0c7ce6218939881ebaf0b306707832d498d18c64d3c24e76a34a9541b7425304ea516067078fcf268171ee50ee1252a8e191f1e93c2b36b64c755bcb2fc633962ac791c7ab1e5cc29700c0f2d048aaa2fbf938302afc68e6e049d221dced25901342455df5101e278cd74e5de7fc2c20a92773a7461379703582cc5788384fff18e9d2affaa484f7bca606c947d9dfff91def06d6219d3d43a553513b7978de45a768653599f3a4ca53ef5464b4d38ca28275655dcf004ca9341ead828d64e6e06f1d2908528c009cbb6e630b4d49741b6740f20898f4aa56b5b8c9d74cc0a08eee6ac2e7217c9a4c6da4a202aea8ecc89138715bc52b3655a18a348e5bec4265333083265ee5d7a5880adf582cf3ade6405c90fdbeea5fc54efcec169cf03d1d14cf769a29807f07aa0774a322f8af91d013e0e80fc7821d7c24105ccd089f0db7bec25cd001d285d35b55fe345fb7bbc25437ea96b53c5ef6454f54235426b748b6dd7c1b02edfc98359ffb4f5df351414614be99726f0a811997c136b6e89643e1a3a9100bc84f5b6c110e86a7b21d139e6412d93cf002318d303ec1b6c5863cf88b995a0850667dec0762a57f3b15faaed00ec8dff0122acb3a09ad6dfbe3ae9f03f799773e256278e0f2da7661e008e17def8a44412148a51b3250effdada2a6cce6530653942acaa3e68ae088a90dd1f998f5cf254489329c65b243eba6b0a767466ecbcec28df3fd8441a6e8d94d2d2d3bec1aa9303933c8bdd5953faf3aeb52328b897d1c8c871d5e419ffaf5b397580d7b1d70efd4910b8105b866f605178449dbf173710c4747a1c1f35df2ff042fdad83c910871873e0e7385903a776d944164283122d99e60586723898342c0273cd84a39787fdf1dd95a516f202d7bdd3549df7a32d6601813c3629b934955e73c4e3de48f268bb1e6e5ebe2986cbb5c2905f201cb75ca337e9d41f4da0a9904c8fead249270c9d8db534e890d1928dc89f42fb76e1a45e592dc101a8ea0de5f43f0d0f7e60c685fdfc56431118c6952e0c99fca8e8e6b57a30e942913078b6abe9df68838a2785f6590a18ad5ea7247d386832d3d0b3ee507603354415ca3107ff6aa6c859c6fd2394f92db348da71001a20be6fdf17e149e913cfcdcebaf8eef2333c0e9904a258d51f2dddc191f6a6c81d8e3358f575a2dfbea5b1383d4e0d136bfbc982d2f1a59488f15855ed24634aead259bed538e7afa54263cd26812bc19f1251fb91f111624ab50a32d6cffceb3da8bac3edb2687553962c070304607f706eb89aa0ed1c3ca3da5a81b21b5348dbedc8e9a305c436306c778d409338441f83f7021a1cb37bbbe3f083f9fb6a79c5d41532b2c05da830fef154dbc146c5b4f40459361c7cd59b8eda55e7cf3b905972bc145d371409c9c8b7338191b1c903350b17905ea9082a4fdf803a6e5231f1bad5daa68152f28ca104a0d04ccca17c658a0e1537208812169a04503930348661dd489c3a3407d3838f95efb8adb9bea5ba2e479c38cfe0f5b91aab1121542e9bfdce68ab9e2fdb129ecd6a97960abdf6bb9ba2e5bf3dbd0da698b6d8ae6f49dccd98428e4ea7cf591e4f90d9f407d5cfd545b09e5eac0284332258e21b6b91da80fb0d43571d7e2421a1fb39b4c1b6551506716f1134df6d4d3395e30fa284dd93920bb5c929a6ca063ed57a1d9cc102e0200597c169f75861bb41c3a4646850c3851ce54a5b0757b3814b4a3734b91a00e88490083d364444971725d84ad12e62139bb4e7ca1fed7800c16009ac62d92ac8bd5a5a485895e6a6cd0ddc22895f8ee3cdbc74b019e0bdabd7aa1f9511bc99885c691789060cbf0d06ef7bc6a524ef75253a4b515750f07a8e9caae1842b707f15522384f96699e58d16151e47fa480566ae4892000998bd2837dd280553805fc2567bb742dd3f1ccb18aa4562aff5085497b2957db852635a71bd3d421d1c92153cd35b9f19231399ffb34b3a43de53ef6f8127fd86c54f6eee402d5fedad5a5bc60ce6fcd202523e3680d13afca349cf8df7f5a2ac73eff2ded7be9ba9c92eee39cc29a2caa03401cc062dac2e0fd1a30bceb3f4979df412e7fe67931a3005f9e7df9f159e959206c604da4c8227532374ca5d7c55f194a89f88df48dd38c944813ae51b55c16cb131e64a8d20eea62d8cdd8e99dfe7a0f50733026e961eb133381e8177d9aa21fd04aec00d31e2acd8f7e712a1f4ebd427a2a92022c81975f82891953a9b01790c1505d7fe82823d7cda6276157e93b9b4f429451a3259dc50cd8692427882fac2b8a7d0887ed50a750006663369921ef1f6dfd59d6c6e0cf24f5ac0a8c19bc05bde18e448501d7e390121b2e60ff58a616f609998f2f75b57a22eb7153ceac7527303c49296f8de1042932e31f89e8bd6787657fe4aa00adfbfa31dfac25bafa54ee0df5f024582ca0aa6fb60aefcfcab5d969ccf374ef52b52230adc23309c9d1258a3268ad5391d3de5f3906a22d5312d6f09027cc3e78228addf0c0f539f85016216ceb39347004b3c07b5734ebfa22caf8980488d08929aff35d4e6838d4351a4eb583f3c4d2efe8fe0775e81b5a78c2949746b9e96510ffa49b7118f0b3804b948b3d703d460c9f05dcf0be1b09ab98ca89f3f3568869a12b7cab45c88bd1933878973b47d29aae6fdf51315ea6ede767d6d713d3b542495a878052bc8d7cc817392c56d4ae12db00a60e14a12bbb70eaa44c64f1bd2f76819dda374e9e9890fc05a1aff65c76ba3fc8e402a39672622b046ab7904fcb49b479f933a06a56f35db0c0f9c08b48bb12a2d9357c20bd2925e5b7bcf069f7d1126e3c418cf70a77d28f1a2f2a96aac3cfd4ca8d722414ca9daad04351e013620fac033e5ef6275900fef4be13c354e7119e5afe5daa41e120ddd6d7ef8fd58097d9ed4b07ca706540cf2d9f95bfdc97bdbd9d1c5ae96ca2df2c83b36e698766bfd9e4052b50b7811f210ff9f8aecd949947f3179c5065c2be17d40492adc3c326d77b537c0d1298cead95094c93b9583a2e404b470281fa113adeff2dbec4c7ddbea8add81636bad42489baa7b44eb9c6367709c94274ba69ed0a05213554a42ece37e9dea199525f8cb99bcfba51916190ca7a68d71decabab07f3f372995f64809bcdb55b8e084722833a8af80817e0803caab98226f24f4f0c70299755b4807b3b4cca86c8ce24c164e2bec045ed4e3ae2829865d4845f0eae6cc1f941d75928fe615e471dc30b503541701bca35a5ddcb98bff263a9cf8ee43cac56ccdc8a2edc4b5ba375b5b6c6e5094b23cfe5a8d2f6740fd8f585ba9d3855f6c40ffd2ecce98b30072087dfd9ccbdf8f8302382e8b5b91e7e87a532f26e0aef44ba926c0bad312cc810ffd570fcf53925c6c082fee11d63f180f7710c96f5c9ae55695d81c0e34960ea9570c61faae656e004af271e58769a17267c93144a7889cbdfe68164d7fe13f302b4a481e612ce1bea9e793b906861db5705c8462b3b7e88124682959ea15ac5a5ea54848f18bb6a71f135c5d311515537ca8167667d8e52058c02a0a5f91b9f1433a2b0a246ef16c0f4c0213fc7b450a8d3ca4a5dca67d48320e84da10d783638f476f9118220922efe7497c1c02c8362cf1e45ce5ca9d3b54baf8b49d9cc753b60ff8870a410f3e3df093c4e2000a365797f8687c9f7cea75bfd514ba05f49d18dc6e876f62598868d57555c98834917ae3135e41d8e5d2e5971b39f25b95081522b9f3c05280af733e91bad201e13b134bd817791ced30ec9f9e255ef97f3381fa060c5b5fadfd05749afd1221232f7d437cd6fa7533ac3e033b7f0972acd27eb262b01cd435c8202677e1816bdcaf7ff260db3de2c9bca256a06d5c383900694e3668a934be815867ed42304fadf128308ba67143ff866732d9ebd5be65c46a11e4de69a94bd3e8ab966450766a33131fb688544b44d1fc330650cd1c53d91982ce62e93b91be128e92d841b2885ae58f2dfdf92f2748b562fa5a2fd0a0c6c98547be95c97d13be62256fb1fecde29e796bf1787518a7b040552334350e62df5efc9f0f5be41c54e4b9044263019aad54e495bb88e353d25c836263bafffc0665d463751a9bb691d50fb07f62b7bc823326d854e13ac01802b40677a6e8366309b181f549f48b507951ac22c4cf17706d932a09299549c5b915e6a82f9c2eefd1f9fc51745bc8dd035afc789783dbe4be033d6c5583a9902e5179d1dbf96f2898d667aa302f2eba6d4570e282632166ef40fbae986fb20982c346e45c6d1cdbdd37db8e9310aadd27fded3635e8685e8f315f3a1035f1582adf6c0455767da281856920b51351096d0ffcc2c8c0ff1fb40901e413c2bba746fb5084a37c54d15ca17bdc67d438cd9769fadef4cb3e7399e988747528abbe6ea296bc514f27579df9e12b0c2d316d6986af6408e5e949ca4240d3cd72203629e5909bf904132a87703fc8ebb5e746da30fd3c3dcc082379e4b03b579a946216322f6484c16eef25213650ca9842f0f4041b463f7f020f406ceb1ac32aac500c87a85d4608c2fb3a66e009639feb022b06e0d731d4dde9e5d222e7af5ff00a929f1d8372cf2b9c02acacdad95a1d06ae802036f5ffe1247195812ccfa86ff741ba4f041e18d92807c75bd58f2a4c32d4448a072de6607bf8788eea1534a6fa0f47e22deeaac154a4b45c1b95f37b95843c46f685929fc6beb4b5ae7cac059ae42be7ad68497db80bb2673559b6ddf6d51781f936cfab413c20fdc1b6fc95c9073a0bb931f7b34fa0ca204f9f7135d94babd1b92bc1533d5ce5610b4f247cce509672a7119aeecd0d5759060bdf7ee0996f62e96731f019df2295601ff5ec5ce1d4dc37b64fbcb9c26fce5e5de5b8bf02d6b212d423d230c558583962560285fe4753debc515d39a483fda37b6c8a6e5e0d60d4b0cfe5f9c0ddbfbc40f0035f764efb364f239b76f7512b2d99bb300e570acdc15db2e671e265b87c9a1e2a31538384c983a9be9203ea388007c2384dda62743a73a96a8e18a5bae1b8c0a305ecd68ac0c357186f6a8f5b8768fe197ecb7762dea01dae6ed967face73dea1f43177aae37b3f6defbe1b18e8a150daa162aedb10761fa4dc75f25ed4c13eb246a439a0ba098803694a9c6f72a0be206c40fea03aa48fd963e08dc9fb8ba922bdf984ef079a16891e3ee46a71f9bb77215f8f9582e5a18f5805522e61e756d18eeb49597a769b75d1a8f4a3ccd6931f4f68727864ba16cd5c763723c5ba1ddb502d983e3d85552010ccd95184020a75899996a9fd19e6e9e3c6947ff3efdaed7e6f7e53880a897013f8747bf5ad130acd7b1ffb4ecd104a318d8a8d2aade7a550093a4778c611df3498a4073f795ef823ed13436b92c84e820ba555a757c9cbed6bd779e6af468b88ad3f8e8eb3f88aebaf3218fd0221fef26bbccf02b5d6cb3bf86bdd90160e51924663d24289d974c966285f2ad5d3685ff5c6e5bdb259e1bb9840888069a9ea6f16f46f37025e81c83b405398b8346467f10d03b2576d6df225973e9f57bcd6b17d0b262f7a566c65491cc4fa2bd2cfa1f9bb9f3151823bad4901e652668bef0b4550d09cbe5a1bb586fe27d170041fbfd404234a2f97ff8afb5a3e749e3777b71c50844e8b31efcd36876cd829f781d2f2762305bdbc3051957991df5f38f02bb951d668023c81c4d85b61c63e02d5cfe14f6adc631931a4e881bd295dc688ba433c3659e65191a61489a6bb21518cc9b8ab45e3aa890ce6bcfe5cefd39b550a7432dad27eb0c835b7a52c7945729b691d8dea367df7ddd6af8991c68405a60cc811036ffae4ddd23ff950c0a664e3a01007cb36f66dd78184d3db1d8fb6403ae8d64d56174947d4637cd770a736e278d88a1709184f9c4060cdaf8adedf93bbbc20fdb7eb2f14ebbd10f77a006d594912bf162fa2f66f8c6cb63df43948447b287121a0f53e214c9e0cbd801db26761ff6245d5f3fb27991c4c35e23180617709a496ca21946f53d0714ac8d683822f3d1c7ad980bdddf9d3d70ef6837a100010d120d179036983637cfc2f409fd47ab61610176037269a3d5f6aa78b3e99fee002d5ec87593cd8369e1401ca6d723c5097394455e2d3ee281f6c1411d81aeb5be51c61b370e84f8d5d179757d6c45803c5697664a5ce3967ecde5ea71cb9b2af7f8a921faca791fa78f2d4533690dbc3ef499b11caf8738363c6b704e6dfc82118ee72f9cf920e8e9ee2a78da0016620fb14ee7663c515bf3a5be77c55d773c1c3c6ace9e7cbb1c731dbb0d47e63f8bad33f5bac3f807a564405bdf2b79cc412952f5daf747891da137a0d25069f9765b5de8eb588fe9d2f2c0326244f2e041c41afb0e7d7900d4fd4c213b65c7d67d5319193615b3a2479c389057f3264b596ca4016fe50697f1802f7c07c91060bb83fcfe5478e94f409e66c70a491cd6d04c1f58bb83aa86fd177df139f252792e50fae4990020214612d09a7ddb3cc837a6969b92ed51eb00049e7e5424ba5ddac232d09688e528ffe7abf00f01d9344c35d267fb9adc5133a74867f68fdc69be8f4703fba5c1c0994e3e2928201dc776eff7f6194d40c6644c157215aea8e7be49369e662e363d89b7b85210b7002d9b4134bbdc5a1c3101d9513c650bea8b102e03df69b4e53a4507607bbde1d22a101cd74b9ce9c5699cb646b3db9041e7d74adecb8693e74d9acf8c2d6318602c0717b0a860fc55d85146c2e8b8f6be7008a4ad2514611da1331b2959cf3eed87dc9df1b8d146fe6e7c286b0285aad625fd6b48ca756945d2b8e0ff9a0d3f5ea211f6dae305df79cd32248423eb6ed2ebcf80afaf02a02a07a3d17e8b8ecbe76e8ae273ea43e3d9f891c2eced85a9e8255e65a13b9b7e6a2f62685625cf1bdebd211fdf0770935a81553925118e33df4d07f7865cc02fd2d1442de6ba3a7b997a0aa8b018d24595c20bdbfd4a8b047297ab73a0047da05b06ab1e05a6f6e9da218cb488eb9c84971fe661b629c90afe0e92b894f9097c3b5c2620d3d2a498592663e54205280dbd9765b814581cafc6731588f2e65e0963b2c8018727519b6092fbad32deea5f35908a095b21a59b98fd37ebb2ae6cd9f07c2f7cbeb76f1208b125ec8e9bc5b6d8a8aaaf961ce62fcbc0a3b2b73efee9acd1295a337be457ad55c11a7dc74bb2d14961fbed1aa12f5b8917bc07bea8fb23c1ec4be6c02642a85223543aa85217d8b03f856a80da32e8093671e74ce95e4a6c73986eb540cf4d20edaa24969ab93b5b0c07073030ceac72ad012ac79ea17953b60f4f52424f76cd9de5fedad5c340435636f434dc4f0f8a72933953e4c71500bd8dcb8378711097c4e86abb8457304cea7f2034062183576135a25e00d5ced69fd2dc0f949dc1953142c2228874c9e8984eee9e55e029b5a4e1bca0d402546bb9a04f0</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>医疗废物</category>
-      </categories>
-      <tags>
-        <tag>医学资源</tag>
+        <tag>自主学习</tag>
       </tags>
   </entry>
   <entry>
@@ -1052,7 +1155,7 @@
 <li>搜索各种“指南”可使用微信搜索功能</li>
 </ul>
 <h2 id="02-辅助工具"><a href="#02-辅助工具" class="headerlink" title="02. 辅助工具"></a>02. 辅助工具</h2><h3 id="2-1-文献翻译"><a href="#2-1-文献翻译" class="headerlink" title="2.1 文献翻译"></a>2.1 文献翻译</h3><ol>
-<li><p>文献翻译软件：<a href="http://www.zhiyunwenxian.cn/">知云文献翻译&#x2F;Xtranslator</a>、<a href="https://copytranslator.github.io/">CopyTranslator</a>、<a href="https://www.xljsci.com/">小绿鲸</a></p>
+<li><p>文献翻译软件：<a href="http://www.zhiyunwenxian.cn/">知云文献翻译&#x2F;Xtranslator</a>、<a href="https://copytranslator.github.io/">CopyTranslator</a>、<a href="https://www.xljsci.com/">小绿鲸</a>、<a href="https://pot.pylogmon.com/">Pot</a></p>
 </li>
 <li><p>网页翻译插件：</p>
 </li>
@@ -1165,103 +1268,6 @@
       </categories>
       <tags>
         <tag>科研笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>看不懂教程</title>
-    <url>/2022/06/04/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文中记录了一些阿岩看过的教程及极客论坛</li>
-<li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
-</ul>
-<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>某些教程内容或已失效，建议去Google最新教程</li>
-<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
-</ul>
-<h2 id="01-Microsoft-365-A1账号申请"><a href="#01-Microsoft-365-A1账号申请" class="headerlink" title="01. Microsoft 365 A1账号申请"></a>01. Microsoft 365 A1账号申请</h2><ul>
-<li><code>警告：</code> 微软于 <code>2022/10/20</code> 对伪官方教育机构的A1账号进行了大规模封禁，即使现在还有个别没被封禁的，也快了，谨防上当受骗</li>
-<li>拥有学校配发的教育邮箱的用户可以直接前往<a href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>填写信息申请A1子账号</li>
-</ul>
-<h2 id="02-Microsoft-365-E5账号申请"><a href="#02-Microsoft-365-E5账号申请" class="headerlink" title="02. Microsoft 365 E5账号申请"></a>02. Microsoft 365 E5账号申请</h2><h3 id="2-1-必看注意事项"><a href="#2-1-必看注意事项" class="headerlink" title="2.1 必看注意事项"></a>2.1 必看注意事项</h3><ul>
-<li>申请E5账号时可能需要使用魔法</li>
-<li>能否成功续期E5账号是概率问题</li>
-<li>通过Action续期时小心Github被封</li>
-</ul>
-<blockquote>
-<p>为防E5账号被封，最好不要给别人开子号；重要数据不要存在OneDrive里</p>
-</blockquote>
-<h3 id="2-2-推荐参考教程"><a href="#2-2-推荐参考教程" class="headerlink" title="2.2 推荐参考教程"></a>2.2 推荐参考教程</h3><ul>
-<li><p><a href="https://www.maxiaobang.com/9794.html">MS 365 E5 申请与续期</a> <code>马小帮-2022/2</code></p>
-</li>
-<li><p><a href="https://zblogs.top/how-to-join-in-microsoft-365-e5-developer-plan/">MS 365 E5 申请与续期</a> <code>Justin-2022/3</code></p>
-</li>
-<li><p><a href="https://www.godseven.com/archives/30.html">MS 365 E5 申请与续期</a> <code>神七地-2022/5</code></p>
-</li>
-<li><p><a href="https://logi.im/script/permanently-keeping-an-office-e5-account.html">MS 365 E5申请与续期</a> <code>LOGI-2020/7</code></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">MS 365 E5 申请与续期</a> 、<a href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a> <code>HEU-2022/1</code></p>
-</li>
-<li><p>Microsoft 365 E5 Renew Plus：微软E5开发者订阅续订软件<a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502"><code>博客</code></a>、<a href="https://e5renew.com/"><code>官网</code></a></p>
-</li>
-<li><p><code>警告：</code> 微软于<code>2023/4/4</code>对使用了<a href="https://qyi.io/archives/687.html">浅忆-qyi</a>自动订阅程序的E5账号进行了“强制”过期</p>
-</li>
-<li><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a></p>
-</li>
-<li><p>直达链接：<a href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
-</li>
-</ul>
-<h2 id="03-Hexo-Github-搭建博客"><a href="#03-Hexo-Github-搭建博客" class="headerlink" title="03. Hexo+Github 搭建博客"></a>03. Hexo+Github 搭建博客</h2><h3 id="3-1-博客搭建教程"><a href="#3-1-博客搭建教程" class="headerlink" title="3.1 博客搭建教程"></a>3.1 博客搭建教程</h3><ul>
-<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">Hexo生成博客并发布到Gitee</a>：讲解详细全面，非常适合小白 <code>安靖-2021/4</code></li>
-<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">Hexo搭建博客并发布到Github</a> <code>LieGuのBlog-2022/10</code></li>
-<li><a href="https://hexo.io/zh-cn/docs/github-pages">将Hexo部署到GitHub Pages</a> <code>Hexo官方</code></li>
-</ul>
-<h3 id="3-2-博客美化教程"><a href="#3-2-博客美化教程" class="headerlink" title="3.2 博客美化教程"></a>3.2 博客美化教程</h3><ul>
-<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">Hexo博客-Next主题美化</a> <code>vic.kim-2019/5</code></li>
-<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">Hexo的Next主题详细配置</a> <code>younger-2017/12</code></li>
-<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
-<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
-</ul>
-<h3 id="3-3-博客迁移教程"><a href="#3-3-博客迁移教程" class="headerlink" title="3.3 博客迁移教程"></a>3.3 博客迁移教程</h3><ul>
-<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">换电脑后进行hexo博客的迁移</a> <code>LolitaAnn-2021/06</code></li>
-</ul>
-<h2 id="04-OpenAI-ChatGPT-使用"><a href="#04-OpenAI-ChatGPT-使用" class="headerlink" title="04. OpenAI ChatGPT 使用"></a>04. OpenAI ChatGPT 使用</h2><blockquote>
-<p>Accesss Denied：切换代理，刷新页面！</p>
-</blockquote>
-<ul>
-<li><a href="https://sms-activate.org/cn/info/ChatGPT">中国区注册ChatGPT完全指南</a> <code>SMS-Activate-2022/12</code></li>
-<li><a href="https://mailberry.com.cn/2023/02/chatgpt-access-denied-error-code-1020/">解决Access denied问题</a> <code>邮莓-2023/02</code></li>
-<li><a href="https://github.com/lencx/ChatGPT">ChatGPT Desktop Application (Mac, Windows and Linux) </a></li>
-<li>更多内容见奶大在Github的介绍：<a href="https://github.com/runningcheese/Awesome-ChatGPT">Awesome-ChatGPT</a></li>
-</ul>
-<h2 id="05-实用资源搜索技巧记录"><a href="#05-实用资源搜索技巧记录" class="headerlink" title="05. 实用资源搜索技巧记录"></a>05. 实用资源搜索技巧记录</h2><blockquote>
-<p>搜索引擎推荐顺序：<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a href="https://www.google.com/">Google</a> &gt; <a href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
-</blockquote>
-<ol>
-<li>检索网盘分享资源：「资源名称+空格+“提取码”」，如「疾速追杀 提取码」</li>
-<li>检索磁力链接资源：「资源名称+空格+“magnet”」，如「疾速追杀 magnet」</li>
-<li>搜索特定网站内容：「资源名称+空格+(site:网站链接)」，如「Elden Ring (site:rutracker.org)」</li>
-<li>精确检索完整匹配：「intext:”需精确匹配文字”」，如「intext:”Based on OpenAI API (gpt-3.5-turbo)”」</li>
-<li>使用书签跨站检索：新建一个书签，将网址改为以下内容（需删除“站点1&#x2F;2网址”）</li>
-</ol>
-<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="06-一些硬核技术极客论坛"><a href="#06-一些硬核技术极客论坛" class="headerlink" title="06. 一些硬核技术极客论坛"></a>06. 一些硬核技术极客论坛</h2><ul>
-<li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a>：</li>
-<li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a>:</li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>DMUCD</category>
-      </categories>
-      <tags>
-        <tag>自主学习</tag>
       </tags>
   </entry>
 </search>
