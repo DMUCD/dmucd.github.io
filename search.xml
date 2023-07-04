@@ -746,6 +746,103 @@
       </tags>
   </entry>
   <entry>
+    <title>看不懂教程</title>
+    <url>/2022/06/04/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文中记录了一些阿岩看过的教程及极客论坛</li>
+<li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>某些教程内容或已失效，建议去Google最新教程</li>
+<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
+</ul>
+<h2 id="01-Microsoft-365-A1账号申请"><a href="#01-Microsoft-365-A1账号申请" class="headerlink" title="01. Microsoft 365 A1账号申请"></a>01. Microsoft 365 A1账号申请</h2><ul>
+<li><code>警告：</code> 微软于 <code>2022/10/20</code> 对伪官方教育机构的A1账号进行了大规模封禁，即使现在还有个别没被封禁的，也快了，谨防上当受骗</li>
+<li>拥有学校配发的教育邮箱的用户可以直接前往<a href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>填写信息申请A1子账号</li>
+</ul>
+<h2 id="02-Microsoft-365-E5账号申请"><a href="#02-Microsoft-365-E5账号申请" class="headerlink" title="02. Microsoft 365 E5账号申请"></a>02. Microsoft 365 E5账号申请</h2><h3 id="2-1-必看注意事项"><a href="#2-1-必看注意事项" class="headerlink" title="2.1 必看注意事项"></a>2.1 必看注意事项</h3><ul>
+<li>申请E5账号时可能需要使用魔法</li>
+<li>能否成功续期E5账号是概率问题</li>
+<li>通过Action续期时小心Github被封</li>
+</ul>
+<blockquote>
+<p>为防E5账号被封，最好不要给别人开子号；重要数据不要存在OneDrive里</p>
+</blockquote>
+<h3 id="2-2-推荐参考教程"><a href="#2-2-推荐参考教程" class="headerlink" title="2.2 推荐参考教程"></a>2.2 推荐参考教程</h3><ul>
+<li><p><a href="https://www.maxiaobang.com/9794.html">MS 365 E5 申请与续期</a> <code>马小帮-2022/2</code></p>
+</li>
+<li><p><a href="https://zblogs.top/how-to-join-in-microsoft-365-e5-developer-plan/">MS 365 E5 申请与续期</a> <code>Justin-2022/3</code></p>
+</li>
+<li><p><a href="https://www.godseven.com/archives/30.html">MS 365 E5 申请与续期</a> <code>神七地-2022/5</code></p>
+</li>
+<li><p><a href="https://logi.im/script/permanently-keeping-an-office-e5-account.html">MS 365 E5申请与续期</a> <code>LOGI-2020/7</code></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">MS 365 E5 申请与续期</a> 、<a href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a> <code>HEU-2022/1</code></p>
+</li>
+<li><p>Microsoft 365 E5 Renew Plus：微软E5开发者订阅续订软件<a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502"><code>博客</code></a>、<a href="https://e5renew.com/"><code>官网</code></a></p>
+</li>
+<li><p><code>警告：</code> 微软于<code>2023/4/4</code>对使用了<a href="https://qyi.io/archives/687.html">浅忆-qyi</a>自动订阅程序的E5账号进行了“强制”过期</p>
+</li>
+<li><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a></p>
+</li>
+<li><p>直达链接：<a href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
+</li>
+</ul>
+<h2 id="03-Hexo-Github-搭建博客"><a href="#03-Hexo-Github-搭建博客" class="headerlink" title="03. Hexo+Github 搭建博客"></a>03. Hexo+Github 搭建博客</h2><h3 id="3-1-博客搭建教程"><a href="#3-1-博客搭建教程" class="headerlink" title="3.1 博客搭建教程"></a>3.1 博客搭建教程</h3><ul>
+<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">Hexo生成博客并发布到Gitee</a>：讲解详细全面，非常适合小白 <code>安靖-2021/4</code></li>
+<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">Hexo搭建博客并发布到Github</a> <code>LieGuのBlog-2022/10</code></li>
+<li><a href="https://hexo.io/zh-cn/docs/github-pages">将Hexo部署到GitHub Pages</a> <code>Hexo官方</code></li>
+</ul>
+<h3 id="3-2-博客美化教程"><a href="#3-2-博客美化教程" class="headerlink" title="3.2 博客美化教程"></a>3.2 博客美化教程</h3><ul>
+<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">Hexo博客-Next主题美化</a> <code>vic.kim-2019/5</code></li>
+<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">Hexo的Next主题详细配置</a> <code>younger-2017/12</code></li>
+<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
+</ul>
+<h3 id="3-3-博客迁移教程"><a href="#3-3-博客迁移教程" class="headerlink" title="3.3 博客迁移教程"></a>3.3 博客迁移教程</h3><ul>
+<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">换电脑后进行hexo博客的迁移</a> <code>LolitaAnn-2021/06</code></li>
+</ul>
+<h2 id="04-OpenAI-ChatGPT-使用"><a href="#04-OpenAI-ChatGPT-使用" class="headerlink" title="04. OpenAI ChatGPT 使用"></a>04. OpenAI ChatGPT 使用</h2><blockquote>
+<p>Accesss Denied：切换代理，刷新页面！</p>
+</blockquote>
+<ul>
+<li><a href="https://sms-activate.org/cn/info/ChatGPT">中国区注册ChatGPT完全指南</a> <code>SMS-Activate-2022/12</code></li>
+<li><a href="https://mailberry.com.cn/2023/02/chatgpt-access-denied-error-code-1020/">解决Access denied问题</a> <code>邮莓-2023/02</code></li>
+<li><a href="https://github.com/lencx/ChatGPT">ChatGPT Desktop Application (Mac, Windows and Linux) </a></li>
+<li>更多内容见奶大在Github的介绍：<a href="https://github.com/runningcheese/Awesome-ChatGPT">Awesome-ChatGPT</a></li>
+</ul>
+<h2 id="05-实用资源搜索技巧记录"><a href="#05-实用资源搜索技巧记录" class="headerlink" title="05. 实用资源搜索技巧记录"></a>05. 实用资源搜索技巧记录</h2><blockquote>
+<p>搜索引擎推荐顺序：<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a href="https://www.google.com/">Google</a> &gt; <a href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
+</blockquote>
+<ol>
+<li>检索网盘分享资源：「资源名称+空格+“提取码”」，如「疾速追杀 提取码」</li>
+<li>检索磁力链接资源：「资源名称+空格+“magnet”」，如「疾速追杀 magnet」</li>
+<li>搜索特定网站内容：「资源名称+空格+(site:网站链接)」，如「Elden Ring (site:rutracker.org)」</li>
+<li>精确检索完整匹配：「intext:”需精确匹配文字”」，如「intext:”Based on OpenAI API (gpt-3.5-turbo)”」</li>
+<li>使用书签跨站检索：新建一个书签，将网址改为以下内容（需删除“站点1&#x2F;2网址”）</li>
+</ol>
+<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="06-一些硬核技术极客论坛"><a href="#06-一些硬核技术极客论坛" class="headerlink" title="06. 一些硬核技术极客论坛"></a>06. 一些硬核技术极客论坛</h2><ul>
+<li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a>：</li>
+<li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a>:</li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>DMUCD</category>
+      </categories>
+      <tags>
+        <tag>自主学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>无名的网站</title>
     <url>/2022/06/04/%E6%97%A0%E5%90%8D%E7%9A%84%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>假作真时真亦假，无为有处有还无。</p>
@@ -989,103 +1086,6 @@
       </categories>
       <tags>
         <tag>优质站点</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>看不懂教程</title>
-    <url>/2022/06/04/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文中记录了一些阿岩看过的教程及极客论坛</li>
-<li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
-</ul>
-<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>某些教程内容或已失效，建议去Google最新教程</li>
-<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
-</ul>
-<h2 id="01-Microsoft-365-A1账号申请"><a href="#01-Microsoft-365-A1账号申请" class="headerlink" title="01. Microsoft 365 A1账号申请"></a>01. Microsoft 365 A1账号申请</h2><ul>
-<li><code>警告：</code> 微软于 <code>2022/10/20</code> 对伪官方教育机构的A1账号进行了大规模封禁，即使现在还有个别没被封禁的，也快了，谨防上当受骗</li>
-<li>拥有学校配发的教育邮箱的用户可以直接前往<a href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>填写信息申请A1子账号</li>
-</ul>
-<h2 id="02-Microsoft-365-E5账号申请"><a href="#02-Microsoft-365-E5账号申请" class="headerlink" title="02. Microsoft 365 E5账号申请"></a>02. Microsoft 365 E5账号申请</h2><h3 id="2-1-必看注意事项"><a href="#2-1-必看注意事项" class="headerlink" title="2.1 必看注意事项"></a>2.1 必看注意事项</h3><ul>
-<li>申请E5账号时可能需要使用魔法</li>
-<li>能否成功续期E5账号是概率问题</li>
-<li>通过Action续期时小心Github被封</li>
-</ul>
-<blockquote>
-<p>为防E5账号被封，最好不要给别人开子号；重要数据不要存在OneDrive里</p>
-</blockquote>
-<h3 id="2-2-推荐参考教程"><a href="#2-2-推荐参考教程" class="headerlink" title="2.2 推荐参考教程"></a>2.2 推荐参考教程</h3><ul>
-<li><p><a href="https://www.maxiaobang.com/9794.html">MS 365 E5 申请与续期</a> <code>马小帮-2022/2</code></p>
-</li>
-<li><p><a href="https://zblogs.top/how-to-join-in-microsoft-365-e5-developer-plan/">MS 365 E5 申请与续期</a> <code>Justin-2022/3</code></p>
-</li>
-<li><p><a href="https://www.godseven.com/archives/30.html">MS 365 E5 申请与续期</a> <code>神七地-2022/5</code></p>
-</li>
-<li><p><a href="https://logi.im/script/permanently-keeping-an-office-e5-account.html">MS 365 E5申请与续期</a> <code>LOGI-2020/7</code></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">MS 365 E5 申请与续期</a> 、<a href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a> <code>HEU-2022/1</code></p>
-</li>
-<li><p>Microsoft 365 E5 Renew Plus：微软E5开发者订阅续订软件<a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502"><code>博客</code></a>、<a href="https://e5renew.com/"><code>官网</code></a></p>
-</li>
-<li><p><code>警告：</code> 微软于<code>2023/4/4</code>对使用了<a href="https://qyi.io/archives/687.html">浅忆-qyi</a>自动订阅程序的E5账号进行了“强制”过期</p>
-</li>
-<li><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a></p>
-</li>
-<li><p>直达链接：<a href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
-</li>
-</ul>
-<h2 id="03-Hexo-Github-搭建博客"><a href="#03-Hexo-Github-搭建博客" class="headerlink" title="03. Hexo+Github 搭建博客"></a>03. Hexo+Github 搭建博客</h2><h3 id="3-1-博客搭建教程"><a href="#3-1-博客搭建教程" class="headerlink" title="3.1 博客搭建教程"></a>3.1 博客搭建教程</h3><ul>
-<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">Hexo生成博客并发布到Gitee</a>：讲解详细全面，非常适合小白 <code>安靖-2021/4</code></li>
-<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">Hexo搭建博客并发布到Github</a> <code>LieGuのBlog-2022/10</code></li>
-<li><a href="https://hexo.io/zh-cn/docs/github-pages">将Hexo部署到GitHub Pages</a> <code>Hexo官方</code></li>
-</ul>
-<h3 id="3-2-博客美化教程"><a href="#3-2-博客美化教程" class="headerlink" title="3.2 博客美化教程"></a>3.2 博客美化教程</h3><ul>
-<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">Hexo博客-Next主题美化</a> <code>vic.kim-2019/5</code></li>
-<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">Hexo的Next主题详细配置</a> <code>younger-2017/12</code></li>
-<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
-<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
-</ul>
-<h3 id="3-3-博客迁移教程"><a href="#3-3-博客迁移教程" class="headerlink" title="3.3 博客迁移教程"></a>3.3 博客迁移教程</h3><ul>
-<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">换电脑后进行hexo博客的迁移</a> <code>LolitaAnn-2021/06</code></li>
-</ul>
-<h2 id="04-OpenAI-ChatGPT-使用"><a href="#04-OpenAI-ChatGPT-使用" class="headerlink" title="04. OpenAI ChatGPT 使用"></a>04. OpenAI ChatGPT 使用</h2><blockquote>
-<p>Accesss Denied：切换代理，刷新页面！</p>
-</blockquote>
-<ul>
-<li><a href="https://sms-activate.org/cn/info/ChatGPT">中国区注册ChatGPT完全指南</a> <code>SMS-Activate-2022/12</code></li>
-<li><a href="https://mailberry.com.cn/2023/02/chatgpt-access-denied-error-code-1020/">解决Access denied问题</a> <code>邮莓-2023/02</code></li>
-<li><a href="https://github.com/lencx/ChatGPT">ChatGPT Desktop Application (Mac, Windows and Linux) </a></li>
-<li>更多内容见奶大在Github的介绍：<a href="https://github.com/runningcheese/Awesome-ChatGPT">Awesome-ChatGPT</a></li>
-</ul>
-<h2 id="05-实用资源搜索技巧记录"><a href="#05-实用资源搜索技巧记录" class="headerlink" title="05. 实用资源搜索技巧记录"></a>05. 实用资源搜索技巧记录</h2><blockquote>
-<p>搜索引擎推荐顺序：<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a href="https://www.google.com/">Google</a> &gt; <a href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
-</blockquote>
-<ol>
-<li>检索网盘分享资源：「资源名称+空格+“提取码”」，如「疾速追杀 提取码」</li>
-<li>检索磁力链接资源：「资源名称+空格+“magnet”」，如「疾速追杀 magnet」</li>
-<li>搜索特定网站内容：「资源名称+空格+(site:网站链接)」，如「Elden Ring (site:rutracker.org)」</li>
-<li>精确检索完整匹配：「intext:”需精确匹配文字”」，如「intext:”Based on OpenAI API (gpt-3.5-turbo)”」</li>
-<li>使用书签跨站检索：新建一个书签，将网址改为以下内容（需删除“站点1&#x2F;2网址”）</li>
-</ol>
-<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="06-一些硬核技术极客论坛"><a href="#06-一些硬核技术极客论坛" class="headerlink" title="06. 一些硬核技术极客论坛"></a>06. 一些硬核技术极客论坛</h2><ul>
-<li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a>：</li>
-<li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a>:</li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>DMUCD</category>
-      </categories>
-      <tags>
-        <tag>自主学习</tag>
       </tags>
   </entry>
   <entry>
