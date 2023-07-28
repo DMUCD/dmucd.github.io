@@ -1,206 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>上网去冲浪</title>
-    <url>/2022/06/04/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
-    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
-<li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
-</ul>
-<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
-<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
-</ul>
-<h2 id="01-搜索引擎"><a href="#01-搜索引擎" class="headerlink" title="01. 搜索引擎"></a>01. 搜索引擎</h2><h3 id="1-1-综合搜索"><a href="#1-1-综合搜索" class="headerlink" title="1.1 综合搜索"></a>1.1 综合搜索</h3><ol>
-<li><p><a href="https://github.com/librarycloud/list">Mirror List</a>：发布谷歌搜索、谷歌学术、Github、维基百科等的镜像网站</p>
-</li>
-<li><p>访问Google搜索：</p>
-</li>
-</ol>
-<ul>
-<li>Google搜索镜像：<a href="https://www.ooopn.com/tool/gglink/">镜像发布站</a>、<a href="http://g.luciaz.me/">浙大镜像站</a>（网站答案分别是“心灵之约、水朝夕、csxy@123”）</li>
-<li>添加 <code>扩展</code> <a href="https://igghelper.com/">iGG谷歌访问助手</a>后亦可访问</li>
-</ul>
-<ol start="3">
-<li><a href="https://yandex.com/">Yandex</a>：只有以图找图功能很好用</li>
-<li><a href="https://fsoufsou.com/">F 搜</a>：国产阉割版Goolge搜索</li>
-<li><a href="https://quark.sm.cn/">神马搜索</a>：夸克浏览器在用，搜小说还可以</li>
-</ol>
-<h3 id="1-2-网盘搜索"><a href="#1-2-网盘搜索" class="headerlink" title="1.2 网盘搜索"></a>1.2 网盘搜索</h3><blockquote>
-<p>专门搜索各大网盘资源，可能并不太好用……</p>
-</blockquote>
-<p><code>1. 聚合搜索工具：</code></p>
-<ul>
-<li><a href="https://pan.qianfan.app/">千帆搜索</a>、<a href="https://www.yunpanziyuan.com/">云盘资源网</a>、<a href="https://yiso.eu.org/">易搜</a>、<a href="https://nmme.one/">橘子盘搜</a></li>
-<li><code>脚本</code> <a href="https://www.guapizhu.com/11576.html">我是网盘管家婆</a></li>
-<li><code>插件</code> 网盘全网搜索<a href="https://chrome.google.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*1</a>&#x2F;<a href="https://www.crxsoso.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*2</a></li>
-</ul>
-<p><code>2. 阿里网盘搜索：</code></p>
-<ul>
-<li><a href="https://www.upyunso.com/">UP云搜</a>、<a href="https://www.alipansou.com/">猫狸盘搜</a>、<a href="https://yunpan1.com/">云盘资源分享社区</a></li>
-</ul>
-<p><code>3. 百度网盘搜索：</code></p>
-<ul>
-<li><a href="https://www.sopandas.cn/">熊猫搜盘</a>、<a href="https://www.xiongdipan.com/">兄弟盘</a>、<a href="https://www.xuebapan.com/">学霸盘</a>、<a href="https://www.45256.com/">45256搜索</a></li>
-</ul>
-<h3 id="1-3-TG-搜索"><a href="#1-3-TG-搜索" class="headerlink" title="1.3 (TG)搜索"></a>1.3 (TG)搜索</h3><ul>
-<li><a href="http://www.sssoou.com/">telegram中文搜索</a>、<a href="https://meow.tg/">TG喵</a>、<a href="https://tg.qianfan.app/">千帆FG搜索</a></li>
-</ul>
-<h3 id="1-4-其他搜索"><a href="#1-4-其他搜索" class="headerlink" title="1.4 其他搜索"></a>1.4 其他搜索</h3><ul>
-<li><a href="http://www.iplant.cn/">iPlant 植物智</a>：上传图片识别植物</li>
-<li><a href="https://thepiratebay.org/i">The Pirate Bay</a>：著名的海盗湾</li>
-<li>历史网页查询：<a href="https://archive.org/">Internet Archive</a>、<a href="https://archive.ph/">Archive Today</a></li>
-</ul>
-<h2 id="02-插件脚本"><a href="#02-插件脚本" class="headerlink" title="02. 插件脚本"></a>02. 插件脚本</h2><blockquote>
-<p>添加脚本的步骤：</p>
-</blockquote>
-<ol>
-<li>在扩展商店搜索 <code>Tampermonkey</code> 这个扩展程序并添加</li>
-<li>在脚本商店搜索并添加想要的脚本即可</li>
-</ol>
-<h3 id="2-1-脚本商店"><a href="#2-1-脚本商店" class="headerlink" title="2.1 脚本商店"></a>2.1 脚本商店</h3><ul>
-<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a>：推荐使用</li>
-<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
-<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
-<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
-</ul>
-<h3 id="2-2-扩展商店"><a href="#2-2-扩展商店" class="headerlink" title="2.2 扩展商店"></a>2.2 扩展商店</h3><ol>
-<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
-</li>
-<li><p>离线扩展下载：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
-<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
-</ul>
-<h2 id="03-奶酪专区"><a href="#03-奶酪专区" class="headerlink" title="03. 奶酪专区"></a>03. 奶酪专区</h2><blockquote>
-<p>浏览器深度开发技术达人</p>
-</blockquote>
-<ul>
-<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
-<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
-<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome-Extensions</a>：奶酪-扩展推荐</li>
-</ul>
-<h2 id="04-GH-辅助"><a href="#04-GH-辅助" class="headerlink" title="04. GH 辅助"></a>04. GH 辅助</h2><ol>
-<li><p>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速器</a>、<a href="https://steampp.net/">Steam++</a>、<a href="https://github.com/dotnetcore/FastGithub">FastGithub</a>、<a href="https://www.dogfight360.com/blog/686">Steamcommunity 302</a></p>
-</li>
-<li><p>GitHub加速代理下载站：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
-</ul>
-<ol start="3">
-<li>Github的辅助工具：</li>
-</ol>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245">Github 增强-高速下载</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
-<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
-</ul>
-<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
-<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
-</blockquote>
-<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
-<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
-<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
-<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
-<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
-<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
-<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
-</ul>
-<h3 id="5-2-权限处理"><a href="#5-2-权限处理" class="headerlink" title="5.2 权限处理"></a>5.2 权限处理</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130">文本选中复制</a>：解除复制限制</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497">网页限制解除(改)</a>：可以解除禁止复制、剪切、选择文本、右键菜单的限制</li>
-</ul>
-<h3 id="5-3-图片查看"><a href="#5-3-图片查看" class="headerlink" title="5.3 图片查看"></a>5.3 图片查看</h3><ul>
-<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
-<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
-</ul>
-<h3 id="5-4-网页翻译"><a href="#5-4-网页翻译" class="headerlink" title="5.4 网页翻译"></a>5.4 网页翻译</h3><ol>
-<li><code>扩展</code> 网页翻译：</li>
-</ol>
-<ul>
-<li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
-<li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
-<li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
-</ul>
-<h2 id="06-下载视频"><a href="#06-下载视频" class="headerlink" title="06. 下载视频"></a>06. 下载视频</h2><h3 id="6-1-综合下载"><a href="#6-1-综合下载" class="headerlink" title="6.1 综合下载"></a>6.1 综合下载</h3><ul>
-<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
-<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
-<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
-</ul>
-<h3 id="6-2-B-站下载"><a href="#6-2-B-站下载" class="headerlink" title="6.2 B 站下载"></a>6.2 B 站下载</h3><ul>
-<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
-<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
-<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
-<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
-<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
-</ul>
-<h2 id="07-调教网盘"><a href="#07-调教网盘" class="headerlink" title="07. 调教网盘"></a>07. 调教网盘</h2><blockquote>
-<p><a href="https://flowus.cn/runningcheese/share/35fc2fb2-21a6-42f8-aa21-d1b007c39423">部分内容摘自奶大分享文档 2023-05-18</a></p>
-</blockquote>
-<h3 id="7-1-百度网盘"><a href="#7-1-百度网盘" class="headerlink" title="7.1 百度网盘"></a>7.1 百度网盘</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
-<li>度盘下载加速软件：<a href="https://static-s.iqiyi.com/wnbf/get.html">爱奇艺万能联播</a></li>
-<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
-<li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a>、<a href="https://scriptcat.org/script-show-page/913">KubeDown</a></li>
-<li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
-<li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
-</ul>
-<h3 id="7-2-其他网盘"><a href="#7-2-其他网盘" class="headerlink" title="7.2 其他网盘"></a>7.2 其他网盘</h3><ul>
-<li><code>脚本</code> <a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">（改）网盘直链下载助手</a>：在网页端获取网盘文件真实下载地址，调用IDM等工具下载。支持 <code>百度阿里天翼迅雷夸克移动</code> 六大网盘</li>
-</ul>
-<h3 id="7-3-辅助工具"><a href="#7-3-辅助工具" class="headerlink" title="7.3 辅助工具"></a>7.3 辅助工具</h3><ul>
-<li>倍速播放网盘视频： <a href="https://scriptcat.org/script-show-page/340"><code>脚本</code> BD网盘视频播放器</a>、 <a href="https://greasyfork.org/zh-CN/scripts/381682"><code>脚本</code> HTML5视频播放器增强</a>、<a href="https://github.com/polywock/globalSpeed"><code>扩展</code> Global Speed</a></li>
-</ul>
-<h2 id="08-真互联网"><a href="#08-真互联网" class="headerlink" title="08. 真互联网"></a>08. 真互联网</h2><blockquote>
-<p>部分素材来源：<a href="https://mp.weixin.qq.com/s/2HuwPXlqCofHR8sGFghOQA">奔跑中的奶酪</a></p>
-</blockquote>
-<p><code>1. 去网页重定向：</code></p>
-<ul>
-<li><code>脚本</code> 自动跳转(重定向)到目标链接：<a href="https://greasyfork.org/zh-CN/scripts/412612">Open the F**king URL Right Now</a>、<a href="https://greasyfork.org/zh-CN/scripts/416338">redirect外链跳转</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/11915">Anti-redirect</a>：去除各搜索引擎&#x2F;常用网站的重定向</li>
-</ul>
-<p><code>2. 调教搜索引擎：</code></p>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/443491">百度谷歌必应链接缩短</a>：缩短搜索引擎的冗长链接</li>
-<li><code>扩展</code> <a href="https://github.com/dessant/buster">Buster</a>：谷歌机器人验证码自动验证</li>
-</ul>
-<p><code>3. 去除登陆弹窗：</code></p>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/428960">CSDN&#x2F;知乎&#x2F;哔哩哔哩&#x2F;简书免登录去除弹窗广告</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/440871">骚扰拦截</a>：自动拦截或删除<code>下载弹窗</code>、<code>悬浮按钮</code>等影响用户体验的元素</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/37988">拒绝二维码登录</a>：默认使用账号密码登录，不出现二维码登录界面</li>
-</ul>
-<p><code>4. 自动展开全文：</code></p>
-<ul>
-<li><code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/414010">阅读全文&#x2F;自动展开全文</a></li>
-</ul>
-<h2 id="09-保存网站"><a href="#09-保存网站" class="headerlink" title="09. 保存网站"></a>09. 保存网站</h2><ul>
-<li>将整个网站离线到本地：<a href="https://www.httrack.com/">HTTrack Website Copier</a>、<a href="https://metaproducts.com/help/offline-explorer-enterprise/">Offline Explorer</a>、<a href="https://smalltool.github.io/">仿站小工具or小飞兔下载</a></li>
-<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
-<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
-<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>DMUCD</category>
-      </categories>
-      <tags>
-        <tag>网上冲浪</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上传者之书</title>
     <url>/2022/06/04/%E4%B8%8A%E4%BC%A0%E8%80%85%E4%B9%8B%E4%B9%A6/</url>
     <content><![CDATA[<p>命里有时终须有，命里无时莫强求。</p>
@@ -414,6 +214,206 @@
       </categories>
       <tags>
         <tag>软件下载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>上网去冲浪</title>
+    <url>/2022/06/04/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
+    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+<li>为方便阅读，请添加网页目录生成 <code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
+<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+</ul>
+<h2 id="01-搜索引擎"><a href="#01-搜索引擎" class="headerlink" title="01. 搜索引擎"></a>01. 搜索引擎</h2><h3 id="1-1-综合搜索"><a href="#1-1-综合搜索" class="headerlink" title="1.1 综合搜索"></a>1.1 综合搜索</h3><ol>
+<li><p><a href="https://github.com/librarycloud/list">Mirror List</a>：发布谷歌搜索、谷歌学术、Github、维基百科等的镜像网站</p>
+</li>
+<li><p>访问Google搜索：</p>
+</li>
+</ol>
+<ul>
+<li>Google搜索镜像：<a href="https://www.ooopn.com/tool/gglink/">镜像发布站</a>、<a href="http://g.luciaz.me/">浙大镜像站</a>（网站答案分别是“心灵之约、水朝夕、csxy@123”）</li>
+<li>添加 <code>扩展</code> <a href="https://igghelper.com/">iGG谷歌访问助手</a>后亦可访问</li>
+</ul>
+<ol start="3">
+<li><a href="https://yandex.com/">Yandex</a>：只有以图找图功能很好用</li>
+<li><a href="https://fsoufsou.com/">F 搜</a>：国产阉割版Goolge搜索</li>
+<li><a href="https://quark.sm.cn/">神马搜索</a>：夸克浏览器在用，搜小说还可以</li>
+</ol>
+<h3 id="1-2-网盘搜索"><a href="#1-2-网盘搜索" class="headerlink" title="1.2 网盘搜索"></a>1.2 网盘搜索</h3><blockquote>
+<p>专门搜索各大网盘资源，可能并不太好用……</p>
+</blockquote>
+<p><code>1. 聚合搜索工具：</code></p>
+<ul>
+<li><a href="https://pan.qianfan.app/">千帆搜索</a>、<a href="https://www.yunpanziyuan.com/">云盘资源网</a>、<a href="https://yiso.eu.org/">易搜</a>、<a href="https://nmme.one/">橘子盘搜</a></li>
+<li><code>脚本</code> <a href="https://www.guapizhu.com/11576.html">我是网盘管家婆</a></li>
+<li><code>插件</code> 网盘全网搜索<a href="https://chrome.google.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*1</a>&#x2F;<a href="https://www.crxsoso.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">*2</a></li>
+</ul>
+<p><code>2. 阿里网盘搜索：</code></p>
+<ul>
+<li><a href="https://www.upyunso.com/">UP云搜</a>、<a href="https://www.alipansou.com/">猫狸盘搜</a>、<a href="https://yunpan1.com/">云盘资源分享社区</a></li>
+</ul>
+<p><code>3. 百度网盘搜索：</code></p>
+<ul>
+<li><a href="https://www.sopandas.cn/">熊猫搜盘</a>、<a href="https://www.xiongdipan.com/">兄弟盘</a>、<a href="https://www.xuebapan.com/">学霸盘</a>、<a href="https://www.45256.com/">45256搜索</a></li>
+</ul>
+<h3 id="1-3-TG-搜索"><a href="#1-3-TG-搜索" class="headerlink" title="1.3 (TG)搜索"></a>1.3 (TG)搜索</h3><ul>
+<li><a href="http://www.sssoou.com/">telegram中文搜索</a>、<a href="https://meow.tg/">TG喵</a>、<a href="https://tg.qianfan.app/">千帆FG搜索</a></li>
+</ul>
+<h3 id="1-4-其他搜索"><a href="#1-4-其他搜索" class="headerlink" title="1.4 其他搜索"></a>1.4 其他搜索</h3><ul>
+<li><a href="http://www.iplant.cn/">iPlant 植物智</a>：上传图片识别植物</li>
+<li><a href="https://thepiratebay.org/i">The Pirate Bay</a>：著名的海盗湾</li>
+<li>历史网页查询：<a href="https://archive.org/">Internet Archive</a>、<a href="https://archive.ph/">Archive Today</a></li>
+</ul>
+<h2 id="02-插件脚本"><a href="#02-插件脚本" class="headerlink" title="02. 插件脚本"></a>02. 插件脚本</h2><blockquote>
+<p>添加脚本的步骤：</p>
+</blockquote>
+<ol>
+<li>在扩展商店搜索 <code>Tampermonkey</code> 这个扩展程序并添加</li>
+<li>在脚本商店搜索并添加想要的脚本即可</li>
+</ol>
+<h3 id="2-1-脚本商店"><a href="#2-1-脚本商店" class="headerlink" title="2.1 脚本商店"></a>2.1 脚本商店</h3><ul>
+<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a>：推荐使用</li>
+<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
+<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
+<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
+</ul>
+<h3 id="2-2-扩展商店"><a href="#2-2-扩展商店" class="headerlink" title="2.2 扩展商店"></a>2.2 扩展商店</h3><ol>
+<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
+</li>
+<li><p>离线扩展下载：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
+<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
+</ul>
+<h2 id="03-奶酪专区"><a href="#03-奶酪专区" class="headerlink" title="03. 奶酪专区"></a>03. 奶酪专区</h2><blockquote>
+<p>浏览器深度开发技术达人</p>
+</blockquote>
+<ul>
+<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
+<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
+<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome-Extensions</a>：奶酪-扩展推荐</li>
+</ul>
+<h2 id="04-GH-辅助"><a href="#04-GH-辅助" class="headerlink" title="04. GH 辅助"></a>04. GH 辅助</h2><ol>
+<li><p>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速器</a>、<a href="https://steampp.net/">Steam++</a>、<a href="https://github.com/dotnetcore/FastGithub">FastGithub</a>、<a href="https://www.dogfight360.com/blog/686">Steamcommunity 302</a></p>
+</li>
+<li><p>GitHub加速代理下载站：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
+</ul>
+<ol start="3">
+<li>Github的辅助工具：</li>
+</ol>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245">Github 增强-高速下载</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
+<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
+</ul>
+<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
+<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
+</blockquote>
+<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
+<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
+<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
+<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
+<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
+<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
+<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
+</ul>
+<h3 id="5-2-权限处理"><a href="#5-2-权限处理" class="headerlink" title="5.2 权限处理"></a>5.2 权限处理</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130">文本选中复制</a>：解除复制限制</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497">网页限制解除(改)</a>：可以解除禁止复制、剪切、选择文本、右键菜单的限制</li>
+</ul>
+<h3 id="5-3-图片查看"><a href="#5-3-图片查看" class="headerlink" title="5.3 图片查看"></a>5.3 图片查看</h3><ul>
+<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
+<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
+</ul>
+<h3 id="5-4-网页翻译"><a href="#5-4-网页翻译" class="headerlink" title="5.4 网页翻译"></a>5.4 网页翻译</h3><ol>
+<li><code>扩展</code> 网页翻译：</li>
+</ol>
+<ul>
+<li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
+<li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
+<li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
+</ul>
+<h2 id="06-下载视频"><a href="#06-下载视频" class="headerlink" title="06. 下载视频"></a>06. 下载视频</h2><h3 id="6-1-综合下载"><a href="#6-1-综合下载" class="headerlink" title="6.1 综合下载"></a>6.1 综合下载</h3><ul>
+<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
+<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
+<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
+</ul>
+<h3 id="6-2-B-站下载"><a href="#6-2-B-站下载" class="headerlink" title="6.2 B 站下载"></a>6.2 B 站下载</h3><ul>
+<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
+<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
+<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
+<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
+<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
+</ul>
+<h2 id="07-调教网盘"><a href="#07-调教网盘" class="headerlink" title="07. 调教网盘"></a>07. 调教网盘</h2><blockquote>
+<p><a href="https://flowus.cn/runningcheese/share/35fc2fb2-21a6-42f8-aa21-d1b007c39423">部分内容摘自奶大分享文档 2023-05-18</a></p>
+</blockquote>
+<h3 id="7-1-百度网盘"><a href="#7-1-百度网盘" class="headerlink" title="7.1 百度网盘"></a>7.1 百度网盘</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
+<li>度盘下载加速软件：<a href="https://static-s.iqiyi.com/wnbf/get.html">爱奇艺万能联播</a></li>
+<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
+<li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a>、<a href="https://scriptcat.org/script-show-page/913">KubeDown</a></li>
+<li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
+<li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
+</ul>
+<h3 id="7-2-其他网盘"><a href="#7-2-其他网盘" class="headerlink" title="7.2 其他网盘"></a>7.2 其他网盘</h3><ul>
+<li><code>脚本</code> <a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">（改）网盘直链下载助手</a>：在网页端获取网盘文件真实下载地址，调用IDM等工具下载。支持 <code>百度阿里天翼迅雷夸克移动</code> 六大网盘</li>
+</ul>
+<h3 id="7-3-辅助工具"><a href="#7-3-辅助工具" class="headerlink" title="7.3 辅助工具"></a>7.3 辅助工具</h3><ul>
+<li>倍速播放网盘视频： <a href="https://scriptcat.org/script-show-page/340"><code>脚本</code> BD网盘视频播放器</a>、 <a href="https://greasyfork.org/zh-CN/scripts/381682"><code>脚本</code> HTML5视频播放器增强</a>、<a href="https://github.com/polywock/globalSpeed"><code>扩展</code> Global Speed</a></li>
+</ul>
+<h2 id="08-真互联网"><a href="#08-真互联网" class="headerlink" title="08. 真互联网"></a>08. 真互联网</h2><blockquote>
+<p>部分素材来源：<a href="https://mp.weixin.qq.com/s/2HuwPXlqCofHR8sGFghOQA">奔跑中的奶酪</a></p>
+</blockquote>
+<p><code>1. 去网页重定向：</code></p>
+<ul>
+<li><code>脚本</code> 自动跳转(重定向)到目标链接：<a href="https://greasyfork.org/zh-CN/scripts/412612">Open the F**king URL Right Now</a>、<a href="https://greasyfork.org/zh-CN/scripts/416338">redirect外链跳转</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/11915">Anti-redirect</a>：去除各搜索引擎&#x2F;常用网站的重定向</li>
+</ul>
+<p><code>2. 调教搜索引擎：</code></p>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/443491">百度谷歌必应链接缩短</a>：缩短搜索引擎的冗长链接</li>
+<li><code>扩展</code> <a href="https://github.com/dessant/buster">Buster</a>：谷歌机器人验证码自动验证</li>
+</ul>
+<p><code>3. 去除登陆弹窗：</code></p>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/428960">CSDN&#x2F;知乎&#x2F;哔哩哔哩&#x2F;简书免登录去除弹窗广告</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/440871">骚扰拦截</a>：自动拦截或删除<code>下载弹窗</code>、<code>悬浮按钮</code>等影响用户体验的元素</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/37988">拒绝二维码登录</a>：默认使用账号密码登录，不出现二维码登录界面</li>
+</ul>
+<p><code>4. 自动展开全文：</code></p>
+<ul>
+<li><code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/414010">阅读全文&#x2F;自动展开全文</a></li>
+</ul>
+<h2 id="09-保存网站"><a href="#09-保存网站" class="headerlink" title="09. 保存网站"></a>09. 保存网站</h2><ul>
+<li>将整个网站离线到本地：<a href="https://www.httrack.com/">HTTrack Website Copier</a>、<a href="https://metaproducts.com/help/offline-explorer-enterprise/">Offline Explorer</a>、<a href="https://smalltool.github.io/">仿站小工具or小飞兔下载</a></li>
+<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
+<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
+<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>DMUCD</category>
+      </categories>
+      <tags>
+        <tag>网上冲浪</tag>
       </tags>
   </entry>
   <entry>
@@ -749,246 +749,6 @@
       </tags>
   </entry>
   <entry>
-    <title>无名的网站</title>
-    <url>/2022/06/04/%E6%97%A0%E5%90%8D%E7%9A%84%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>假作真时真亦假，无为有处有还无。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文中收录了一些网上平平无奇的网站，闲来无事可以看看</li>
-<li>为方便阅读，请添加网页目录生成<code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
-</ul>
-<h2 id="文档说明"><a href="#文档说明" class="headerlink" title="文档说明"></a>文档说明</h2><ul>
-<li>本文中收录的一些网站很容易挂掉，可以通过文章底部的渠道向作者反馈以及时更新</li>
-</ul>
-<h2 id="01-视觉娱乐"><a href="#01-视觉娱乐" class="headerlink" title="01. 视觉娱乐"></a>01. 视觉娱乐</h2><h3 id="1-1-字幕下载"><a href="#1-1-字幕下载" class="headerlink" title="1.1 字幕下载"></a>1.1 字幕下载</h3><ul>
-<li><a href="https://www.zimuxia.cn/">字幕侠</a>：百度、夸克、115、磁力资源</li>
-<li><a href="https://www.yysub.net/">人人影视字幕组</a>：磁力资源</li>
-<li><a href="http://zimuku.org/">字幕库</a>、<a href="https://4k-m.com/zimu/">影视字幕</a>、<a href="https://www.a4k.net/">A4k字幕网</a>、<a href="https://subhd.tv/">SubHD</a>、<a href="http://cn.zimuzimu.com/">中文字幕网</a>、<a href="https://www.rikua.com/">日夸字幕</a></li>
-<li><a href="https://www.subtitlecat.com/">SUBTITLe CAT</a>：这个里面有🔞字幕</li>
-</ul>
-<h3 id="1-2-纪录片区"><a href="#1-2-纪录片区" class="headerlink" title="1.2 纪录片区"></a>1.2 纪录片区</h3><ul>
-<li><del><a href="http://www.jlpcn.net/">纪录片天地</a></del>、<a href="http://jishi.cctv.com/">CCTV纪实</a>、<a href="https://www.bilibili.com/documentary">哔哩哔哩</a></li>
-</ul>
-<blockquote>
-<p>B站和央视可以免费看很多影视的</p>
-</blockquote>
-<h3 id="1-3-搜索引擎"><a href="#1-3-搜索引擎" class="headerlink" title="1.3 搜索引擎"></a>1.3 搜索引擎</h3><p><code>1. 在线资源搜索：</code></p>
-<ul>
-<li><a href="https://www.s5t.com/">搜网通</a>、<a href="https://www.dianyinggou.com/">电影狗</a>、<a href="http://www.cupfox.com/">茶杯狐</a>、<a href="https://www.dianyingtaotao.com/">电影淘淘</a>、<a href="https://7080.wang/index.html">7080影视搜</a></li>
-</ul>
-<p><code>2. 网盘资源搜索：</code></p>
-<ul>
-<li><a href="https://nmme.one/">橘子盘搜</a></li>
-</ul>
-<h3 id="1-4-在线影院"><a href="#1-4-在线影院" class="headerlink" title="1.4 在线影院"></a>1.4 在线影院</h3><blockquote>
-<p>在线播放网站+浏览器&#x3D;不需要APP</p>
-</blockquote>
-<p><code>1. 第一梯队：</code></p>
-<ul>
-<li><a href="https://libvio.app/">LIBVIO</a>、<a href="https://www.chaospace.fun/">CHAOSPACE </a>、<a href="https://cokemv.me/">COKEMV</a>、<a href="https://aidi.tv/">爱迪影视</a>、<a href="https://zxzj.vip/">在线之家</a>、<a href="https://www.voflix.com/">Voflix</a>、<a href="https://www.ajeee.com/">Nike影视网</a></li>
-</ul>
-<p><code>2. 第二梯队：</code></p>
-<ul>
-<li><a href="https://xmmi.xyz/">小猫咪影视</a>、<a href="https://www.mdoutv.com/">麦豆TV</a>、<a href="https://dmxq.fun/">大米星球</a>、<a href="https://www.citydy.com/">城市电影</a>、<a href="https://555dianying.cc/">555电影</a>、<a href="https://dogechan.com/">Doge分享</a>、<a href="https://www.czspp.com/">厂长资源</a></li>
-</ul>
-<h3 id="1-5-二次元区"><a href="#1-5-二次元区" class="headerlink" title="1.5 二次元区"></a>1.5 二次元区</h3><p><code>1. 在线动漫：</code></p>
-<ul>
-<li><a href="https://www.cywacg.moe/">次元W</a>、<a href="http://halihali2.com/">哈哩哈哩</a>、<a href="http://www.fengchedm.com/">风车动漫</a>、<a href="http://www.zzzfun.com/">ZzzFun</a>、<a href="https://imomoe.one/">樱花动漫</a></li>
-</ul>
-<p><code>2. 动漫磁力：</code></p>
-<ul>
-<li><a href="http://share.dmhy.org/">動漫花園</a>、<a href="https://nyaa.si/">Nyaa</a>、<a href="https://bangumi.moe/">萌番组</a>、<a href="https://acg.rip/">ACG.RIP</a>、<a href="https://dmly.me/">动漫领域</a>、<a href="https://mikanani.me/">蜜柑计划</a>、<a href="http://www.hysub.net/">幻樱字幕组</a></li>
-</ul>
-<p><code>3. 在线漫画</code></p>
-<ul>
-<li><a href="http://www.qiman59.com/">奇漫屋</a>、<a href="https://manhua.dmzj.com/">动漫之家</a>、<a href="https://www.1kkk.com/">漫画人</a>、<a href="https://www.manhuadb.com/#">日漫大全</a></li>
-</ul>
-<h3 id="1-6-欧美日韩"><a href="#1-6-欧美日韩" class="headerlink" title="1.6 欧美日韩"></a>1.6 欧美日韩</h3><blockquote>
-<p>本文档中的绝大多数影视网站都有你想看的欧美日韩剧</p>
-</blockquote>
-<p><code>1. 综合搜索：</code></p>
-<ul>
-<li><a href="https://www.nfyingshi.com/">奈菲影视</a>、<a href="https://ddys.tv/">低端影视</a>、<a href="https://www.novipnoad.com/">NO视频</a>、<a href="https://m.rr.tv/">人人视频</a></li>
-</ul>
-<p><code>2. 美剧专区：</code></p>
-<ul>
-<li><a href="https://www.meijuttb.com/">美剧天堂吧</a>、<a href="https://www.91mjtt.cc/">91美剧网</a>、<a href="https://v.dsb.ink/#/">SOZMZ</a>、<a href="https://www.meijutt.tv/">美剧天堂</a>、<a href="https://www.meijumi.net/">美剧迷</a>、<a href="https://www.kankanmeiju.com/">看看美剧</a>、<a href="https://agmov.com/">阿哥美剧</a></li>
-</ul>
-<p><code>3. 韩日专区：</code></p>
-<ul>
-<li><a href="https://www.tvn.cc/">韩日泰剧TV网</a>、<a href="https://www.hanmi.org/">韩迷网</a>、<a href="https://www.hanfan.cc/">韩饭网</a>、<a href="https://rijuvip.com/">日剧网</a></li>
-</ul>
-<h3 id="1-7-网盘分享"><a href="#1-7-网盘分享" class="headerlink" title="1.7 网盘分享"></a>1.7 网盘分享</h3><blockquote>
-<p>通过百度、阿里、夸克、迅雷等网盘分享资源</p>
-</blockquote>
-<ul>
-<li><del><a href="https://yyds.fans/">YYDSfans</a></del>、<del><a href="https://yydshd.com/index">YYDSHD</a></del>、<a href="https://www.rrdynb.com/index.html">人人电影网</a>、<a href="https://unnn.fun/">皮皮虾资源</a></li>
-</ul>
-<h3 id="1-8-磁力资源"><a href="#1-8-磁力资源" class="headerlink" title="1.8 磁力资源"></a>1.8 磁力资源</h3><blockquote>
-<p>可以将磁力直接转存到迅雷云盘、PikPak、<a href="https://www.diancigaoshou.com/">电磁高手</a>观看</p>
-</blockquote>
-<p><code>1. 高清画质：</code></p>
-<ul>
-<li><a href="https://btbtt18.com/">BT之家</a>、<a href="https://www.dygod.org/">电影天堂</a>、<a href="https://www.domp4.cc/">Mp4电影</a>、<a href="https://www.ciligod.com/">磁力天堂</a>、<a href="https://www.btdx8.com/">比特大雄</a></li>
-<li><a href="https://www.bugutv.cn/">布谷TV</a>、<a href="https://www.bdys01.com/">哔嘀影视</a>、<a href="https://www.bt-tt.com/">BT天堂</a>、<a href="https://www.btbtt9527.com/s.htm">BT9527</a>、<a href="https://www.jiyingw.vip/">极影网</a></li>
-</ul>
-<p><code>2. 超清画质：</code></p>
-<ul>
-<li><a href="https://www.yinfans.me/">音范丝</a>、<a href="https://gaoqing.fm/">高清电台</a>、<a href="https://webhd.cc/">WebHD</a>、<a href="https://www.dhtclub.com/">DHTCLUB</a>、<a href="www.butailing.com">不太灵影视</a></li>
-</ul>
-<p><code>3. 其他站点：</code></p>
-<ul>
-<li><a href="http://rutor.is/">rutor.is</a>：曾经非常出名的俄罗斯网站</li>
-<li><a href="https://www.ysfxba.com/">影视分享</a>：一些古老的资源在这里也有</li>
-<li>BTNull 无名小站-❤：<code>线路</code> <a href="https://www.btnull.org/">1</a>、<a href="https://www.btnull.to/">2</a>、<a href="https://www.btnull.si/">3</a>、<a href="https://www.btnull.nu/">4</a>、<a href="https://www.btnull.in/">5</a>、<a href="https://www.btnull.fun/">6</a></li>
-</ul>
-<h2 id="02-PPT-模板"><a href="#02-PPT-模板" class="headerlink" title="02. PPT 模板"></a>02. PPT 模板</h2><p><code>1. 中文站点：</code></p>
-<ul>
-<li><a href="https://www.pptsupermarket.com/">PPT超级市场</a>、<a href="http://www.51pptmoban.com/">51PPT模板网</a>、<a href="http://www.ypppt.com/">优品PPT</a>、<a href="https://www.ppthui.com/">PPT汇</a></li>
-</ul>
-<p><code>2. 英文站点：</code></p>
-<ul>
-<li><a href="https://slidesgo.com/">Slidesgo-❤</a>、<a href="https://slidesmash.com/">Slidesmas</a>、<a href="http://www.hippter.com/">HiPPTER</a>、<a href="https://justfreeslide.com/ppt-templates/">Just Free Slide</a></li>
-</ul>
-<h2 id="03-字体下载"><a href="#03-字体下载" class="headerlink" title="03. 字体下载"></a>03. 字体下载</h2><p><code>1. 中文站点：</code></p>
-<ul>
-<li><a href="https://www.100font.com/">免版权字体</a>、<a href="http://www.xiaa.net/index.html">Aa字库</a>、<a href="https://www.maoken.com/">猫啃网</a>、<a href="https://www.hellofont.cn/home">字由</a></li>
-</ul>
-<p><code>2. 英文站点：</code></p>
-<ul>
-<li><a href="https://www.fontspace.com/">Fonts-FontSpace</a>、<a href="https://www.fontsquirrel.com/">Font Squirrel</a></li>
-</ul>
-<h2 id="04-平面设计"><a href="#04-平面设计" class="headerlink" title="04. 平面设计"></a>04. 平面设计</h2><blockquote>
-<p><a href="https://www.domestika.org/en/blog">Domestika’s blog</a>：号称是“最大的创意社区”</p>
-</blockquote>
-<h3 id="4-1-配色生成"><a href="#4-1-配色生成" class="headerlink" title="4.1 配色生成"></a>4.1 配色生成</h3><ul>
-<li><a href="http://khroma.co/">Khroma</a>：输入你喜欢的颜色→AI学习→生成你喜欢的颜色</li>
-<li><a href="http://colormind.io/">Colormind</a>和<a href="https://huemint.com/">Huemint</a>：上传你喜欢的图片→AI学习→生成你喜欢的颜色</li>
-<li><a href="https://colordrop.io/">ColorDrop</a> <code>OR</code> <a href="https://www.schemecolor.com/">SchemeColor</a>：同时生成四种 <code>OR</code> 六种配色</li>
-<li><a href="https://color.adobe.com/create/color-wheel">Adobe Color</a>：可以将配色保存在Creative Cloud帐户</li>
-<li><a href="https://mycolor.space/">ColorSpace</a>：选择一种你喜欢的颜色，它将生成二十五个新的调色板</li>
-<li><a href="https://colorkuler.com/">Colorkuler</a>：免费版本会检查你Instagram账户最新的九张图片并生成调色板</li>
-<li><a href="http://www.colorlisa.com/">Color Lisa</a>：提供著名艺术家的五色套装</li>
-<li><a href="http://brandcolors.net/">Brand Colors</a>：有各大顶级国际品牌的标志配色</li>
-<li><a href="https://coolors.co/">Coolors</a>：有应用程序、Figma插件、Chrome扩展、Adobe扩展等</li>
-<li>更多：<a href="https://learnui.design/tools/data-color-picker.html">Palette Generator</a>、<a href="https://colorspark.app/">ColorSpark</a>、<a href="https://colors.dopely.top/">Dopely Colors</a>、<a href="https://paletton.com/">Paletton</a></li>
-</ul>
-<h3 id="4-2-设计素材"><a href="#4-2-设计素材" class="headerlink" title="4.2 设计素材"></a>4.2 设计素材</h3><p><code>1. 综合站点：</code></p>
-<ul>
-<li><a href="https://www.freepik.com/">Freepik</a>、<a href="https://www.vecteezy.com/">Vecteezy</a>、<a href="https://www.iconfont.cn/">阿里矢量图库</a>、<a href="https://pngtree.com/">Pngtree</a>、<a href="https://igoutu.cn/">Icons8</a>、<a href="https://www.flaticon.com/">Flaticon</a>、<a href="https://vectorportal.com/">VectorPortal</a></li>
-</ul>
-<p><code>2. Icon格式：</code></p>
-<ul>
-<li><a href="https://icon-icons.com/">Icon Icons</a>、<a href="https://fontawesome.com/icons">Font Awesome</a>、<a href="https://icons8.com/">Free Icons</a>、<a href="https://www.iconfinder.com/">Iconfinder</a>、<a href="https://iconstore.co/">Iconstore</a>、<a href="https://iconmonstr.com/">iconmonstr</a></li>
-<li><a href="https://icon-sets.iconify.design/">Iconify Design</a>、<a href="https://www.svgrepo.com/">SVG Repo</a>、<a href="https://www.onlinewebfonts.com/icon/">Web Fonts</a>、<a href="https://www.shareicon.net/">shareicon</a>、<a href="https://www.iconninja.com/">Icon Ninja</a></li>
-</ul>
-<p><code>3. Logo素材：</code></p>
-<ul>
-<li><a href="https://logos.fandom.com/wiki/Logopedia">Logopedia</a>、<a href="https://www.logolynx.com/">Logos</a>、<a href="https://seeklogo.com/">Seek Logo</a>、<a href="https://1000logos.net/">1000 Logos</a>、<a href="https://www.vectorlogo.zone/">VectorLogoZone</a>、<a href="https://logodix.com/">Logo Dix</a>、<a href="https://en.logodownload.org/">Logo Download</a>  </li>
-<li><a href="https://brandlogos.net/">Brand Logos</a>、<a href="https://www.epicicons.com/">Epic Icons</a> 、<a href="https://www.sportslogos.net/">Sports Logos</a>、<a href="http://www.chebiao.net/">车标大全</a></li>
-</ul>
-<p><code>4. PNG-格式：</code></p>
-<ul>
-<li><a href="https://www.cleanpng.com/">CleanPNG</a>、<a href="https://undraw.co/illustrations">Illustrations</a>、<a href="http://pngimg.com/">PNG images</a>、<a href="https://www.stickpng.com/">Stick PNG</a>、<a href="https://www.pngfind.com/">Png Find</a>、<a href="https://www.pngdirs.com/">PNG Dirs</a>、<a href="https://www.pngall.com/">PNG All</a></li>
-<li><a href="https://www.pngpix.com/">Png Pix</a>、<a href="https://www.cossyimages.com/">Cossy Images</a>、<a href="https://www.crazypng.com/">Crazy Png</a>、<a href="https://www.pngmart.com/">PNG Mart</a>、<a href="https://www.pinpng.com/">Pin PNG</a>、<a href="https://imgbin.com/">IMG BIN</a>、<a href="https://dwpng.com/">DW PNG</a></li>
-</ul>
-<p><code>5. PSD-格式：</code></p>
-<ul>
-<li><a href="https://m.sc.chinaz.com/psd/">PS站长素材</a>、<a href="http://www.sccnn.com/">素材CNN</a>、<a href="https://www.lanrentuku.com/psd/">懒人图库</a>、<a href="https://psdboom.com/">PSD Elements</a>、<a href="https://365psd.com/">Free PSD</a>、<a href="https://free-psd-templates.com/">PSD Templates</a>、<a href="https://snipstock.com/">Snipstock</a></li>
-</ul>
-<h3 id="4-3-美图下载"><a href="#4-3-美图下载" class="headerlink" title="4.3 美图下载"></a>4.3 美图下载</h3><p><code>1. 剧照海报：</code></p>
-<ul>
-<li><a href="https://movie.douban.com/">豆瓣电影</a>、<a href="https://movies.alphacoders.com/">Movie Abyss</a>、<a href="https://www.moviemania.io/desktop">Moviemania</a>、<a href="https://www.themoviedb.org/">The Movie Database</a>、<a href="http://www.impawards.com/">IMP Awards </a>、<a href="https://www.moviepostersgallery.com/">Movie Posters Gallery</a></li>
-</ul>
-<p><code>2. 壁纸美图：</code></p>
-<ul>
-<li><a href="https://wallhaven.cc/">Wahaven-❤</a>、<a href="https://bz.zzzmh.cn/index">极简壁纸</a>、必应壁纸<a href="https://bing.ioliu.cn/">(1)</a> <a href="http://bimg.top/">(2)</a>、<a href="https://wall.alphacoders.com/">Wallpaper Abyss</a>、<a href="https://wallpaperhub.app/">WallpaperHub</a></li>
-</ul>
-<p><code>3. 动态壁纸：</code></p>
-<ul>
-<li>视频壁纸下载网站：<a href="https://vsthemes.org/en/">Vsthemes</a>、<a href="https://wallegend.net/en/">Wallegend</a>、<a href="https://www.wallpaperhdv.net/">Wallpaperhdv</a></li>
-<li>将视频导入免费的<a href="https://github.com/rocksdanister/lively#download">Lively Wallpaper</a>即可生成作为动态壁纸</li>
-<li>打开<a href="https://steamcommunity.com/app/431960/workshop/">Steam创意工坊</a>，查找自己喜欢的壁纸，复制链接到以下任一网址下载(无法下载&gt;1GB的壁纸）：<a href="http://steamworkshop.download/">网址一</a>、<a href="https://ggntw.com/steam">网址二</a>、<a href="https://uiuiui.in/en/workshop">网址三</a></li>
-</ul>
-<blockquote>
-<p>详细教程：<br>①将下载的zip文件解压到一个单独的文件夹中（如“wallpaper_DMUCD”）<br>②将以上整个文件夹（如“wallpaper_DMUCD”）移动到Wallpaper Engine安装目录下的“projects\myprojects”文件夹中<br>③重启Wallpaper Engine即可选择使用下载好的壁纸</p>
-</blockquote>
-<p><code>4. 摄影作品：</code></p>
-<ul>
-<li><a href="https://unsplash.com/">Unsplash-❤</a>、<a href="https://pixabay.com/">Pixabay</a>、<a href="https://skitterphoto.com/">Skitterphoto</a>、<a href="https://isorepublic.com/">ISO Republic</a>、<a href="https://pixabay.com/zh/">Pixabay</a>、<a href="https://freenaturestock.com/">Nature Stock</a>、<a href="https://www.foodiesfeed.com/">Food Photos</a>、<a href="https://www.logosc.cn/so/">搜图神器</a>、<a href="https://cc0.cn/">cc0图片网</a></li>
-</ul>
-<h3 id="4-4-智能抠图"><a href="#4-4-智能抠图" class="headerlink" title="4.4 智能抠图"></a>4.4 智能抠图</h3><ul>
-<li><a href="https://www.remove.bg/zh">Remove.bg</a>：消除图片中的背景</li>
-<li><a href="https://www.unscreen.com/">Unscreen</a>：消除视频中的背景</li>
-<li><a href="https://www.magiceraser.io/">Magic Eraser</a>：删除图像中不需要的部分</li>
-</ul>
-<h2 id="05-影音制作"><a href="#05-影音制作" class="headerlink" title="05. 影音制作"></a>05. 影音制作</h2><h3 id="5-1-音频素材"><a href="#5-1-音频素材" class="headerlink" title="5.1 音频素材"></a>5.1 音频素材</h3><ul>
-<li><a href="https://freepd.com/">FreePD.com</a>、<a href="https://audiojungle.net/">AudioJungle </a>、<a href="https://musopen.org/">Musopen</a>、<a href="https://licensing.jamendo.com/en/royalty-free-music">Jamendo Licensing</a></li>
-<li><a href="http://ccmixter.org/">ccMixter</a>、<a href="https://freemusicarchive.org/">Free Music Archive</a>、<a href="https://freesound.org/">Freesound</a></li>
-</ul>
-<h3 id="5-2-视频素材"><a href="#5-2-视频素材" class="headerlink" title="5.2 视频素材"></a>5.2 视频素材</h3><ul>
-<li><a href="https://coverr.co/">Free Stock Video Footage</a>、<a href="http://vidlery.com/">Free Animated Video Backgrounds</a>、<a href="https://mazwai.com/">Free Videos Download</a></li>
-<li><a href="https://mixkit.co/">Mixkit</a>、<a href="https://wedistill.io/">Distill</a>、<a href="https://www.videvo.net/">Free Stock Video Footage Download</a></li>
-</ul>
-<h2 id="06-书籍杂志"><a href="#06-书籍杂志" class="headerlink" title="06. 书籍杂志"></a>06. 书籍杂志</h2><ul>
-<li><a href="https://magazinelib.com/">Download PDF magazines</a>：国外杂志下载</li>
-<li><a href="http://www.qcenglish.com/">七彩英语-英文原版原著下载</a></li>
-<li><a href="https://www.marxists.org/chinese/index.html">马克思主义文库</a>：传播马克思主义和共产主义</li>
-<li><a href="https://ctext.org/zhs">中国哲学书电子化计划</a>：线上开放电子图书馆，为中外学者提供中国历代传世文献</li>
-</ul>
-<h2 id="07-考研网课"><a href="#07-考研网课" class="headerlink" title="07. 考研网课"></a>07. 考研网课</h2><ul>
-<li><code>永硕E盘</code>站点：<a href="http://qzbltushu.ysepan.com/">金榜题名</a>、<a href="http://axky.ys168.com/">安心考研</a>、<a href="http://daxuesheng123.ysepan.com/">白嫖の地</a>、<a href="http://gongkao6688.edudisk.cn/">guokao6688</a></li>
-<li>自己搭建的站点：<a href="https://pan.uvooc.com/">友沃可</a>、<a href="http://www.tikuwang.com/app/index.php?i=2&c=entry&do=fengmian&m=hulu_info">题库网</a>、<a href="https://bkfeng.top/">本卡风</a></li>
-<li>一些优质公众号：陈叨叨杂货铺、最快考研资料、学习Plus、小丸子考研铺、研池大叔、研可可、考研加油社</li>
-<li>阿里、夸克云盘：<a href="https://www.aliyundrive.com/s/Qor48UbACSD">学习资源船仓</a>、<a href="https://pan.quark.cn/s/3a59009c8aa5#/list/share">资源小海洋</a></li>
-</ul>
-<h2 id="08-听听音乐"><a href="#08-听听音乐" class="headerlink" title="08. 听听音乐"></a>08. 听听音乐</h2><p><code>1. 推荐网站：</code></p>
-<ul>
-<li><a href="https://myfreemp3juices.cc/">MyFreeMP3</a>：资源超全，提供<code>320Kbps Mp3</code>格式下载</li>
-<li><a href="https://www.pt80.cc/">捌零音乐论坛</a>：资源很多，但是要氪重金才能下载！</li>
-<li>逼哥-player：<a href="https://2019334.xyz/#">1</a>、<a href="http://101.43.74.213/">2</a>、<a href="https://github.com/turkyden/lizhi">3</a>、<a href="https://www.lizhi334.com/">4</a>、<a href="https://www.lizhinb.com/">5</a>、<a href="https://github.com/GoldSubmarine/lizhi">6</a>、<a href="https://github.com/PetalsOnaWet/lizhi">7</a></li>
-</ul>
-<p><code>2. 推荐软件：</code></p>
-<ul>
-<li><a href="https://lxmusic.toside.cn/">洛雪音乐助手</a>：支持播放<code>全网</code>音乐</li>
-<li>酷我音乐破解版：网传版本基本解锁了所有功能</li>
-<li>五音助手：支持播放、下载全网音乐</li>
-</ul>
-<p><code>3. 无损下载：</code></p>
-<ul>
-<li><a href="https://thewind.xyz/">TheWind</a>、<a href="https://music.y444.cn/#/">下歌吧</a>、<a href="https://www.51ape.com/">51Ape</a>、<a href="https://www.hifini.com/">HiFiNi</a>、<a href="https://www.dtshot.com/">DTShot</a></li>
-<li><a href="http://www.xyxz001.com/music/">夕阳小站</a>、<a href="https://www.xlebbs.com/forum-flac-1.html">享乐音乐网</a>、<a href="https://www.cdbao.net/">CD包音乐网</a>、<a href="https://tieba.baidu.com/f?kw=%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90">无损音乐吧</a></li>
-</ul>
-<p><code>4. 补充网站：</code></p>
-<ul>
-<li><a href="https://www.musicenc.com/">MusicEnc</a>、<a href="https://bailemi.com/">百乐米</a>、<a href="https://tool.liumingye.cn/music/#/">FreeMp3</a>、<a href="https://www.zz123.com/">ZZ123</a>、<a href="https://tonzhon.com/">铜钟</a></li>
-</ul>
-<h2 id="09-大杂烩区"><a href="#09-大杂烩区" class="headerlink" title="09. 大杂烩区"></a>09. 大杂烩区</h2><blockquote>
-<p>几个啥都有的网站，适合浪费时间</p>
-</blockquote>
-<p><code>1. 资源空间：</code></p>
-<ul>
-<li>某储物间：<a href="https://www.xiaoshuai.link/locker">小帅同学的储物间</a>、<a href="https://axutongxue.com/">阿虚同学的储物间</a></li>
-<li>永硕E盘：<a href="http://chendandan.ysepan.com/">陈蛋蛋的宝藏库</a>、<a href="http://yuzhuyi.ysepan.com/">羽享平台</a>、<a href="http://baozangku.ysepan.com/">哆啦A梦的神奇口袋</a></li>
-</ul>
-<p><code>2. 导航网站：</code></p>
-<ul>
-<li><a href="https://www.sousuopu.com/">搜索铺</a>、<a href="https://wanyouw.com/">万有导航</a>、<a href="https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/fodkuzz5eaw0w">Noise导航</a>、<a href="https://www.jizhihezi.com/">集知盒子</a>、<a href="http://ilxdh.com/">龙轩导航</a>、<a href="https://xydh.fun/gmengshuai">小帅同学导航</a>、<a href="https://rjawei.vip/">阿威导航</a>、<a href="www.jayhome.cc">Jay仓库</a></li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>DMUCD</category>
-      </categories>
-      <tags>
-        <tag>优质站点</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>看不懂教程</title>
     <url>/2022/06/04/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
     <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
@@ -1264,6 +1024,246 @@
       </categories>
       <tags>
         <tag>科研笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>无名的网站</title>
+    <url>/2022/06/04/%E6%97%A0%E5%90%8D%E7%9A%84%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>假作真时真亦假，无为有处有还无。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文中收录了一些网上平平无奇的网站，闲来无事可以看看</li>
+<li>为方便阅读，请添加网页目录生成<code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a></li>
+</ul>
+<h2 id="文档说明"><a href="#文档说明" class="headerlink" title="文档说明"></a>文档说明</h2><ul>
+<li>本文中收录的一些网站很容易挂掉，可以通过文章底部的渠道向作者反馈以及时更新</li>
+</ul>
+<h2 id="01-视觉娱乐"><a href="#01-视觉娱乐" class="headerlink" title="01. 视觉娱乐"></a>01. 视觉娱乐</h2><h3 id="1-1-字幕下载"><a href="#1-1-字幕下载" class="headerlink" title="1.1 字幕下载"></a>1.1 字幕下载</h3><ul>
+<li><a href="https://www.zimuxia.cn/">字幕侠</a>：百度、夸克、115、磁力资源</li>
+<li><a href="https://www.yysub.net/">人人影视字幕组</a>：磁力资源</li>
+<li><a href="http://zimuku.org/">字幕库</a>、<a href="https://4k-m.com/zimu/">影视字幕</a>、<a href="https://www.a4k.net/">A4k字幕网</a>、<a href="https://subhd.tv/">SubHD</a>、<a href="http://cn.zimuzimu.com/">中文字幕网</a>、<a href="https://www.rikua.com/">日夸字幕</a></li>
+<li><a href="https://www.subtitlecat.com/">SUBTITLe CAT</a>：这个里面有🔞字幕</li>
+</ul>
+<h3 id="1-2-纪录片区"><a href="#1-2-纪录片区" class="headerlink" title="1.2 纪录片区"></a>1.2 纪录片区</h3><ul>
+<li><del><a href="http://www.jlpcn.net/">纪录片天地</a></del>、<a href="http://jishi.cctv.com/">CCTV纪实</a>、<a href="https://www.bilibili.com/documentary">哔哩哔哩</a></li>
+</ul>
+<blockquote>
+<p>B站和央视可以免费看很多影视的</p>
+</blockquote>
+<h3 id="1-3-搜索引擎"><a href="#1-3-搜索引擎" class="headerlink" title="1.3 搜索引擎"></a>1.3 搜索引擎</h3><p><code>1. 在线资源搜索：</code></p>
+<ul>
+<li><a href="https://www.s5t.com/">搜网通</a>、<a href="https://www.dianyinggou.com/">电影狗</a>、<a href="http://www.cupfox.com/">茶杯狐</a>、<a href="https://www.dianyingtaotao.com/">电影淘淘</a>、<a href="https://7080.wang/index.html">7080影视搜</a></li>
+</ul>
+<p><code>2. 网盘资源搜索：</code></p>
+<ul>
+<li><a href="https://nmme.one/">橘子盘搜</a></li>
+</ul>
+<h3 id="1-4-在线影院"><a href="#1-4-在线影院" class="headerlink" title="1.4 在线影院"></a>1.4 在线影院</h3><blockquote>
+<p>在线播放网站+浏览器&#x3D;不需要APP</p>
+</blockquote>
+<p><code>1. 第一梯队：</code></p>
+<ul>
+<li><a href="https://libvio.app/">LIBVIO</a>、<a href="https://www.chaospace.fun/">CHAOSPACE </a>、<a href="https://cokemv.me/">COKEMV</a>、<a href="https://aidi.tv/">爱迪影视</a>、<a href="https://zxzj.vip/">在线之家</a>、<a href="https://www.voflix.com/">Voflix</a>、<a href="https://www.ajeee.com/">Nike影视网</a></li>
+</ul>
+<p><code>2. 第二梯队：</code></p>
+<ul>
+<li><a href="https://xmmi.xyz/">小猫咪影视</a>、<a href="https://www.mdoutv.com/">麦豆TV</a>、<a href="https://dmxq.fun/">大米星球</a>、<a href="https://www.citydy.com/">城市电影</a>、<a href="https://555dianying.cc/">555电影</a>、<a href="https://dogechan.com/">Doge分享</a>、<a href="https://www.czspp.com/">厂长资源</a></li>
+</ul>
+<h3 id="1-5-二次元区"><a href="#1-5-二次元区" class="headerlink" title="1.5 二次元区"></a>1.5 二次元区</h3><p><code>1. 在线动漫：</code></p>
+<ul>
+<li><a href="https://www.cywacg.moe/">次元W</a>、<a href="http://halihali2.com/">哈哩哈哩</a>、<a href="http://www.fengchedm.com/">风车动漫</a>、<a href="http://www.zzzfun.com/">ZzzFun</a>、<a href="https://imomoe.one/">樱花动漫</a></li>
+</ul>
+<p><code>2. 动漫磁力：</code></p>
+<ul>
+<li><a href="http://share.dmhy.org/">動漫花園</a>、<a href="https://nyaa.si/">Nyaa</a>、<a href="https://bangumi.moe/">萌番组</a>、<a href="https://acg.rip/">ACG.RIP</a>、<a href="https://dmly.me/">动漫领域</a>、<a href="https://mikanani.me/">蜜柑计划</a>、<a href="http://www.hysub.net/">幻樱字幕组</a></li>
+</ul>
+<p><code>3. 在线漫画</code></p>
+<ul>
+<li><a href="http://www.qiman59.com/">奇漫屋</a>、<a href="https://manhua.dmzj.com/">动漫之家</a>、<a href="https://www.1kkk.com/">漫画人</a>、<a href="https://www.manhuadb.com/#">日漫大全</a></li>
+</ul>
+<h3 id="1-6-欧美日韩"><a href="#1-6-欧美日韩" class="headerlink" title="1.6 欧美日韩"></a>1.6 欧美日韩</h3><blockquote>
+<p>本文档中的绝大多数影视网站都有你想看的欧美日韩剧</p>
+</blockquote>
+<p><code>1. 综合搜索：</code></p>
+<ul>
+<li><a href="https://www.nfyingshi.com/">奈菲影视</a>、<a href="https://ddys.tv/">低端影视</a>、<a href="https://www.novipnoad.com/">NO视频</a>、<a href="https://m.rr.tv/">人人视频</a></li>
+</ul>
+<p><code>2. 美剧专区：</code></p>
+<ul>
+<li><a href="https://www.meijuttb.com/">美剧天堂吧</a>、<a href="https://www.91mjtt.cc/">91美剧网</a>、<a href="https://v.dsb.ink/#/">SOZMZ</a>、<a href="https://www.meijutt.tv/">美剧天堂</a>、<a href="https://www.meijumi.net/">美剧迷</a>、<a href="https://www.kankanmeiju.com/">看看美剧</a>、<a href="https://agmov.com/">阿哥美剧</a></li>
+</ul>
+<p><code>3. 韩日专区：</code></p>
+<ul>
+<li><a href="https://www.tvn.cc/">韩日泰剧TV网</a>、<a href="https://www.hanmi.org/">韩迷网</a>、<a href="https://www.hanfan.cc/">韩饭网</a>、<a href="https://rijuvip.com/">日剧网</a></li>
+</ul>
+<h3 id="1-7-网盘分享"><a href="#1-7-网盘分享" class="headerlink" title="1.7 网盘分享"></a>1.7 网盘分享</h3><blockquote>
+<p>通过百度、阿里、夸克、迅雷等网盘分享资源</p>
+</blockquote>
+<ul>
+<li><del><a href="https://yyds.fans/">YYDSfans</a></del>、<del><a href="https://yydshd.com/index">YYDSHD</a></del>、<a href="https://www.rrdynb.com/index.html">人人电影网</a>、<a href="https://unnn.fun/">皮皮虾资源</a></li>
+</ul>
+<h3 id="1-8-磁力资源"><a href="#1-8-磁力资源" class="headerlink" title="1.8 磁力资源"></a>1.8 磁力资源</h3><blockquote>
+<p>可以将磁力直接转存到迅雷云盘、PikPak、<a href="https://www.diancigaoshou.com/">电磁高手</a>观看</p>
+</blockquote>
+<p><code>1. 高清画质：</code></p>
+<ul>
+<li><a href="https://btbtt18.com/">BT之家</a>、<a href="https://www.dygod.org/">电影天堂</a>、<a href="https://www.domp4.cc/">Mp4电影</a>、<a href="https://www.ciligod.com/">磁力天堂</a>、<a href="https://www.btdx8.com/">比特大雄</a></li>
+<li><a href="https://www.bugutv.cn/">布谷TV</a>、<a href="https://www.bdys01.com/">哔嘀影视</a>、<a href="https://www.bt-tt.com/">BT天堂</a>、<a href="https://www.btbtt9527.com/s.htm">BT9527</a>、<a href="https://www.jiyingw.vip/">极影网</a></li>
+</ul>
+<p><code>2. 超清画质：</code></p>
+<ul>
+<li><a href="https://www.yinfans.me/">音范丝</a>、<a href="https://gaoqing.fm/">高清电台</a>、<a href="https://webhd.cc/">WebHD</a>、<a href="https://www.dhtclub.com/">DHTCLUB</a>、<a href="www.butailing.com">不太灵影视</a></li>
+</ul>
+<p><code>3. 其他站点：</code></p>
+<ul>
+<li><a href="http://rutor.is/">rutor.is</a>：曾经非常出名的俄罗斯网站</li>
+<li><a href="https://www.ysfxba.com/">影视分享</a>：一些古老的资源在这里也有</li>
+<li>BTNull 无名小站-❤：<code>线路</code> <a href="https://www.btnull.org/">1</a>、<a href="https://www.btnull.to/">2</a>、<a href="https://www.btnull.si/">3</a>、<a href="https://www.btnull.nu/">4</a>、<a href="https://www.btnull.in/">5</a>、<a href="https://www.btnull.fun/">6</a></li>
+</ul>
+<h2 id="02-PPT-模板"><a href="#02-PPT-模板" class="headerlink" title="02. PPT 模板"></a>02. PPT 模板</h2><p><code>1. 中文站点：</code></p>
+<ul>
+<li><a href="https://www.pptsupermarket.com/">PPT超级市场</a>、<a href="http://www.51pptmoban.com/">51PPT模板网</a>、<a href="http://www.ypppt.com/">优品PPT</a>、<a href="https://www.ppthui.com/">PPT汇</a></li>
+</ul>
+<p><code>2. 英文站点：</code></p>
+<ul>
+<li><a href="https://slidesgo.com/">Slidesgo-❤</a>、<a href="https://slidesmash.com/">Slidesmas</a>、<a href="http://www.hippter.com/">HiPPTER</a>、<a href="https://justfreeslide.com/ppt-templates/">Just Free Slide</a></li>
+</ul>
+<h2 id="03-字体下载"><a href="#03-字体下载" class="headerlink" title="03. 字体下载"></a>03. 字体下载</h2><p><code>1. 中文站点：</code></p>
+<ul>
+<li><a href="https://www.100font.com/">免版权字体</a>、<a href="http://www.xiaa.net/index.html">Aa字库</a>、<a href="https://www.maoken.com/">猫啃网</a>、<a href="https://www.hellofont.cn/home">字由</a></li>
+</ul>
+<p><code>2. 英文站点：</code></p>
+<ul>
+<li><a href="https://www.fontspace.com/">Fonts-FontSpace</a>、<a href="https://www.fontsquirrel.com/">Font Squirrel</a></li>
+</ul>
+<h2 id="04-平面设计"><a href="#04-平面设计" class="headerlink" title="04. 平面设计"></a>04. 平面设计</h2><blockquote>
+<p><a href="https://www.domestika.org/en/blog">Domestika’s blog</a>：号称是“最大的创意社区”</p>
+</blockquote>
+<h3 id="4-1-配色生成"><a href="#4-1-配色生成" class="headerlink" title="4.1 配色生成"></a>4.1 配色生成</h3><ul>
+<li><a href="http://khroma.co/">Khroma</a>：输入你喜欢的颜色→AI学习→生成你喜欢的颜色</li>
+<li><a href="http://colormind.io/">Colormind</a>和<a href="https://huemint.com/">Huemint</a>：上传你喜欢的图片→AI学习→生成你喜欢的颜色</li>
+<li><a href="https://colordrop.io/">ColorDrop</a> <code>OR</code> <a href="https://www.schemecolor.com/">SchemeColor</a>：同时生成四种 <code>OR</code> 六种配色</li>
+<li><a href="https://color.adobe.com/create/color-wheel">Adobe Color</a>：可以将配色保存在Creative Cloud帐户</li>
+<li><a href="https://mycolor.space/">ColorSpace</a>：选择一种你喜欢的颜色，它将生成二十五个新的调色板</li>
+<li><a href="https://colorkuler.com/">Colorkuler</a>：免费版本会检查你Instagram账户最新的九张图片并生成调色板</li>
+<li><a href="http://www.colorlisa.com/">Color Lisa</a>：提供著名艺术家的五色套装</li>
+<li><a href="http://brandcolors.net/">Brand Colors</a>：有各大顶级国际品牌的标志配色</li>
+<li><a href="https://coolors.co/">Coolors</a>：有应用程序、Figma插件、Chrome扩展、Adobe扩展等</li>
+<li>更多：<a href="https://learnui.design/tools/data-color-picker.html">Palette Generator</a>、<a href="https://colorspark.app/">ColorSpark</a>、<a href="https://colors.dopely.top/">Dopely Colors</a>、<a href="https://paletton.com/">Paletton</a></li>
+</ul>
+<h3 id="4-2-设计素材"><a href="#4-2-设计素材" class="headerlink" title="4.2 设计素材"></a>4.2 设计素材</h3><p><code>1. 综合站点：</code></p>
+<ul>
+<li><a href="https://www.freepik.com/">Freepik</a>、<a href="https://www.vecteezy.com/">Vecteezy</a>、<a href="https://www.iconfont.cn/">阿里矢量图库</a>、<a href="https://pngtree.com/">Pngtree</a>、<a href="https://igoutu.cn/">Icons8</a>、<a href="https://www.flaticon.com/">Flaticon</a>、<a href="https://vectorportal.com/">VectorPortal</a></li>
+</ul>
+<p><code>2. Icon格式：</code></p>
+<ul>
+<li><a href="https://icon-icons.com/">Icon Icons</a>、<a href="https://fontawesome.com/icons">Font Awesome</a>、<a href="https://icons8.com/">Free Icons</a>、<a href="https://www.iconfinder.com/">Iconfinder</a>、<a href="https://iconstore.co/">Iconstore</a>、<a href="https://iconmonstr.com/">iconmonstr</a></li>
+<li><a href="https://icon-sets.iconify.design/">Iconify Design</a>、<a href="https://www.svgrepo.com/">SVG Repo</a>、<a href="https://www.onlinewebfonts.com/icon/">Web Fonts</a>、<a href="https://www.shareicon.net/">shareicon</a>、<a href="https://www.iconninja.com/">Icon Ninja</a></li>
+</ul>
+<p><code>3. Logo素材：</code></p>
+<ul>
+<li><a href="https://logos.fandom.com/wiki/Logopedia">Logopedia</a>、<a href="https://www.logolynx.com/">Logos</a>、<a href="https://seeklogo.com/">Seek Logo</a>、<a href="https://1000logos.net/">1000 Logos</a>、<a href="https://www.vectorlogo.zone/">VectorLogoZone</a>、<a href="https://logodix.com/">Logo Dix</a>、<a href="https://en.logodownload.org/">Logo Download</a>  </li>
+<li><a href="https://brandlogos.net/">Brand Logos</a>、<a href="https://www.epicicons.com/">Epic Icons</a> 、<a href="https://www.sportslogos.net/">Sports Logos</a>、<a href="http://www.chebiao.net/">车标大全</a></li>
+</ul>
+<p><code>4. PNG-格式：</code></p>
+<ul>
+<li><a href="https://www.cleanpng.com/">CleanPNG</a>、<a href="https://undraw.co/illustrations">Illustrations</a>、<a href="http://pngimg.com/">PNG images</a>、<a href="https://www.stickpng.com/">Stick PNG</a>、<a href="https://www.pngfind.com/">Png Find</a>、<a href="https://www.pngdirs.com/">PNG Dirs</a>、<a href="https://www.pngall.com/">PNG All</a></li>
+<li><a href="https://www.pngpix.com/">Png Pix</a>、<a href="https://www.cossyimages.com/">Cossy Images</a>、<a href="https://www.crazypng.com/">Crazy Png</a>、<a href="https://www.pngmart.com/">PNG Mart</a>、<a href="https://www.pinpng.com/">Pin PNG</a>、<a href="https://imgbin.com/">IMG BIN</a>、<a href="https://dwpng.com/">DW PNG</a></li>
+</ul>
+<p><code>5. PSD-格式：</code></p>
+<ul>
+<li><a href="https://m.sc.chinaz.com/psd/">PS站长素材</a>、<a href="http://www.sccnn.com/">素材CNN</a>、<a href="https://www.lanrentuku.com/psd/">懒人图库</a>、<a href="https://psdboom.com/">PSD Elements</a>、<a href="https://365psd.com/">Free PSD</a>、<a href="https://free-psd-templates.com/">PSD Templates</a>、<a href="https://snipstock.com/">Snipstock</a></li>
+</ul>
+<h3 id="4-3-美图下载"><a href="#4-3-美图下载" class="headerlink" title="4.3 美图下载"></a>4.3 美图下载</h3><p><code>1. 剧照海报：</code></p>
+<ul>
+<li><a href="https://movie.douban.com/">豆瓣电影</a>、<a href="https://movies.alphacoders.com/">Movie Abyss</a>、<a href="https://www.moviemania.io/desktop">Moviemania</a>、<a href="https://www.themoviedb.org/">The Movie Database</a>、<a href="http://www.impawards.com/">IMP Awards </a>、<a href="https://www.moviepostersgallery.com/">Movie Posters Gallery</a></li>
+</ul>
+<p><code>2. 壁纸美图：</code></p>
+<ul>
+<li><a href="https://wallhaven.cc/">Wahaven-❤</a>、<a href="https://bz.zzzmh.cn/index">极简壁纸</a>、必应壁纸<a href="https://bing.ioliu.cn/">(1)</a> <a href="http://bimg.top/">(2)</a>、<a href="https://wall.alphacoders.com/">Wallpaper Abyss</a>、<a href="https://wallpaperhub.app/">WallpaperHub</a></li>
+</ul>
+<p><code>3. 动态壁纸：</code></p>
+<ul>
+<li>视频壁纸下载网站：<a href="https://vsthemes.org/en/">Vsthemes</a>、<a href="https://wallegend.net/en/">Wallegend</a>、<a href="https://www.wallpaperhdv.net/">Wallpaperhdv</a></li>
+<li>将视频导入免费的<a href="https://github.com/rocksdanister/lively#download">Lively Wallpaper</a>即可生成作为动态壁纸</li>
+<li>打开<a href="https://steamcommunity.com/app/431960/workshop/">Steam创意工坊</a>，查找自己喜欢的壁纸，复制链接到以下任一网址下载(无法下载&gt;1GB的壁纸）：<a href="http://steamworkshop.download/">网址一</a>、<a href="https://ggntw.com/steam">网址二</a>、<a href="https://uiuiui.in/en/workshop">网址三</a></li>
+</ul>
+<blockquote>
+<p>详细教程：<br>①将下载的zip文件解压到一个单独的文件夹中（如“wallpaper_DMUCD”）<br>②将以上整个文件夹（如“wallpaper_DMUCD”）移动到Wallpaper Engine安装目录下的“projects\myprojects”文件夹中<br>③重启Wallpaper Engine即可选择使用下载好的壁纸</p>
+</blockquote>
+<p><code>4. 摄影作品：</code></p>
+<ul>
+<li><a href="https://unsplash.com/">Unsplash-❤</a>、<a href="https://pixabay.com/">Pixabay</a>、<a href="https://skitterphoto.com/">Skitterphoto</a>、<a href="https://isorepublic.com/">ISO Republic</a>、<a href="https://pixabay.com/zh/">Pixabay</a>、<a href="https://freenaturestock.com/">Nature Stock</a>、<a href="https://www.foodiesfeed.com/">Food Photos</a>、<a href="https://www.logosc.cn/so/">搜图神器</a>、<a href="https://cc0.cn/">cc0图片网</a></li>
+</ul>
+<h3 id="4-4-智能抠图"><a href="#4-4-智能抠图" class="headerlink" title="4.4 智能抠图"></a>4.4 智能抠图</h3><ul>
+<li><a href="https://www.remove.bg/zh">Remove.bg</a>：消除图片中的背景</li>
+<li><a href="https://www.unscreen.com/">Unscreen</a>：消除视频中的背景</li>
+<li><a href="https://www.magiceraser.io/">Magic Eraser</a>：删除图像中不需要的部分</li>
+</ul>
+<h2 id="05-影音制作"><a href="#05-影音制作" class="headerlink" title="05. 影音制作"></a>05. 影音制作</h2><h3 id="5-1-音频素材"><a href="#5-1-音频素材" class="headerlink" title="5.1 音频素材"></a>5.1 音频素材</h3><ul>
+<li><a href="https://freepd.com/">FreePD.com</a>、<a href="https://audiojungle.net/">AudioJungle </a>、<a href="https://musopen.org/">Musopen</a>、<a href="https://licensing.jamendo.com/en/royalty-free-music">Jamendo Licensing</a></li>
+<li><a href="http://ccmixter.org/">ccMixter</a>、<a href="https://freemusicarchive.org/">Free Music Archive</a>、<a href="https://freesound.org/">Freesound</a></li>
+</ul>
+<h3 id="5-2-视频素材"><a href="#5-2-视频素材" class="headerlink" title="5.2 视频素材"></a>5.2 视频素材</h3><ul>
+<li><a href="https://coverr.co/">Free Stock Video Footage</a>、<a href="http://vidlery.com/">Free Animated Video Backgrounds</a>、<a href="https://mazwai.com/">Free Videos Download</a></li>
+<li><a href="https://mixkit.co/">Mixkit</a>、<a href="https://wedistill.io/">Distill</a>、<a href="https://www.videvo.net/">Free Stock Video Footage Download</a></li>
+</ul>
+<h2 id="06-书籍杂志"><a href="#06-书籍杂志" class="headerlink" title="06. 书籍杂志"></a>06. 书籍杂志</h2><ul>
+<li><a href="https://magazinelib.com/">Download PDF magazines</a>：国外杂志下载</li>
+<li><a href="http://www.qcenglish.com/">七彩英语-英文原版原著下载</a></li>
+<li><a href="https://www.marxists.org/chinese/index.html">马克思主义文库</a>：传播马克思主义和共产主义</li>
+<li><a href="https://ctext.org/zhs">中国哲学书电子化计划</a>：线上开放电子图书馆，为中外学者提供中国历代传世文献</li>
+</ul>
+<h2 id="07-考研网课"><a href="#07-考研网课" class="headerlink" title="07. 考研网课"></a>07. 考研网课</h2><ul>
+<li><code>永硕E盘</code>站点：<a href="http://qzbltushu.ysepan.com/">金榜题名</a>、<a href="http://axky.ys168.com/">安心考研</a>、<a href="http://daxuesheng123.ysepan.com/">白嫖の地</a>、<a href="http://gongkao6688.edudisk.cn/">guokao6688</a></li>
+<li>自己搭建的站点：<a href="https://pan.uvooc.com/">友沃可</a>、<a href="http://www.tikuwang.com/app/index.php?i=2&c=entry&do=fengmian&m=hulu_info">题库网</a>、<a href="https://bkfeng.top/">本卡风</a></li>
+<li>一些优质公众号：陈叨叨杂货铺、最快考研资料、学习Plus、小丸子考研铺、研池大叔、研可可、考研加油社</li>
+<li>阿里、夸克云盘：<a href="https://www.aliyundrive.com/s/Qor48UbACSD">学习资源船仓</a>、<a href="https://pan.quark.cn/s/3a59009c8aa5#/list/share">资源小海洋</a></li>
+</ul>
+<h2 id="08-听听音乐"><a href="#08-听听音乐" class="headerlink" title="08. 听听音乐"></a>08. 听听音乐</h2><p><code>1. 推荐网站：</code></p>
+<ul>
+<li><a href="https://myfreemp3juices.cc/">MyFreeMP3</a>：资源超全，提供<code>320Kbps Mp3</code>格式下载</li>
+<li><a href="https://www.pt80.cc/">捌零音乐论坛</a>：资源很多，但是要氪重金才能下载！</li>
+<li>逼哥-player：<a href="https://2019334.xyz/#">1</a>、<a href="http://101.43.74.213/">2</a>、<a href="https://github.com/turkyden/lizhi">3</a>、<a href="https://www.lizhi334.com/">4</a>、<a href="https://www.lizhinb.com/">5</a>、<a href="https://github.com/GoldSubmarine/lizhi">6</a>、<a href="https://github.com/PetalsOnaWet/lizhi">7</a></li>
+</ul>
+<p><code>2. 推荐软件：</code></p>
+<ul>
+<li><a href="https://lxmusic.toside.cn/">洛雪音乐助手</a>：支持播放<code>全网</code>音乐</li>
+<li>酷我音乐破解版：网传版本基本解锁了所有功能</li>
+<li>五音助手：支持播放、下载全网音乐</li>
+</ul>
+<p><code>3. 无损下载：</code></p>
+<ul>
+<li><a href="https://thewind.xyz/">TheWind</a>、<a href="https://music.y444.cn/#/">下歌吧</a>、<a href="https://www.51ape.com/">51Ape</a>、<a href="https://www.hifini.com/">HiFiNi</a>、<a href="https://www.dtshot.com/">DTShot</a></li>
+<li><a href="http://www.xyxz001.com/music/">夕阳小站</a>、<a href="https://www.xlebbs.com/forum-flac-1.html">享乐音乐网</a>、<a href="https://www.cdbao.net/">CD包音乐网</a>、<a href="https://tieba.baidu.com/f?kw=%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90">无损音乐吧</a></li>
+</ul>
+<p><code>4. 补充网站：</code></p>
+<ul>
+<li><a href="https://www.musicenc.com/">MusicEnc</a>、<a href="https://bailemi.com/">百乐米</a>、<a href="https://tool.liumingye.cn/music/#/">FreeMp3</a>、<a href="https://www.zz123.com/">ZZ123</a>、<a href="https://tonzhon.com/">铜钟</a></li>
+</ul>
+<h2 id="09-大杂烩区"><a href="#09-大杂烩区" class="headerlink" title="09. 大杂烩区"></a>09. 大杂烩区</h2><blockquote>
+<p>几个啥都有的网站，适合浪费时间</p>
+</blockquote>
+<p><code>1. 资源空间：</code></p>
+<ul>
+<li>某储物间：<a href="https://www.xiaoshuai.link/locker">小帅同学的储物间</a>、<a href="https://axutongxue.com/">阿虚同学的储物间</a></li>
+<li>永硕E盘：<a href="http://chendandan.ysepan.com/">陈蛋蛋的宝藏库</a>、<a href="http://yuzhuyi.ysepan.com/">羽享平台</a>、<a href="http://baozangku.ysepan.com/">哆啦A梦的神奇口袋</a></li>
+</ul>
+<p><code>2. 导航网站：</code></p>
+<ul>
+<li><a href="https://www.sousuopu.com/">搜索铺</a>、<a href="https://wanyouw.com/">万有导航</a>、<a href="https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/fodkuzz5eaw0w">Noise导航</a>、<a href="https://www.jizhihezi.com/">集知盒子</a>、<a href="http://ilxdh.com/">龙轩导航</a>、<a href="https://xydh.fun/gmengshuai">小帅同学导航</a>、<a href="https://rjawei.vip/">阿威导航</a>、<a href="www.jayhome.cc">Jay仓库</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>DMUCD</category>
+      </categories>
+      <tags>
+        <tag>优质站点</tag>
       </tags>
   </entry>
 </search>
