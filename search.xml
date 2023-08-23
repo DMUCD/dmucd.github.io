@@ -1,6 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>上网去冲浪</title>
+    <url>/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
+    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
+<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+</ul>
+<h2 id="01-搜索引擎"><a href="#01-搜索引擎" class="headerlink" title="01. 搜索引擎"></a>01. 搜索引擎</h2><h3 id="1-1-综合搜索"><a href="#1-1-综合搜索" class="headerlink" title="1.1 综合搜索"></a>1.1 综合搜索</h3><ol>
+<li><a href="https://github.com/librarycloud/list">Mirror List</a>：发布谷歌搜索、谷歌学术、Github、维基百科等的镜像网站</li>
+<li><a href="https://ncm.deno.dev/">网页代理</a>：提供谷歌搜索、维基百科、Github等网站的代理服务</li>
+<li><a href="http://g.luciaz.me/">Google搜索-浙大镜像站</a>（网站答案分别是“心灵之约、水朝夕、csxy@123”）</li>
+<li><a href="https://fsoufsou.com/">F 搜</a>：国产阉割版Goolge搜索</li>
+<li><a href="https://quark.sm.cn/">神马搜索</a>：夸克浏览器在用，搜小说还可以</li>
+</ol>
+<h3 id="1-2-网盘搜索"><a href="#1-2-网盘搜索" class="headerlink" title="1.2 网盘搜索"></a>1.2 网盘搜索</h3><blockquote>
+<p>专门搜索各大网盘资源，可能并不太好用……</p>
+</blockquote>
+<p><code>1. 聚合搜索工具：</code></p>
+<ul>
+<li><a href="https://pan.qianfan.app/">千帆搜索</a>、<a href="https://www.yunpanziyuan.com/">云盘资源网</a>、<a href="https://yiso.eu.org/">易搜</a>、<a href="https://nmme.one/">橘子盘搜</a></li>
+<li><code>脚本</code> <a href="https://www.guapizhu.com/11576.html">我是网盘管家婆</a></li>
+<li><code>插件</code> 网盘全网搜索<a href="https://chrome.google.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">[1]</a>&#x2F;<a href="https://www.crxsoso.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">[2]</a></li>
+</ul>
+<p><code>2. 阿里网盘搜索：</code></p>
+<ul>
+<li><a href="https://www.upyunso.com/">UP云搜</a>、<a href="https://www.alipansou.com/">猫狸盘搜</a>、<a href="https://yunpan1.com/">云盘资源分享社区</a></li>
+</ul>
+<p><code>3. 百度网盘搜索：</code></p>
+<ul>
+<li><a href="https://www.sopandas.cn/">熊猫搜盘</a>、<a href="https://www.xiongdipan.com/">兄弟盘</a>、<a href="https://www.xuebapan.com/">学霸盘</a>、<a href="https://www.45256.com/">45256搜索</a></li>
+</ul>
+<h3 id="1-3-TG-搜索"><a href="#1-3-TG-搜索" class="headerlink" title="1.3 (TG)搜索"></a>1.3 (TG)搜索</h3><ul>
+<li><a href="http://www.sssoou.com/">telegram中文搜索</a>、<a href="https://meow.tg/">TG喵</a>、<a href="https://tg.qianfan.app/">千帆FG搜索</a></li>
+</ul>
+<h3 id="1-4-其他搜索"><a href="#1-4-其他搜索" class="headerlink" title="1.4 其他搜索"></a>1.4 其他搜索</h3><ul>
+<li><a href="http://www.iplant.cn/">iPlant 植物智</a>：上传图片识别植物</li>
+<li><a href="https://thepiratebay.org/i">The Pirate Bay</a>：著名的海盗湾</li>
+<li>历史网页查询：<a href="https://archive.org/">Internet Archive</a>、<a href="https://archive.ph/">Archive Today</a></li>
+</ul>
+<h2 id="02-插件脚本"><a href="#02-插件脚本" class="headerlink" title="02. 插件脚本"></a>02. 插件脚本</h2><blockquote>
+<p>添加脚本的步骤：</p>
+</blockquote>
+<ol>
+<li>在扩展商店搜索 <code>Tampermonkey</code> 这个扩展程序并添加</li>
+<li>在脚本商店搜索并添加想要的脚本即可</li>
+</ol>
+<h3 id="2-1-脚本商店"><a href="#2-1-脚本商店" class="headerlink" title="2.1 脚本商店"></a>2.1 脚本商店</h3><ul>
+<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a>：推荐使用</li>
+<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
+<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
+<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
+</ul>
+<h3 id="2-2-扩展商店"><a href="#2-2-扩展商店" class="headerlink" title="2.2 扩展商店"></a>2.2 扩展商店</h3><ol>
+<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
+</li>
+<li><p>离线扩展下载：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
+<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
+</ul>
+<h2 id="03-奶酪专区"><a href="#03-奶酪专区" class="headerlink" title="03. 奶酪专区"></a>03. 奶酪专区</h2><blockquote>
+<p>浏览器深度开发技术达人</p>
+</blockquote>
+<ul>
+<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
+<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
+<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome-Extensions</a>：奶酪-扩展推荐</li>
+</ul>
+<h2 id="04-GH-辅助"><a href="#04-GH-辅助" class="headerlink" title="04. GH 辅助"></a>04. GH 辅助</h2><ol>
+<li><p>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速器</a>、<a href="https://steampp.net/">Steam++</a>、<a href="https://github.com/dotnetcore/FastGithub">FastGithub</a>、<a href="https://www.dogfight360.com/blog/686">Steamcommunity 302</a>、<a href="https://github.com/Licoy/fetch-github-hosts">fetch-github-hosts</a></p>
+</li>
+<li><p>GitHub加速代理下载站：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
+</ul>
+<ol start="3">
+<li>Github的辅助工具：</li>
+</ol>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245">Github 增强-高速下载</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
+<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
+</ul>
+<ol start="4">
+<li>修改本地<code>hosts</code>文件畅快访问Github：<a href="https://github.com/521xueweihan/GitHub520">GitHub520</a>、<a href="https://github.com/ineo6/hosts">GitHub Hosts</a></li>
+</ol>
+<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
+<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
+</blockquote>
+<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
+<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
+<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
+<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
+<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
+<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
+<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
+</ul>
+<h3 id="5-2-权限处理"><a href="#5-2-权限处理" class="headerlink" title="5.2 权限处理"></a>5.2 权限处理</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130">文本选中复制</a>：解除复制限制</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497">网页限制解除(改)</a>：可以解除禁止复制、剪切、选择文本、右键菜单的限制</li>
+</ul>
+<h3 id="5-3-图片查看"><a href="#5-3-图片查看" class="headerlink" title="5.3 图片查看"></a>5.3 图片查看</h3><ul>
+<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
+<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/2998">Search By Image</a>：以图搜图，支持<a href="https://yandex.com/images">Yandex</a>等众多搜索引擎</li>
+</ul>
+<h3 id="5-4-网页翻译"><a href="#5-4-网页翻译" class="headerlink" title="5.4 网页翻译"></a>5.4 网页翻译</h3><ol>
+<li><code>扩展</code> 网页翻译：</li>
+</ol>
+<ul>
+<li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
+<li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
+<li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
+</ul>
+<h2 id="06-下载视频"><a href="#06-下载视频" class="headerlink" title="06. 下载视频"></a>06. 下载视频</h2><h3 id="6-1-综合下载"><a href="#6-1-综合下载" class="headerlink" title="6.1 综合下载"></a>6.1 综合下载</h3><ul>
+<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
+<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
+<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
+</ul>
+<h3 id="6-2-B-站下载"><a href="#6-2-B-站下载" class="headerlink" title="6.2 B 站下载"></a>6.2 B 站下载</h3><ul>
+<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
+<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
+<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
+<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
+<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
+</ul>
+<h2 id="07-调教网盘"><a href="#07-调教网盘" class="headerlink" title="07. 调教网盘"></a>07. 调教网盘</h2><blockquote>
+<p><a href="https://flowus.cn/runningcheese/share/35fc2fb2-21a6-42f8-aa21-d1b007c39423">部分内容摘自奶大分享文档 2023-05-18</a></p>
+</blockquote>
+<h3 id="7-1-百度网盘"><a href="#7-1-百度网盘" class="headerlink" title="7.1 百度网盘"></a>7.1 百度网盘</h3><ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
+<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
+<li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a>、<a href="https://scriptcat.org/script-show-page/913">KubeDown</a></li>
+<li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
+<li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/469153">百度网盘秒传链接提取</a>，<a href="https://blog.ohao.net/856.html">秒传解析网站</a></li>
+</ul>
+<h3 id="7-2-其他网盘"><a href="#7-2-其他网盘" class="headerlink" title="7.2 其他网盘"></a>7.2 其他网盘</h3><ul>
+<li><code>脚本</code> <a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">（改）网盘直链下载助手</a>：在网页端获取网盘文件真实下载地址，调用IDM等工具下载。支持 <code>百度阿里天翼迅雷夸克移动</code> 六大网盘</li>
+</ul>
+<h3 id="7-3-辅助工具"><a href="#7-3-辅助工具" class="headerlink" title="7.3 辅助工具"></a>7.3 辅助工具</h3><ul>
+<li>倍速播放网盘视频： <a href="https://scriptcat.org/script-show-page/340"><code>脚本</code> BD网盘视频播放器</a>、 <a href="https://greasyfork.org/zh-CN/scripts/381682"><code>脚本</code> HTML5视频播放器增强</a>、<a href="https://github.com/polywock/globalSpeed"><code>扩展</code> Global Speed</a></li>
+</ul>
+<h2 id="08-真互联网"><a href="#08-真互联网" class="headerlink" title="08. 真互联网"></a>08. 真互联网</h2><blockquote>
+<p>部分素材来源：<a href="https://mp.weixin.qq.com/s/2HuwPXlqCofHR8sGFghOQA">奔跑中的奶酪</a></p>
+</blockquote>
+<p><code>1. 去网页重定向：</code></p>
+<ul>
+<li><code>脚本</code> 自动跳转(重定向)到目标链接：<a href="https://greasyfork.org/zh-CN/scripts/412612">Open the F**king URL Right Now</a>、<a href="https://greasyfork.org/zh-CN/scripts/416338">redirect外链跳转</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/11915">Anti-redirect</a>：去除各搜索引擎&#x2F;常用网站的重定向</li>
+</ul>
+<p><code>2. 调教搜索引擎：</code></p>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/443491">百度谷歌必应链接缩短</a>：缩短搜索引擎的冗长链接</li>
+<li><code>扩展</code> <a href="https://github.com/dessant/buster">Buster</a>：谷歌机器人验证码自动验证</li>
+</ul>
+<p><code>3. 去除登陆弹窗：</code></p>
+<ul>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/428960">CSDN&#x2F;知乎&#x2F;哔哩哔哩&#x2F;简书免登录去除弹窗广告</a></li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/440871">骚扰拦截</a>：自动拦截或删除<code>下载弹窗</code>、<code>悬浮按钮</code>等影响用户体验的元素</li>
+<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/37988">拒绝二维码登录</a>：默认使用账号密码登录，不出现二维码登录界面</li>
+</ul>
+<p><code>4. 自动展开全文：</code></p>
+<ul>
+<li><code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/414010">阅读全文&#x2F;自动展开全文</a></li>
+</ul>
+<h2 id="09-保存网站"><a href="#09-保存网站" class="headerlink" title="09. 保存网站"></a>09. 保存网站</h2><ul>
+<li>将整个网站离线到本地：<a href="https://www.httrack.com/">HTTrack Website Copier</a>、<a href="https://metaproducts.com/help/offline-explorer-enterprise/">Offline Explorer</a>、<a href="https://smalltool.github.io/">仿站小工具or小飞兔下载</a></li>
+<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
+<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
+<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
+</ul>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>DMUCD</category>
+      </categories>
+      <tags>
+        <tag>网上冲浪</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>上传者之书</title>
     <url>/%E4%B8%8A%E4%BC%A0%E8%80%85%E4%B9%8B%E4%B9%A6/</url>
     <content><![CDATA[<p>命里有时终须有，命里无时莫强求。</p>
@@ -215,198 +410,203 @@
       </tags>
   </entry>
   <entry>
-    <title>上网去冲浪</title>
-    <url>/%E4%B8%8A%E7%BD%91%E5%8E%BB%E5%86%B2%E6%B5%AA/</url>
-    <content><![CDATA[<p>男儿应是重危行，岂让儒冠误此生。</p>
+    <title>医学救济站</title>
+    <url>/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E%E7%AB%99/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="13fb7d835f28bc81b3c51c15cad2d1d483b24748822f6fa264c383dad18867d2">82f956f7e09bfa5d0c3c82e9768a86cb1b2cbe07148f8c36073520d5975583f710e039fd4a950af17a456461110b9dc3130bd9586a4066ef37086a2c857faf3247ce845adf0be05c3a0729e77ef7f30c71f46d53c06cde5e5c5c55c0ab578e0859cb84d1567c14ca17c6f893d0bfa2213b4be645b8298ef250db810e46fac0322c35fd8b6eeacc018e383ffa340b21f3df30e84dba1e2146c223760dfe4ab531e5cc731fbc149fae4c8c7eb7fa2c05a8dcc244963b41c1bbbc71dfea8feead815884eba556f4ddd54405a342ed157278bc9cd1192670e2fb79f39c7565e8aa6d7bbfb110b23b55e0d7bf2c333adadbd7d91a47ae3c265d90841ade5e05c01ada477f2cf45f56c68769401ca7fc54ff25b746f1964a025aa635c4f90c31c971a9681f37eff3b288e3ebc75100db76eeb74b1a9d79ef9f58610915403236a249d0a370220c5b81114a1dd403ebe24ffd1988fa20962f3ea3b03b9721f77fc7fadee87b4943c7e1cf34c4a1712deeec7f69752edcc511790b51617f1161b9e0a0a7d6f7d60df6fad48b44457d3211bc9f6cbc1e3ea0274b975276ac2fc66a18d54e093036b604cfcfadea09943b8c3029960b6ef9a1f84d72a10b7993d5ebba243960bdc68687f627ffe10185ef0cbcdf1db6d7bc3172d87d1296dff36b2c466a502cc69d4b061c55d04cd09d06c8e639cdc4c233a8322f056eb319008d52384033360edd18888dc69a40bdb99b20f1fa9b907a8eae412f0be260529d6abdcc18e56a9dfd827613bf839b35f80022e37f3f5c332237c365939eb9a5d779fdd7c1ac0ad9c53d865bbf06e6397ff0fdb45e11cd0600a3d48136711ce56422663ee8e69a8351aad6a3846e952e79cdfad623563caef47a1ccb7d3a458f697808e148af91016e51c65f88cd5a26ac3ad7b6fcbc658a40b09a86bd4cb2aa2f1e40f8bb3e1dfd1ee966be6a30b1d279abb910d5462a2bd34d4f57df4afc74d49741ec393bb476cbe091697950c10dd20d4879480debe4d4d2229b313f80626d8e13796878c31b8f2e030148e6168439f5747bd6ebbca4c13770ff3590c5c829a81f896c2ee6a9b5464386e3437307858e2f5bce3c632e561a1329103fa86a4aeacada269a9c3b07d18248b8fec3c44c69f950e6a2d4f4ad7c40f5192638585a217df95a66239ce4ae0fe7e0af154033d6950ae7f3a21a05817b073a03efb5f463540695aa30af09a7395d513e175419349a6442a9204d8cdbd3f9616d4bbcbe98009f397a61fa6026dacce7f91c611132ced485dc65d12f866b1c461742a65989cef195b62fe9960c5563a90557fc579d2d2c6324e750bbe0bb2be73ea8e01628ae627cff6c8bfaea526cfd731f36c4577a87865b0ab0633f6936ed5639ac8de240b3427b74ad2f3dcb87db56f666f63e892884173d86600220ff1273eb2c6e21177f457ac4889eb68f3137e8a2e7bdddfefdf710abf2d6d9643984606c991e4205739f6f370b6fbe6a8bf5e6c0a620cdc562ac8089666a990467f69279a06c82fac8863550e6db73ae41095214f5aa9d79e44f8819a5e613eb9bd993e965c8e78153d66238057a5e252762fd0127f6b3357c875b3bdb17f7f7db474f29f232988c77443c78ce34980c3c9ab7cc86482b8fbbbbdd6d7cf053987bf230ebd8ba779a0496a69e43778abe37894329b73d1626772524fc2e5490f5d34f270a0870eaf861d5f263aac261e94ad6d74429f05d7dbaa0cbfd8d28e6e00be99f18948bcec8c109bf103edd18cab379d158e9b2f2c4177c027065d061291f3248897999aa18b65f611d124a3b2229ea27a0506c551a68fbd870d988e8cacf548eb4baae470efe2d4cd7ad8bfe074754e971fa2ad788efc317f925a78d6ba2c312bb9e1fa2a38895120de9cbec55c314671930f58b06f4d878281634c50d9097ec9a5f811d90295a2cf3e31bf2af9e9a532dc454e7c30e2ea1923d0861e8c8ef6519c338ffb118345d5d857281940081356a9b98cc139e604a05db2dc4214a9792e47be32c269d1586269e5af69a7a398ca7dd932ff109ef616523c79ba01553277ff2eef68c6cf9e7a9e8f196688383ccea1a20e7684e32966916af3a6f77bc6b3dba917eaafc1b28e859d6995f6819af02bde861cf25265a211b76e25c4e67caf3e60b2f65c34539f59e405ab8f7d6bc8dcb35e8e98cd8170cb2233277f65ad64492f1e9e6d38666ef144271511659275adb469226c30a2759401659472599742e37ecf54912ebf235e172c1006b1f07fbc11ec235cd4a822275def6ac6e58f649aa76644c0ee7c971035bd8e3b70ecb8a90dc9a6f0fdd87d7327db4df5812bcfd28bd8b199e0f0b0abc6bcd7fb414a45837c55d9243c0f315cf254994897c6c13eaec21153662c73bc4f0426aab74c329597d389aff353cc2db79d3a77127b2a32dd7d2c9ce6cd6134523bb4a0aa281f5f0c20138775975e370e8a098ffca52d8780248f979c1f9e176740db951e42e62a9f0555252ce80eceb0ec015978ca07b33c79b1775c9295d91c241b175bee23ac666922269969acc7c80e9cbd10d5f1a74f9d382c56462221321de29626d3750f2d87586d4563e335a20cc8fcc09f0b7cc95628acce939aa0bb9e019b2aa742a83279b4e2e2159e9b01e258087494c49fdd4a2045a8d937eb0abcfab67c3ab5704752189d27feb630cecac0525b9155690abab75e7e6e375e8b50e90819da4d06cc87c1a585b7b74a2ad5029c01bfe24d7eeea63432b5d95297e29d4bf259ccf9ffc025d30c2a0f8696311565d92fde3306c96641b2ff466968f23e2c54349988eb24b25f14a22a0dfa47f5213a22d1ece3fc57c57933ea048e58d78cfe21bec9f89df1fb1413dc6627434d36b2a7e032a3c46933f8f9a2c964b2faa85689907271cf6216c4f415da511eaff6c6e9d0378c0b955e90fa8b6401806bc5a08544fcc05975c8825d9d190e6abfa1c54f1799cd842c7312b52fe1e16a5136d1ead1df1b1d4918f329419c3e2a5fc513a1c781b286a3c4b73cf8df8a292956708ce0e1b5d928e39b0e0c81ed111b10fd3cf887351b15cea51aa208d774e39995498cbc2a008368ec0fa04a4ced5b4ba03cc58b327064345eafbec59a7e9d2c6d98f993b933098d87360e75bc398d59d8ef52faec6b5d39364c49520f9413435116c00e51f2df6f4e66f6ff2fe668de56e4aa300c4cbeece7751d7b0f08c8bd87fe9ac91641b68ecbe5e1b1299cd98a86b99fd8778360aae9144a4065592eeca10b0fddf7f9fa6d6078fa5d96274f38e4035257f4ad41bb82529b13d2f39e70fba6619fe27cf0a9184bfe7fbd4c39b319da47b34955e527a0619caffde15e40418faad19e06eed6b5a4fc5be655f0cae1929ed36f81adf80cba8b442eb37cd747a08ea1dc9160288a5edc7e086384ccd21080c04d18de6b72f436a9f061e03e46df66b8c5701c4fc40e6581eb2d730ccfb79af9808ed7f8786268abcf2d255ec59d88cd5ddd1c9c394289f534108f0f2d6410ec312d1dda1743d0fbdeb1820d9cb0e190f159751763324d8eef829f8e79a8379c7c4bd054c1ebd6aad15864d743e1b89740870f0325ed934f862468d93f49f26adf1e8a7f4dcb7021f010f228ebc5d3fc214c38b93d4106678e1aacdca94c17aea0ae2c559a412d9eddb5c0bb61faf4655928230b06214dedd6a2d29c18b5bc5685f16956db38729a7d9636af2c095f9999471b523507714834e9fa1541b4b4967be6d7c4f18a307a4d95a92e9fc4503d994b7fc243e157fc61ad1d024114e0a0d17957970564fb2d6dcdc938b384ffbedf5b3dd07949f8555f098439d8ed1f810ea563356f6ff4e252b18fd6088997a1795effc796df543a677662016ae0b981cefc0de9205d02dc78d78c5d3ba4ced331d889f90ba007f686dad30c886b57139eda8e2d0a0b062fee4bd0038093c4e8d30c17e814e46d7f11ebddeee5c405055eccb58d82bbb071358659f193bfb3e7a309413cf9938a73c4006d0f0aa97751936b38e21b3a076e38476600ac98de761b62651928c7eb46023d049a1101eb1cf3c183b470330b0c2e61847ec09d5e0eff9edbff80aa0b54bab5548a39d5fe86c85b089f473549a567fa35586b9d90bcfa140f8719b3218e6a0074a600679198504daa59e764ca3eca5ef6cc30ee5e587548d15265f4b66850a7cdb0ac252ec664cb955adf777abb3b1208157b6c89833d805c891e4b99684f3637e5095c80c2a9a0ffbcf48905a74e2cd5178ea94819da6e5d1c3243889430372b76e098d512f48040970fc0bcb183e8f128e3bc6fdfcdb35085f8907c000f79d299c8af8bea6990ce833b1ce858228de44837762abb7592962ff21584707e2c15b968433a4be2d08cabbf8aedf68cd6cc73718438a25b029799aeeeb353fa898059d9030314100b1bbc5311a7cbe755f7bdf6f05f99907e2397f1d5b011102a4f7eefa7642551e94b09474779700918150cad56a6043c0232c1d4f1aaaaa4eb449bae0eeaa14bfb6470179f311f899ece9a380ba43e5467fc83dd99206b610a05a83a7f1005ede8d982ef3a5efaf4b88519dd51901f4616ff0bc4ace5bb05e7e7fd5510d0102ec67d1b161c8d12d3498cec32f8baed3749c74bc3bccf96c84c2eafccfa2bb75b92cdeaa9897e6e8cb3a55c614a5f502acc47c7adcc42cf3bc966028ce026283bb8a880c579f472f2fe7fe9d5dbcb3af3dc7493e01cfb9cf33f921b3b50567380b654cd8fa39a9606141a8cf4a10a62830bd57a473e816d97e36e62030072b9384c6f4e6ea792f4cda7ad8a48834a794e29d15ca77a81ba4ab6f3f531154c78ae16c52d3afbed3ac1dab652b1bac8cfaa5f4e13398a791e83291430e5b54208bb1ea898a472fbd286bf555954532db0886b578d5aa5f84ec161eba65449cacb705cceb7e2bf35b9d8afa1b42b29b9efc53ca6ffd5f1d5c7247ebbb0466bfc71c31cdc275cfa98b90c28883f123715372a605a3ee82e95ec1029d888621ed41ef8b5ca007dc75348d72f4776ec868f168d3779e45b9b752855b39c390160c411a10dc441e2d89f76cecc7c83412681869374483e4a88606c7d167bc23a8af49322441a55e12977fb54723a6f3507a48f7ee4f2a2d04f608c9cbb7fade7a971e8581262469a91a18efc7541bbbf610d3a4a3342f8c346b40ca798ab0cc587061f2b0414356c8e572fc866ee1420162ba879ee2a4b444a365df9b39048f74f2e35efc481f53042969a684bc6735e870635b9c7c891fe96d97dcf8c8ddd8bb688d2a8af541dd708870824c5729e2d93ac1143a468ec40b9fb068c707832b7ba74ae8a59abfa77297c90641ffa0123300668f91adb6738bce29e2644ba719f309240396b6af54b84723116dd73de97b69593d7c4fac993f143bad0a8a2a24872cdf38d95fdfb501138645ec5769d6e34c9ad456fcdbf8e8283196e0fcb574ad151d63fd2fcdc4fa64de2358f43ba644e45461b041b642b3c56b70a823cc4cc69a7338637a772cff8e3904cc3bea8c79b3e787f0064a9e423789238640523725fb49067b14e76411856926a6731c362c14550034b4e91f514e6c1d599a4f90fd74490e49891b19fbc1bb9d9110daa15c4193a59567990c58cc4f1b351da29d114d6f2c17352bad26e2b4c8247724dc3fc6e630b9edf4b30455cfadfa8191cb33a747c86d6fd2c7faea2f1574cc14af36c991ab2e93239886421cd0f908fd142a0c0caafa2e2d88269bf58dc05747f0284878c49b5c77fdbbc784178033e9bb970ef6e76429f0dba4f315aa2421d64360b324e38f5732f0e1fab4bc4cc18b3f94c6d3abd2251011e51d8ea07392c2de9fdf1fed6ebc6a0b0d8570cb094679ada5658090f63886f7b50bb222f66ce2ab0ff598f2cc17ff7e281866794c04cd3eff02154ced37051d3a5b66fd5c01ad1d11703d8a0b9bd9b18719a7a856988af9b3ef9c17056875b96bd75cf2535f15b7f80d1bbdc0ea4773cd92188a9bc589bf189dbc67b438999eb9dac7ef0e7bb698b024601a4c2cb096587805e72c602e817a36332deaa03dc48bf30feb8ee525516450424d82e5a8a7a12caaa98c5e66889e202bb5ed7427f3cf4997f9afaf83df71bc8d1192cd3a0ed28f88a525bbcac625a4d099f08b221ec6eb9b0a5f52301f758ca57316d21727e0d7a64a0dd257cc63d70167c2dee0441690359ffdd0acd7b192de17f437995d6eee3d345d0fcbfcc35339d022a3c6d5e2c945f943979d94bd9483286f4dc319c0deb8ced288f1ff4cc90003e3bc2a893611bdde69224a8c731951e564ac4243692d4ab3c3b18b829b79a8a5527ef661c1ff5c1c9cf106366213f34596eea2a6b2b6c33892c5a1bd3c1bc66d44de99c0aac4a06d0f807e047af16a1b5ab1aa1fe36facf6164af9eb44f7349473b07e51b625ac22f9bcf75c2c0a3c5f2f21423ea27234ca4a33c5cb101809d4ad19d31cfb647a3880ad13c5dcd5e709561708de345c2901377e512dc0a6b88f387246b918a2be49aba54ea6d87135588838947aba512ad565c8a2217963d52ed63790fb3dfbc832ff473b42421126997f3a18ab0b8617a1cd2739713929f411c146e9fa21455ece5ed0096b6a00de991b24e00b5d552a0a0177a3b57d77805b4411ff10a55f195b3bc860b244212d65fa31518aede3999ec22447ff1ff6a080d4b4162ec0ee950b9dc591590099ff9412ad00bfdd5762f033a9867474f0a5556793fd26fa049279fb8b4ee75ad89362c26f7d77909993af87edc8a16aca7747127daa8885f15cb0a02f606d8370056192fbe5af1c9adf89b3cf67aaf812718c63ee0e2cdc82801a5c6944ddd20f9c5ff688e869130e6fa3235895c96eb5d3dac3fd36854886ec99f73cce85cf0d8dd5122c80274bec156c901bffa0e97c6e77203e48a7d5368adb8c17972536831ee7d50e4787d1c618c5670d994dcefc09a72cda8d96cf769259482585fe9de45ce7da54a393a836e264b82dd0e24a8e6f26bb17ea739aeb5c0e7130bcc124bf68093020b1b78741e32c06849f56481c8a5c27f5583cf751d5be7b19060c0a2d47c83f2c0de8290a941116fdc4f2f6afe2f87d8ffe1fae5f72e7585df91c817229223710a284763f77686f1d25b50648ae082987cce9d4d32b468f9ccf88ef5faa884f358865b32437fa05984d024559e46158bcf469f1a35f2a39fdfaed52d30b30772a713770f437619dc6cfde1615d7f61c59e0006bc431c889e41ac2ad0b0e36922f2ed368eb2b3e2c64493a2be83f116298a42e1aed0c689f152d7d70ccddba5709b66e4c4564c25deb752758f9185fc0fb8c48fa7882150450450c1672817d414a3803759730b1c194e427be73cd3bc7ec1343fb5f5dd0c92a8efe7577c9b0ed22ee17bc2000e530ec2dedebf206db26f96b551e47af249e7823aa7fe18b848102ee4486705ca2cd09cbf93d104d60f46d0833a7c0ff5c3681754ba77c504362eafa2242825eb606b8e96ef678f8d065245f8fbdcb5c41cea35210f9d635f3aaafe6e4f19fb76d0503fde703da3d696dd2b938df9786be81ec42f411b65b78fdf79c6e63c92082d2169c92c12d33299471014adc3b4bd83bc5439631a073c2926e618029bf16fe67d6ceff066591648ea970e802664312c97c355197d574c57eaa35e0b215c0fd80f9662d6f80f237abec490d8a75edda4cc8571a0833e23907ab175757009743343ea9a948d2193547574825ef117b957aac021b63c9e44964cc611dd07f04d0352559017482ca71c76c49f8e6b4b87091f1f6c4cd757cf3a9febb0ec2ab438a6edb66734d9fdb027ff88adbc0b2</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>医疗废物</category>
+      </categories>
+      <tags>
+        <tag>医学资源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>顶刊留名客</title>
+    <url>/%E9%A1%B6%E5%88%8A%E7%95%99%E5%90%8D%E5%AE%A2/</url>
+    <content><![CDATA[<p>新松恨不高千尺，恶竹应须斩万竿。</p>
 <span id="more"></span>
 
 
 <h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文是作者上网冲浪时收藏的东西，可能需要耐心看</li>
+<li>本文档中收集了一些编者认为对医学科研有帮助的信息</li>
 </ul>
-<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>文中所列插件均能在Firefox扩展商店找到，未确认其他浏览器商店是否有</li>
-<li>文中所列脚本容易失效，可按关键词去脚本商店搜索新的</li>
+<h2 id="参与创作"><a href="#参与创作" class="headerlink" title="参与创作"></a>参与创作</h2><ul>
+<li>欢迎各位同行加入到本文的持续创作中来！</li>
 </ul>
-<h2 id="01-搜索引擎"><a href="#01-搜索引擎" class="headerlink" title="01. 搜索引擎"></a>01. 搜索引擎</h2><h3 id="1-1-综合搜索"><a href="#1-1-综合搜索" class="headerlink" title="1.1 综合搜索"></a>1.1 综合搜索</h3><ol>
-<li><a href="https://github.com/librarycloud/list">Mirror List</a>：发布谷歌搜索、谷歌学术、Github、维基百科等的镜像网站</li>
-<li><a href="https://ncm.deno.dev/">网页代理</a>：提供谷歌搜索、维基百科、Github等网站的代理服务</li>
-<li><a href="http://g.luciaz.me/">Google搜索-浙大镜像站</a>（网站答案分别是“心灵之约、水朝夕、csxy@123”）</li>
-<li><a href="https://fsoufsou.com/">F 搜</a>：国产阉割版Goolge搜索</li>
-<li><a href="https://quark.sm.cn/">神马搜索</a>：夸克浏览器在用，搜小说还可以</li>
-</ol>
-<h3 id="1-2-网盘搜索"><a href="#1-2-网盘搜索" class="headerlink" title="1.2 网盘搜索"></a>1.2 网盘搜索</h3><blockquote>
-<p>专门搜索各大网盘资源，可能并不太好用……</p>
-</blockquote>
-<p><code>1. 聚合搜索工具：</code></p>
-<ul>
-<li><a href="https://pan.qianfan.app/">千帆搜索</a>、<a href="https://www.yunpanziyuan.com/">云盘资源网</a>、<a href="https://yiso.eu.org/">易搜</a>、<a href="https://nmme.one/">橘子盘搜</a></li>
-<li><code>脚本</code> <a href="https://www.guapizhu.com/11576.html">我是网盘管家婆</a></li>
-<li><code>插件</code> 网盘全网搜索<a href="https://chrome.google.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">[1]</a>&#x2F;<a href="https://www.crxsoso.com/webstore/detail/appdbibjgbbpmfolojmmmefbemdpnbea">[2]</a></li>
-</ul>
-<p><code>2. 阿里网盘搜索：</code></p>
-<ul>
-<li><a href="https://www.upyunso.com/">UP云搜</a>、<a href="https://www.alipansou.com/">猫狸盘搜</a>、<a href="https://yunpan1.com/">云盘资源分享社区</a></li>
-</ul>
-<p><code>3. 百度网盘搜索：</code></p>
-<ul>
-<li><a href="https://www.sopandas.cn/">熊猫搜盘</a>、<a href="https://www.xiongdipan.com/">兄弟盘</a>、<a href="https://www.xuebapan.com/">学霸盘</a>、<a href="https://www.45256.com/">45256搜索</a></li>
-</ul>
-<h3 id="1-3-TG-搜索"><a href="#1-3-TG-搜索" class="headerlink" title="1.3 (TG)搜索"></a>1.3 (TG)搜索</h3><ul>
-<li><a href="http://www.sssoou.com/">telegram中文搜索</a>、<a href="https://meow.tg/">TG喵</a>、<a href="https://tg.qianfan.app/">千帆FG搜索</a></li>
-</ul>
-<h3 id="1-4-其他搜索"><a href="#1-4-其他搜索" class="headerlink" title="1.4 其他搜索"></a>1.4 其他搜索</h3><ul>
-<li><a href="http://www.iplant.cn/">iPlant 植物智</a>：上传图片识别植物</li>
-<li><a href="https://thepiratebay.org/i">The Pirate Bay</a>：著名的海盗湾</li>
-<li>历史网页查询：<a href="https://archive.org/">Internet Archive</a>、<a href="https://archive.ph/">Archive Today</a></li>
-</ul>
-<h2 id="02-插件脚本"><a href="#02-插件脚本" class="headerlink" title="02. 插件脚本"></a>02. 插件脚本</h2><blockquote>
-<p>添加脚本的步骤：</p>
-</blockquote>
 <ol>
-<li>在扩展商店搜索 <code>Tampermonkey</code> 这个扩展程序并添加</li>
-<li>在脚本商店搜索并添加想要的脚本即可</li>
+<li>内容要求：任何你觉得对“搞科研&#x2F;搞学术”有用的信息</li>
+<li>内容投递：整理好后私发给阿岩即可</li>
 </ol>
-<h3 id="2-1-脚本商店"><a href="#2-1-脚本商店" class="headerlink" title="2.1 脚本商店"></a>2.1 脚本商店</h3><ul>
-<li><a href="https://greasyfork.org/zh-CN">Greasy Fork</a>：推荐使用</li>
-<li><a href="https://www.tmchina.net/">油猴&#x2F;暴力猴脚本插件中文网</a></li>
-<li><a href="https://bbs.tampermonkey.net.cn/">油猴脚本</a></li>
-<li><a href="https://www.userscript.zone/">Userscript.Zone</a></li>
+<h2 id="01-白嫖文献"><a href="#01-白嫖文献" class="headerlink" title="01. 白嫖文献"></a>01. 白嫖文献</h2><h3 id="1-1-中国知网"><a href="#1-1-中国知网" class="headerlink" title="1.1 中国知网"></a>1.1 中国知网</h3><h4 id="1-1-1-白嫖数据库"><a href="#1-1-1-白嫖数据库" class="headerlink" title="1.1.1 白嫖数据库"></a>1.1.1 白嫖数据库</h4><ul>
+<li>很多省市的大型图书馆都免费对外提供中文数据库：</li>
 </ul>
-<h3 id="2-2-扩展商店"><a href="#2-2-扩展商店" class="headerlink" title="2.2 扩展商店"></a>2.2 扩展商店</h3><ol>
-<li><p>官方扩展商店：<a href="https://ext.chrome.360.cn/webstore/">360极速</a>、<a href="https://addons.mozilla.org/">Firefox</a>、<a href="https://microsoftedge.microsoft.com/addons">Edge</a>、<a href="https://chrome.google.com/webstore/category/extensions">Chrome</a></p>
+<ol>
+<li>如<a href="https://www.gslib.com.cn/szzy/xwlw">甘肃省图书馆</a>免费对外提供<code>万方</code>数据库</li>
+<li>在<a href="http://www.gxlib.org.cn/">广西壮族图书馆</a>注册账号，登陆即可使用其所购数据库</li>
+<li>打开“支付宝”搜索“浙江图书馆”，可以注册读者证以使用其所购数据库</li>
+<li>某些省市的大型图书馆大厅可以办理用来访问其所购数据库的读者证</li>
+</ol>
+<h4 id="1-1-2-CAJ转成PDF"><a href="#1-1-2-CAJ转成PDF" class="headerlink" title="1.1.2 CAJ转成PDF"></a>1.1.2 CAJ转成PDF</h4><ul>
+<li><a href="https://caj2pdf-qt.sainnhe.dev/">CAJ2PDF-qt</a>：一款简单好用的格式转换软件</li>
+<li>通过<a href="https://chn.oversea.cnki.net/index/">中国知网海外版</a>可直接下载PDF格式文献</li>
+<li>使用<a href="https://www.cnki.net/">中国知网国内版</a>时可配合<code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/389343">知网硕博论文PDF下载</a></li>
+</ul>
+<h3 id="1-2-百度文库"><a href="#1-2-百度文库" class="headerlink" title="1.2 百度文库"></a>1.2 百度文库</h3><ul>
+<li>百度文库下载<code>软件</code>：<a href="https://www.52pojie.cn//thread-1699941-1-1.html">文库下载器</a>、<a href="https://www.52pojie.cn/thread-1664112-1-1.html">xx文库下载器</a>、<a href="https://www.52pojie.cn//thread-1645444-1-1.html">稻壳阅读器</a>、<a href="https://www.52pojie.cn/thread-1699941-1-1.html">BdDownload</a>、<del><a href="https://www.52pojie.cn/thread-1260205-1-1.html">冰点文库</a></del></li>
+<li>百度文库下载<code>脚本</code>：<a href="https://greasyfork.org/zh-CN/scripts/437609">百度文库下载</a>、<a href="https://greasyfork.org/zh-CN/scripts/435884">Wenku Doc DLer</a></li>
+<li>展开全文阅读<code>脚本</code>：<a href="https://greasyfork.org/zh-CN/scripts/438420">百度文库净化</a></li>
+<li>如果你所在的机构购买了百度文库（高校版），那你就不用担心没有VIP了</li>
+</ul>
+<h3 id="1-3-文献传递"><a href="#1-3-文献传递" class="headerlink" title="1.3 文献传递"></a>1.3 文献传递</h3><ol>
+<li>外文文献可前往SCI-hub搜索：<a href="https://sci-hub.se/mirrors">镜像发布-官方</a>、<a href="https://www.ooopn.com/tool/scihub/">镜像发布-国内</a></li>
+<li>在学术论坛进行文献求助：<a href="http://bbs.99lb.net/">谷粉学术</a>、<a href="https://www.ablesci.com/">科研通</a>等</li>
+<li>在医济群里礼貌求助总会有热心群众帮你<code>快速</code>找到的</li>
+</ol>
+<h3 id="1-4-找电子书"><a href="#1-4-找电子书" class="headerlink" title="1.4 找电子书"></a>1.4 找电子书</h3><h4 id="1-4-1-综合查询"><a href="#1-4-1-综合查询" class="headerlink" title="1.4.1 综合查询"></a>1.4.1 综合查询</h4><ol>
+<li><p><a href="https://yibook.org/">易书主页</a> | <a href="https://search.yibook.org/">书籍检索</a>：最好用的中文电子书搜索引擎</p>
 </li>
-<li><p>离线扩展下载：</p>
+<li><p>Z-Library 全世界电子资源最多的书库：</p>
 </li>
 </ol>
 <ul>
-<li><a href="https://www.crxsoso.com/">Crx搜搜</a>：提供Chrome,Edge,Firefox,Opera商店的插件</li>
-<li><a href="https://www.crx4chrome.com/">Crx4Chrome</a>、<a href="https://chrome.zzzmh.cn/">极简插件</a>、<a href="https://crxdl.com/">CrxDL</a>、<a href="https://www.chrome666.com/">chrome666</a>、<a href="https://www.extfans.com/">扩展迷</a></li>
-</ul>
-<h2 id="03-奶酪专区"><a href="#03-奶酪专区" class="headerlink" title="03. 奶酪专区"></a>03. 奶酪专区</h2><blockquote>
-<p>浏览器深度开发技术达人</p>
-</blockquote>
-<ul>
-<li><a href="https://www.runningcheese.com/">奔跑中的奶酪</a>：分享定制便携版Edge、Chrome、Firefox浏览器以及各种冲浪技巧</li>
-<li><a href="https://github.com/runningcheese/Awesome-Userscripts">Awesome-Userscripts</a>：奶酪-脚本推荐</li>
-<li><a href="https://github.com/runningcheese/Awesome-Extensions">Awesome-Extensions</a>：奶酪-扩展推荐</li>
-</ul>
-<h2 id="04-GH-辅助"><a href="#04-GH-辅助" class="headerlink" title="04. GH 辅助"></a>04. GH 辅助</h2><ol>
-<li><p>访问Github的辅助软件：<a href="https://uu.163.com/">UU加速器</a>、<a href="https://steampp.net/">Steam++</a>、<a href="https://github.com/dotnetcore/FastGithub">FastGithub</a>、<a href="https://www.dogfight360.com/blog/686">Steamcommunity 302</a>、<a href="https://github.com/Licoy/fetch-github-hosts">fetch-github-hosts</a></p>
-</li>
-<li><p>GitHub加速代理下载站：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://ghproxy.com/">GHProxy</a>、<a href="https://d.serctl.com/">D-下载</a>、<a href="https://gh.api.99988866.xyz/">GH-下载</a>、<a href="http://toolwa.com/github/">GH-在线加速</a>、<a href="http://blog.luckly-mjw.cn/tool-show/github-directory-downloader/index.html">GitHub directory downloader</a></li>
+<li>官方：<a href="https://zh.go-to-zlibrary.se/">各种访问Z-Library的正规渠道</a> <code>Web、TOR、Bot、APP</code></li>
+<li>民间：<a href="https://zlib.app/">Zlib App Web API</a>、<a href="https://clibrary.cn/">Clibrary</a>、<a href="http://pilimi.org/zlib-downloads.html">书库Torrent</a>、<a href="https://github.com/runningcheese/Awesome-Zlibrary">More</a></li>
+<li>开源：<a href="https://github.com/book-searcher-org/book-searcher">Book Searcher</a>、<a href="https://github.com/tw93/Pake">软件成品-PC</a>、<a href="https://zbook.lol/">网页成品1</a>、<a href="https://zlibsearch.1kbtool.com/">网页成品2</a></li>
+<li>关注：<a href="https://twitter.com/Z_Lib_official">Twitter</a>、<a href="https://mastodon.social/@Z_Lib_official">Mastadon</a>、<a href="https://t.me/zlibrary_official">Telegram</a>、<a href="https://t.me/zlib_china_official">Telegram-CN</a></li>
 </ul>
 <ol start="3">
-<li>Github的辅助工具：</li>
+<li><a href="https://annas-archive.org/">Anna’s Archive</a>：支持对Z-Library, Library Genesis, Sci-Hub进行跨库检索</li>
+<li>Library Genesis|帮助全人类知识无版权传播：<a href="https://librarygenesis.net/">镜像发布-国外</a>、<a href="https://www.ooopn.com/tool/libgen/">镜像发布-国内</a></li>
+<li><a href="https://www.jiumodiary.com/">鸠摩搜书</a> ：矮子里面选将军≈搜索国内电子书最好的引擎</li>
+<li><a href="https://ssdown.org/">SSDOWN</a>：全国图书馆参考咨询联盟&#x2F;超星电子书库研究分享</li>
+<li>三五块钱购买电子书：<a href="https://u.xueshu86.com/">互助联盟</a>、<a href="https://www.xueshu86.com/">互助查询</a></li>
 </ol>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/412245">Github 增强-高速下载</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/en/scripts/434592">GitHub 文件夹下载</a></li>
-<li><code>扩展</code> <a href="https://github.com/EnixCoda/Gitako">Gitako - GitHub file tree</a></li>
+<h4 id="1-4-2-标准指南"><a href="#1-4-2-标准指南" class="headerlink" title="1.4.2 标准指南"></a>1.4.2 标准指南</h4><ul>
+<li><a href="https://openstd.samr.gov.cn/bzgk/gb/index">国家标准全文公开系统</a></li>
+<li><a href="https://www.qitubk.com/">Standards Free Download</a>：IEC、ANSI、IEEE、BS Standards</li>
+<li>搜索各种“指南”可使用微信搜索功能</li>
 </ul>
-<ol start="4">
-<li>修改本地<code>hosts</code>文件畅快访问Github：<a href="https://github.com/521xueweihan/GitHub520">GitHub520</a>、<a href="https://github.com/ineo6/hosts">GitHub Hosts</a></li>
-</ol>
-<h2 id="05-网页辅助"><a href="#05-网页辅助" class="headerlink" title="05. 网页辅助"></a>05. 网页辅助</h2><blockquote>
-<p><a href="https://test.ustc.edu.cn/">中国科学技术大学测速网站</a></p>
-</blockquote>
-<h3 id="5-1-视觉优化"><a href="#5-1-视觉优化" class="headerlink" title="5.1 视觉优化"></a>5.1 视觉优化</h3><ul>
-<li><code>扩展</code> <a href="https://add0n.com/tab-discard.html">Auto Tab Discard</a>：提升浏览器速度和减少内存占用</li>
-<li><code>扩展</code> <a href="http://piro.sakura.ne.jp/xul/_treestyletab.html.en">Tree Style Tab - 树状标签页管理</a></li>
-<li><code>扩展</code> <a href="https://github.com/FallenMax/smart-toc">Smart TOC</a>：在任意网页生成目录</li>
-<li><code>扩展</code> <a href="https://clearlyreader.com/">Clearly Reader</a>：开启纯净无图阅读模式</li>
-<li><code>扩展</code> <a href="http://darkreader.org/">Dark Reader</a>：适用于任何网站的黑暗主题</li>
-<li><code>扩展</code> 广告拦截：<a href="http://adguard.com/">AdGuard 广告拦截器</a>、<a href="https://github.com/gorhill/uBlock#ublock-origin">uBlock Origin</a></li>
-</ul>
-<h3 id="5-2-权限处理"><a href="#5-2-权限处理" class="headerlink" title="5.2 权限处理"></a>5.2 权限处理</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/405130">文本选中复制</a>：解除复制限制</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/28497">网页限制解除(改)</a>：可以解除禁止复制、剪切、选择文本、右键菜单的限制</li>
-</ul>
-<h3 id="5-3-图片查看"><a href="#5-3-图片查看" class="headerlink" title="5.3 图片查看"></a>5.3 图片查看</h3><ul>
-<li><code>扩展</code> 浮图秀：快速查看页面中缩略图的“大图”，也可下载</li>
-<li><code>扩展</code> <a href="http://www.pullywood.com/ImageAssistant/">图片助手(ImageAssistant) 批量图片下载器</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/2998">Search By Image</a>：以图搜图，支持<a href="https://yandex.com/images">Yandex</a>等众多搜索引擎</li>
-</ul>
-<h3 id="5-4-网页翻译"><a href="#5-4-网页翻译" class="headerlink" title="5.4 网页翻译"></a>5.4 网页翻译</h3><ol>
-<li><code>扩展</code> 网页翻译：</li>
+<h2 id="02-辅助工具"><a href="#02-辅助工具" class="headerlink" title="02. 辅助工具"></a>02. 辅助工具</h2><h3 id="2-1-文献翻译"><a href="#2-1-文献翻译" class="headerlink" title="2.1 文献翻译"></a>2.1 文献翻译</h3><ol>
+<li><p>文献翻译软件：<a href="http://www.zhiyunwenxian.cn/">知云文献翻译&#x2F;Xtranslator</a>、<a href="https://copytranslator.github.io/">CopyTranslator</a>、<a href="https://www.xljsci.com/">小绿鲸</a>、<a href="https://pot.pylogmon.com/">Pot</a></p>
+</li>
+<li><p>网页翻译插件：</p>
+</li>
 </ol>
 <ul>
 <li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
 <li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
 <li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
 </ul>
-<h2 id="06-下载视频"><a href="#06-下载视频" class="headerlink" title="06. 下载视频"></a>06. 下载视频</h2><h3 id="6-1-综合下载"><a href="#6-1-综合下载" class="headerlink" title="6.1 综合下载"></a>6.1 综合下载</h3><ul>
-<li>m3u8格式下载：<a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases">m3u8 DownLoad</a>、<a href="http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">m3u8 downloader</a></li>
-<li><a href="https://vget.xyz/">vget</a>、<a href="https://www.online-downloader.com/index-Chinese">online-downloader</a>、<a href="https://github.com/KurtBestor/Hitomi-Downloader">Hitomi-Downloader</a></li>
-<li><code>脚本</code> <a href="https://raw.githubusercontent.com/Momo707577045/media-source-extract/master/media-source-extract.user.js">无差别视频下载脚本</a></li>
+<ol start="3">
+<li>在线翻译网站：<a href="https://www.deepl.com/translator">DeepL翻译</a>、<a href="https://fanyi.qq.com/">腾讯翻译君</a></li>
+<li><a href="https://dict.cnki.net/index">CNKI学术翻译助手</a></li>
+</ol>
+<h3 id="2-2-文献管理"><a href="#2-2-文献管理" class="headerlink" title="2.2 文献管理"></a>2.2 文献管理</h3><ul>
+<li>两大主流文献管理软件：Endnote、Noteexpress</li>
+<li><a href="https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand">手把手教你使用 EndNote X9&#x2F;NoteExpress</a></li>
+<li>免费好用文献管理软件：<a href="https://www.zotero.org/">Zotero</a></li>
 </ul>
-<h3 id="6-2-B-站下载"><a href="#6-2-B-站下载" class="headerlink" title="6.2 B 站下载"></a>6.2 B 站下载</h3><ul>
-<li><a href="http://client.jijidown.com/">jijidown</a>：傻瓜式B站视频下载器</li>
-<li><a href="https://github.com/vooidzero/B23Downloader">B23Downloader</a>：下载B站视频、直播、漫画</li>
-<li><a href="https://github.com/leiurayer/downkyi">哔哩下载姬downkyi</a></li>
-<li><a href="https://github.com/blogwy/BilibiliVideoDownload">BilibiliVideoDownload</a>：不支持付费视频和地区限制视频</li>
-<li><code>扩展</code> <a href="https://docs.qq.com/doc/DQ2lhaWRpS0tubVVF">bilibili哔哩哔哩下载助手</a></li>
+<h3 id="2-3-网页插件"><a href="#2-3-网页插件" class="headerlink" title="2.3 网页插件"></a>2.3 网页插件</h3><ul>
+<li><a href="https://easyscholar.cc/">easyScholar</a>：显示期刊等级、在线翻译、期刊等级查询等</li>
+<li><a href="https://github.com/naivenaive/EasyPubMed">EasyPubMed </a>：专为新版PubMed设计的工具条，详细介绍见链接指向</li>
+<li><a href="https://greasyfork.org/zh-CN/scripts/447389-scihub-crx">SciHub CRX</a>：显示IF、分区、引用次数、下载途径等，支持划词翻译</li>
 </ul>
-<h2 id="07-调教网盘"><a href="#07-调教网盘" class="headerlink" title="07. 调教网盘"></a>07. 调教网盘</h2><blockquote>
-<p><a href="https://flowus.cn/runningcheese/share/35fc2fb2-21a6-42f8-aa21-d1b007c39423">部分内容摘自奶大分享文档 2023-05-18</a></p>
+<h2 id="03-检索导航"><a href="#03-检索导航" class="headerlink" title="03. 检索导航"></a>03. 检索导航</h2><h3 id="3-1-IF及分区查询"><a href="#3-1-IF及分区查询" class="headerlink" title="3.1 IF及分区查询"></a>3.1 IF及分区查询</h3><ul>
+<li><a href="https://jcr.clarivate.com/jcr/">Journal Citation Reports</a></li>
+<li><a href="https://www.fenqubiao.com/Default.aspx">中国科学院文献情报中心期刊分区表</a></li>
+<li><a href="http://cssci.nju.edu.cn/">中文社会科学引文索引（CSSCI）</a></li>
+<li>第三方期刊智能查询系统：<a href="http://www.letpub.com.cn/index.php?page=journalapp">LetPub</a>、<a href="https://www.medsci.cn/sci/index.do">MedSci</a></li>
+</ul>
+<h3 id="3-2-检索语言查询"><a href="#3-2-检索语言查询" class="headerlink" title="3.2 检索语言查询"></a>3.2 检索语言查询</h3><ul>
+<li><a href="http://ztflh.com/">中图分类号查询</a></li>
+<li>MeSH主题词查询:<a href="https://meshb.nlm.nih.gov/search">途径1</a>、<a href="https://www.ncbi.nlm.nih.gov/mesh/">途径2</a></li>
+</ul>
+<h3 id="3-3-中文的数据库"><a href="#3-3-中文的数据库" class="headerlink" title="3.3 中文的数据库"></a>3.3 中文的数据库</h3><ul>
+<li><a href="https://chkd.cnki.net/">中国医院知识总库（CHKD）</a>：支持<code>MeSH主题词</code>检索</li>
+<li><a href="http://qikan.cqvip.com/">维普期刊</a>：支持<code>同义词扩展</code>功能</li>
+<li><a href="https://g.wanfangdata.com.cn/">万方数据</a>：推荐检索词（输入一段文字提取检索词）</li>
+<li><a href="http://www.yiigle.com/index">中华医学期刊全文数据库</a></li>
+</ul>
+<h3 id="3-4-英文的数据库"><a href="#3-4-英文的数据库" class="headerlink" title="3.4 英文的数据库"></a>3.4 英文的数据库</h3><ul>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>：<a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/">期刊查询</a>、<a href="https://pubmed.ncbi.nlm.nih.gov/clinical/">临床查询</a>、<a href="https://pubmed.ncbi.nlm.nih.gov/citmatch/">单批论文匹配</a></li>
+<li><a href="https://www.webofscience.com/">Web of Science</a>：从文献之间相互引证关系的角度检索</li>
+<li><a href="https://facultyopinions.com/">Faculty Opinion</a>：根据生物学和医学领域的全球领导者意见来评级和评价，并且由此推荐最好的科研文献</li>
+<li>谷歌学术搜索：<a href="https://so.hiqq.com.cn/">镜像1</a>、<a href="http://scholar.scqylaw.com/">镜像2</a>、<a href="https://sc.panda321.com/">镜像3</a>、<a href="https://www.ooopn.com/tool/ggscholar/">镜像发布</a></li>
+</ul>
+<h3 id="3-5-文献追踪助手"><a href="#3-5-文献追踪助手" class="headerlink" title="3.5 文献追踪助手"></a>3.5 文献追踪助手</h3><ul>
+<li><a href="https://www.storkapp.me/">Stork</a>：根据<code>检索关键词</code>定期推送相关的最新文献至邮箱中</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/research/litsuggest/">LitSuggest</a>：运用先进的机器学习筛选所文献，<a href="https://academic.oup.com/nar/article/49/W1/W352/6266425?login+=+true&login=false">工作原理</a>、<a href="https://www.ncbi.nlm.nih.gov/research/litsuggest/tutorial">使用教程</a></li>
+</ul>
+<h3 id="3-6-特色检索工具"><a href="#3-6-特色检索工具" class="headerlink" title="3.6 特色检索工具"></a>3.6 特色检索工具</h3><ol>
+<li><p><a href="https://www.connectedpapers.com/">Connected Papers</a>：获得与所检索文献相关的论文<code>知识图谱</code>，追踪文献的引用和被引关系</p>
+</li>
+<li><p><a href="https://citespace.podia.com/">Citespace</a>：可视化文献分析软件（有人用它写了综述）</p>
+</li>
+<li><p>PubMed第三方检索工具：&#96;</p>
+</li>
+</ol>
+<ul>
+<li><p><a href="https://pm.yuntsg.com/">本地PubMed</a>：界面与PubMed类似，支持标题翻译，<code>一键申请全文</code>(秒下载)</p>
+<blockquote>
+<p>注意：申请全文需要（注册）登录个人账号。若在校园网IP范围内，可以直接注册，若不在，需输入本单位的公共账号和密码（咨询本校图书馆或去网上搜），<code>注册成功后使用不受IP限制</code></p>
 </blockquote>
-<h3 id="7-1-百度网盘"><a href="#7-1-百度网盘" class="headerlink" title="7.1 百度网盘"></a>7.1 百度网盘</h3><ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/370757">百度网盘一键重命名当前目录</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/422814">快捷键倍速，免VIP解锁倍速、画质</a></li>
-<li>度盘在线解析下载：容易失效，多基于开源项目<a href="https://github.com/yuantuo666/baiduwp-php">PanDownload网页复刻版</a></li>
-<li>度盘下载加速<code>脚本</code>：<a href="https://www.baiduyun.wiki/zh-cn/">网盘直链下载助手</a>、<a href="https://scriptcat.org/script-show-page/913">KubeDown</a></li>
-<li>加速下载微氪方法：去某多多或某宝①租个临时号 ②购买极速下载券</li>
-<li>使用<a href="https://www.52pojie.cn/thread-1630355-1-1.html">百度云vip白嫖活动链接查找器</a>可以每个月领1天或7天的<code>VIP</code></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/469153">百度网盘秒传链接提取</a>，<a href="https://blog.ohao.net/856.html">秒传解析网站</a></li>
+</li>
+<li><p><a href="https://www.geenmedical.com/">GM-根哥学术</a>：支持按照IF（区间）、中科院分区、被引次数对检索结果排序；显示文献IF、分区</p>
+</li>
+<li><p><a href="https://www.pmop.cn/">银杏叶-PMOP</a>：支持按照IF区间筛选检索结果；显示文献IF、<del>分区(类型未知)</del></p>
+</li>
 </ul>
-<h3 id="7-2-其他网盘"><a href="#7-2-其他网盘" class="headerlink" title="7.2 其他网盘"></a>7.2 其他网盘</h3><ul>
-<li><code>脚本</code> <a href="https://github.com/hmjz100/Online-disk-direct-link-download-assistant">（改）网盘直链下载助手</a>：在网页端获取网盘文件真实下载地址，调用IDM等工具下载。支持 <code>百度阿里天翼迅雷夸克移动</code> 六大网盘</li>
+<h2 id="04-文章写作"><a href="#04-文章写作" class="headerlink" title="04. 文章写作"></a>04. 文章写作</h2><h3 id="4-1-配图制作"><a href="#4-1-配图制作" class="headerlink" title="4.1 配图制作"></a>4.1 配图制作</h3><ul>
+<li>免费医学插图素材：<a href="https://scidraw.io/">SCI Draw</a>、<a href="https://smart.servier.com/">SMART</a>、<a href="https://healthicons.org/">HealthIcons</a></li>
+<li>医学生物插图绘制：<a href="https://app.biorender.com/">Biorender-❤</a>、PPT插件“ScienceSlides”、<a href="https://www.figdraw.com/static/index.html#/">科研绘-国内</a></li>
+<li>学术图表绘制工具：<a href="https://hiplot-academic.com/">HIPLOT-网站</a>、Graphpad Prism</li>
+<li><a href="https://nicesci.com/">科技素材开放获取公益图库</a> <a href="https://nicesci.com/forum.php?mod=viewthread&tid=15">（网站介绍）</a></li>
 </ul>
-<h3 id="7-3-辅助工具"><a href="#7-3-辅助工具" class="headerlink" title="7.3 辅助工具"></a>7.3 辅助工具</h3><ul>
-<li>倍速播放网盘视频： <a href="https://scriptcat.org/script-show-page/340"><code>脚本</code> BD网盘视频播放器</a>、 <a href="https://greasyfork.org/zh-CN/scripts/381682"><code>脚本</code> HTML5视频播放器增强</a>、<a href="https://github.com/polywock/globalSpeed"><code>扩展</code> Global Speed</a></li>
+<h3 id="4-2-查重降重"><a href="#4-2-查重降重" class="headerlink" title="4.2 查重降重"></a>4.2 查重降重</h3><ul>
+<li><a href="https://www.bigan.net/">笔杆网</a>：连接校网的情况下可以每天免费查两次</li>
+<li><a href="https://xiezuocat.com/">秘塔写作猫</a>：对语句进行同义改写，降重可用，但请<code>谨慎使用！</code></li>
 </ul>
-<h2 id="08-真互联网"><a href="#08-真互联网" class="headerlink" title="08. 真互联网"></a>08. 真互联网</h2><blockquote>
-<p>部分素材来源：<a href="https://mp.weixin.qq.com/s/2HuwPXlqCofHR8sGFghOQA">奔跑中的奶酪</a></p>
-</blockquote>
-<p><code>1. 去网页重定向：</code></p>
-<ul>
-<li><code>脚本</code> 自动跳转(重定向)到目标链接：<a href="https://greasyfork.org/zh-CN/scripts/412612">Open the F**king URL Right Now</a>、<a href="https://greasyfork.org/zh-CN/scripts/416338">redirect外链跳转</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/11915">Anti-redirect</a>：去除各搜索引擎&#x2F;常用网站的重定向</li>
+<h3 id="4-3-句子润色"><a href="#4-3-句子润色" class="headerlink" title="4.3 句子润色"></a>4.3 句子润色</h3><ul>
+<li><a href="https://www.phrasebank.manchester.ac.uk/">phrasebank</a>：学术写作语料库（该站付费PDF文件见医济网盘）</li>
+<li><a href="https://www.grammarly.com/">Grammarly</a>：Free Online Writing Assistant</li>
+<li><a href="https://aimwriting.mtutor.engkoo.com/">微软爱写作-Aim Writing</a></li>
 </ul>
-<p><code>2. 调教搜索引擎：</code></p>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/443491">百度谷歌必应链接缩短</a>：缩短搜索引擎的冗长链接</li>
-<li><code>扩展</code> <a href="https://github.com/dessant/buster">Buster</a>：谷歌机器人验证码自动验证</li>
+<h3 id="4-4-文献复制"><a href="#4-4-文献复制" class="headerlink" title="4.4 文献复制"></a>4.4 文献复制</h3><ul>
+<li><a href="https://github.com/CopyPlusPlus/CopyPlusPlus">CopyPlusPlus</a>：复制后自动合并多余换行，保留文献原有换行，自动合并空格（翻译鸡肋）</li>
+<li><a href="https://automeris.io/WebPlotDigitizer/">WebPlotDigitizer</a>：从论文给出的图像中提取数据，适用于<a href="https://www.jianshu.com/p/fd9713e49de2">散点图, 条形图</a>，极坐标图, 地图等</li>
 </ul>
-<p><code>3. 去除登陆弹窗：</code></p>
-<ul>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/428960">CSDN&#x2F;知乎&#x2F;哔哩哔哩&#x2F;简书免登录去除弹窗广告</a></li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/440871">骚扰拦截</a>：自动拦截或删除<code>下载弹窗</code>、<code>悬浮按钮</code>等影响用户体验的元素</li>
-<li><code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/37988">拒绝二维码登录</a>：默认使用账号密码登录，不出现二维码登录界面</li>
+<h2 id="05-文章发表"><a href="#05-文章发表" class="headerlink" title="05. 文章发表"></a>05. 文章发表</h2><h3 id="5-1-选刊网站"><a href="#5-1-选刊网站" class="headerlink" title="5.1 选刊网站"></a>5.1 选刊网站</h3><ul>
+<li><p>英文期刊推荐：<a href="https://journalfinder.elsevier.com/">JournalFinder</a>、<a href="https://journalsuggester.springer.com/">JournalSuggester</a>、<a href="https://www.journalguide.com/">JournalGuide</a></p>
+</li>
+<li><p>中文期刊推荐：暂无</p>
+</li>
 </ul>
-<p><code>4. 自动展开全文：</code></p>
-<ul>
-<li><code>脚本</code><a href="https://greasyfork.org/zh-CN/scripts/414010">阅读全文&#x2F;自动展开全文</a></li>
+<h2 id="06-其他查询"><a href="#06-其他查询" class="headerlink" title="06. 其他查询"></a>06. 其他查询</h2><h3 id="6-1-国自然基金"><a href="#6-1-国自然基金" class="headerlink" title="6.1 国自然基金"></a>6.1 国自然基金</h3><ul>
+<li><code>官方</code> 国家自然科学基金：<a href="https://output.nsfc.gov.cn/">共享服务网</a>、<a href="https://www.nsfc.gov.cn/publish/portal0/tab938/">2021申请代码</a>、<a href="https://kd.nsfc.gov.cn/">大数据知识管理服务门户</a>（主要用于查询结题项目）</li>
+<li><code>非官方</code> <a href="https://www.izaiwen.cn/">国家自然科学基金查询网</a>：可显示项目结题与否</li>
+<li><a href="http://www.letpub.com.cn/index.php?page=grant">LetPub网查询</a>：可批量导出查询结果</li>
 </ul>
-<h2 id="09-保存网站"><a href="#09-保存网站" class="headerlink" title="09. 保存网站"></a>09. 保存网站</h2><ul>
-<li>将整个网站离线到本地：<a href="https://www.httrack.com/">HTTrack Website Copier</a>、<a href="https://metaproducts.com/help/offline-explorer-enterprise/">Offline Explorer</a>、<a href="https://smalltool.github.io/">仿站小工具or小飞兔下载</a></li>
-<li><code>扩展</code> <a href="http://www.pdfmage.org/">PDF Mage</a>：将网页保存为PDF文件</li>
-<li><code>扩展</code> <a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a>：将一个完整的页面保存到单个<code>HTML</code>文件中</li>
-<li><a href="https://github.com/webrecorder/archiveweb.page">ArchiveWeb.page</a>：该项目中提供的 <code>扩展</code> 可将网页保存为「.wacz」格式，用其提供的软件可以打开，也可以<a href="https://replayweb.page/">在线查看</a></li>
-</ul>
+<h2 id="特别鸣谢"><a href="#特别鸣谢" class="headerlink" title="特别鸣谢"></a>特别鸣谢</h2><p>我谨在此表达对各位为本文做出贡献的同道们的由衷的感激之情！</p>
 <h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
 <li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
 </ul>
 <script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
-        <category>DMUCD</category>
+        <category>医疗废物</category>
       </categories>
       <tags>
-        <tag>网上冲浪</tag>
+        <tag>科研笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -758,32 +958,138 @@
       </tags>
   </entry>
   <entry>
-    <title>医学救济站</title>
-    <url>/%E5%8C%BB%E5%AD%A6%E6%95%91%E6%B5%8E%E7%AB%99/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="13fb7d835f28bc81b3c51c15cad2d1d483b24748822f6fa264c383dad18867d2">82f956f7e09bfa5d0c3c82e9768a86cb1b2cbe07148f8c36073520d5975583f710e039fd4a950af17a456461110b9dc3130bd9586a4066ef37086a2c857faf3247ce845adf0be05c3a0729e77ef7f30c71f46d53c06cde5e5c5c55c0ab578e0859cb84d1567c14ca17c6f893d0bfa2213b4be645b8298ef250db810e46fac0322c35fd8b6eeacc018e383ffa340b21f3df30e84dba1e2146c223760dfe4ab531e5cc731fbc149fae4c8c7eb7fa2c05a8dcc244963b41c1bbbc71dfea8feead815884eba556f4ddd54405a342ed157278bc9cd1192670e2fb79f39c7565e8aa6d7bbfb110b23b55e0d7bf2c333adadbd7d91a47ae3c265d90841ade5e05c01ada477f2cf45f56c68769401ca7fc54ff25b746f1964a025aa635c4f90c31c971a9681f37eff3b288e3ebc75100db76eeb74b1a9d79ef9f58610915403236a249d0a370220c5b81114a1dd403ebe24ffd1988fa20962f3ea3b03b9721f77fc7fadee87b4943c7e1cf34c4a1712deeec7f69752edcc511790b51617f1161b9e0a0a7d6f7d60df6fad48b44457d3211bc9f6cbc1e3ea0274b975276ac2fc66a18d54e093036b604cfcfadea09943b8c3029960b6ef9a1f84d72a10b7993d5ebba243960bdc68687f627ffe10185ef0cbcdf1db6d7bc3172d87d1296dff36b2c466a502cc69d4b061c55d04cd09d06c8e639cdc4c233a8322f056eb319008d52384033360edd18888dc69a40bdb99b20f1fa9b907a8eae412f0be260529d6abdcc18e56a9dfd827613bf839b35f80022e37f3f5c332237c365939eb9a5d779fdd7c1ac0ad9c53d865bbf06e6397ff0fdb45e11cd0600a3d48136711ce56422663ee8e69a8351aad6a3846e952e79cdfad623563caef47a1ccb7d3a458f697808e148af91016e51c65f88cd5a26ac3ad7b6fcbc658a40b09a86bd4cb2aa2f1e40f8bb3e1dfd1ee966be6a30b1d279abb910d5462a2bd34d4f57df4afc74d49741ec393bb476cbe091697950c10dd20d4879480debe4d4d2229b313f80626d8e13796878c31b8f2e030148e6168439f5747bd6ebbca4c13770ff3590c5c829a81f896c2ee6a9b5464386e3437307858e2f5bce3c632e561a1329103fa86a4aeacada269a9c3b07d18248b8fec3c44c69f950e6a2d4f4ad7c40f5192638585a217df95a66239ce4ae0fe7e0af154033d6950ae7f3a21a05817b073a03efb5f463540695aa30af09a7395d513e175419349a6442a9204d8cdbd3f9616d4bbcbe98009f397a61fa6026dacce7f91c611132ced485dc65d12f866b1c461742a65989cef195b62fe9960c5563a90557fc579d2d2c6324e750bbe0bb2be73ea8e01628ae627cff6c8bfaea526cfd731f36c4577a87865b0ab0633f6936ed5639ac8de240b3427b74ad2f3dcb87db56f666f63e892884173d86600220ff1273eb2c6e21177f457ac4889eb68f3137e8a2e7bdddfefdf710abf2d6d9643984606c991e4205739f6f370b6fbe6a8bf5e6c0a620cdc562ac8089666a990467f69279a06c82fac8863550e6db73ae41095214f5aa9d79e44f8819a5e613eb9bd993e965c8e78153d66238057a5e252762fd0127f6b3357c875b3bdb17f7f7db474f29f232988c77443c78ce34980c3c9ab7cc86482b8fbbbbdd6d7cf053987bf230ebd8ba779a0496a69e43778abe37894329b73d1626772524fc2e5490f5d34f270a0870eaf861d5f263aac261e94ad6d74429f05d7dbaa0cbfd8d28e6e00be99f18948bcec8c109bf103edd18cab379d158e9b2f2c4177c027065d061291f3248897999aa18b65f611d124a3b2229ea27a0506c551a68fbd870d988e8cacf548eb4baae470efe2d4cd7ad8bfe074754e971fa2ad788efc317f925a78d6ba2c312bb9e1fa2a38895120de9cbec55c314671930f58b06f4d878281634c50d9097ec9a5f811d90295a2cf3e31bf2af9e9a532dc454e7c30e2ea1923d0861e8c8ef6519c338ffb118345d5d857281940081356a9b98cc139e604a05db2dc4214a9792e47be32c269d1586269e5af69a7a398ca7dd932ff109ef616523c79ba01553277ff2eef68c6cf9e7a9e8f196688383ccea1a20e7684e32966916af3a6f77bc6b3dba917eaafc1b28e859d6995f6819af02bde861cf25265a211b76e25c4e67caf3e60b2f65c34539f59e405ab8f7d6bc8dcb35e8e98cd8170cb2233277f65ad64492f1e9e6d38666ef144271511659275adb469226c30a2759401659472599742e37ecf54912ebf235e172c1006b1f07fbc11ec235cd4a822275def6ac6e58f649aa76644c0ee7c971035bd8e3b70ecb8a90dc9a6f0fdd87d7327db4df5812bcfd28bd8b199e0f0b0abc6bcd7fb414a45837c55d9243c0f315cf254994897c6c13eaec21153662c73bc4f0426aab74c329597d389aff353cc2db79d3a77127b2a32dd7d2c9ce6cd6134523bb4a0aa281f5f0c20138775975e370e8a098ffca52d8780248f979c1f9e176740db951e42e62a9f0555252ce80eceb0ec015978ca07b33c79b1775c9295d91c241b175bee23ac666922269969acc7c80e9cbd10d5f1a74f9d382c56462221321de29626d3750f2d87586d4563e335a20cc8fcc09f0b7cc95628acce939aa0bb9e019b2aa742a83279b4e2e2159e9b01e258087494c49fdd4a2045a8d937eb0abcfab67c3ab5704752189d27feb630cecac0525b9155690abab75e7e6e375e8b50e90819da4d06cc87c1a585b7b74a2ad5029c01bfe24d7eeea63432b5d95297e29d4bf259ccf9ffc025d30c2a0f8696311565d92fde3306c96641b2ff466968f23e2c54349988eb24b25f14a22a0dfa47f5213a22d1ece3fc57c57933ea048e58d78cfe21bec9f89df1fb1413dc6627434d36b2a7e032a3c46933f8f9a2c964b2faa85689907271cf6216c4f415da511eaff6c6e9d0378c0b955e90fa8b6401806bc5a08544fcc05975c8825d9d190e6abfa1c54f1799cd842c7312b52fe1e16a5136d1ead1df1b1d4918f329419c3e2a5fc513a1c781b286a3c4b73cf8df8a292956708ce0e1b5d928e39b0e0c81ed111b10fd3cf887351b15cea51aa208d774e39995498cbc2a008368ec0fa04a4ced5b4ba03cc58b327064345eafbec59a7e9d2c6d98f993b933098d87360e75bc398d59d8ef52faec6b5d39364c49520f9413435116c00e51f2df6f4e66f6ff2fe668de56e4aa300c4cbeece7751d7b0f08c8bd87fe9ac91641b68ecbe5e1b1299cd98a86b99fd8778360aae9144a4065592eeca10b0fddf7f9fa6d6078fa5d96274f38e4035257f4ad41bb82529b13d2f39e70fba6619fe27cf0a9184bfe7fbd4c39b319da47b34955e527a0619caffde15e40418faad19e06eed6b5a4fc5be655f0cae1929ed36f81adf80cba8b442eb37cd747a08ea1dc9160288a5edc7e086384ccd21080c04d18de6b72f436a9f061e03e46df66b8c5701c4fc40e6581eb2d730ccfb79af9808ed7f8786268abcf2d255ec59d88cd5ddd1c9c394289f534108f0f2d6410ec312d1dda1743d0fbdeb1820d9cb0e190f159751763324d8eef829f8e79a8379c7c4bd054c1ebd6aad15864d743e1b89740870f0325ed934f862468d93f49f26adf1e8a7f4dcb7021f010f228ebc5d3fc214c38b93d4106678e1aacdca94c17aea0ae2c559a412d9eddb5c0bb61faf4655928230b06214dedd6a2d29c18b5bc5685f16956db38729a7d9636af2c095f9999471b523507714834e9fa1541b4b4967be6d7c4f18a307a4d95a92e9fc4503d994b7fc243e157fc61ad1d024114e0a0d17957970564fb2d6dcdc938b384ffbedf5b3dd07949f8555f098439d8ed1f810ea563356f6ff4e252b18fd6088997a1795effc796df543a677662016ae0b981cefc0de9205d02dc78d78c5d3ba4ced331d889f90ba007f686dad30c886b57139eda8e2d0a0b062fee4bd0038093c4e8d30c17e814e46d7f11ebddeee5c405055eccb58d82bbb071358659f193bfb3e7a309413cf9938a73c4006d0f0aa97751936b38e21b3a076e38476600ac98de761b62651928c7eb46023d049a1101eb1cf3c183b470330b0c2e61847ec09d5e0eff9edbff80aa0b54bab5548a39d5fe86c85b089f473549a567fa35586b9d90bcfa140f8719b3218e6a0074a600679198504daa59e764ca3eca5ef6cc30ee5e587548d15265f4b66850a7cdb0ac252ec664cb955adf777abb3b1208157b6c89833d805c891e4b99684f3637e5095c80c2a9a0ffbcf48905a74e2cd5178ea94819da6e5d1c3243889430372b76e098d512f48040970fc0bcb183e8f128e3bc6fdfcdb35085f8907c000f79d299c8af8bea6990ce833b1ce858228de44837762abb7592962ff21584707e2c15b968433a4be2d08cabbf8aedf68cd6cc73718438a25b029799aeeeb353fa898059d9030314100b1bbc5311a7cbe755f7bdf6f05f99907e2397f1d5b011102a4f7eefa7642551e94b09474779700918150cad56a6043c0232c1d4f1aaaaa4eb449bae0eeaa14bfb6470179f311f899ece9a380ba43e5467fc83dd99206b610a05a83a7f1005ede8d982ef3a5efaf4b88519dd51901f4616ff0bc4ace5bb05e7e7fd5510d0102ec67d1b161c8d12d3498cec32f8baed3749c74bc3bccf96c84c2eafccfa2bb75b92cdeaa9897e6e8cb3a55c614a5f502acc47c7adcc42cf3bc966028ce026283bb8a880c579f472f2fe7fe9d5dbcb3af3dc7493e01cfb9cf33f921b3b50567380b654cd8fa39a9606141a8cf4a10a62830bd57a473e816d97e36e62030072b9384c6f4e6ea792f4cda7ad8a48834a794e29d15ca77a81ba4ab6f3f531154c78ae16c52d3afbed3ac1dab652b1bac8cfaa5f4e13398a791e83291430e5b54208bb1ea898a472fbd286bf555954532db0886b578d5aa5f84ec161eba65449cacb705cceb7e2bf35b9d8afa1b42b29b9efc53ca6ffd5f1d5c7247ebbb0466bfc71c31cdc275cfa98b90c28883f123715372a605a3ee82e95ec1029d888621ed41ef8b5ca007dc75348d72f4776ec868f168d3779e45b9b752855b39c390160c411a10dc441e2d89f76cecc7c83412681869374483e4a88606c7d167bc23a8af49322441a55e12977fb54723a6f3507a48f7ee4f2a2d04f608c9cbb7fade7a971e8581262469a91a18efc7541bbbf610d3a4a3342f8c346b40ca798ab0cc587061f2b0414356c8e572fc866ee1420162ba879ee2a4b444a365df9b39048f74f2e35efc481f53042969a684bc6735e870635b9c7c891fe96d97dcf8c8ddd8bb688d2a8af541dd708870824c5729e2d93ac1143a468ec40b9fb068c707832b7ba74ae8a59abfa77297c90641ffa0123300668f91adb6738bce29e2644ba719f309240396b6af54b84723116dd73de97b69593d7c4fac993f143bad0a8a2a24872cdf38d95fdfb501138645ec5769d6e34c9ad456fcdbf8e8283196e0fcb574ad151d63fd2fcdc4fa64de2358f43ba644e45461b041b642b3c56b70a823cc4cc69a7338637a772cff8e3904cc3bea8c79b3e787f0064a9e423789238640523725fb49067b14e76411856926a6731c362c14550034b4e91f514e6c1d599a4f90fd74490e49891b19fbc1bb9d9110daa15c4193a59567990c58cc4f1b351da29d114d6f2c17352bad26e2b4c8247724dc3fc6e630b9edf4b30455cfadfa8191cb33a747c86d6fd2c7faea2f1574cc14af36c991ab2e93239886421cd0f908fd142a0c0caafa2e2d88269bf58dc05747f0284878c49b5c77fdbbc784178033e9bb970ef6e76429f0dba4f315aa2421d64360b324e38f5732f0e1fab4bc4cc18b3f94c6d3abd2251011e51d8ea07392c2de9fdf1fed6ebc6a0b0d8570cb094679ada5658090f63886f7b50bb222f66ce2ab0ff598f2cc17ff7e281866794c04cd3eff02154ced37051d3a5b66fd5c01ad1d11703d8a0b9bd9b18719a7a856988af9b3ef9c17056875b96bd75cf2535f15b7f80d1bbdc0ea4773cd92188a9bc589bf189dbc67b438999eb9dac7ef0e7bb698b024601a4c2cb096587805e72c602e817a36332deaa03dc48bf30feb8ee525516450424d82e5a8a7a12caaa98c5e66889e202bb5ed7427f3cf4997f9afaf83df71bc8d1192cd3a0ed28f88a525bbcac625a4d099f08b221ec6eb9b0a5f52301f758ca57316d21727e0d7a64a0dd257cc63d70167c2dee0441690359ffdd0acd7b192de17f437995d6eee3d345d0fcbfcc35339d022a3c6d5e2c945f943979d94bd9483286f4dc319c0deb8ced288f1ff4cc90003e3bc2a893611bdde69224a8c731951e564ac4243692d4ab3c3b18b829b79a8a5527ef661c1ff5c1c9cf106366213f34596eea2a6b2b6c33892c5a1bd3c1bc66d44de99c0aac4a06d0f807e047af16a1b5ab1aa1fe36facf6164af9eb44f7349473b07e51b625ac22f9bcf75c2c0a3c5f2f21423ea27234ca4a33c5cb101809d4ad19d31cfb647a3880ad13c5dcd5e709561708de345c2901377e512dc0a6b88f387246b918a2be49aba54ea6d87135588838947aba512ad565c8a2217963d52ed63790fb3dfbc832ff473b42421126997f3a18ab0b8617a1cd2739713929f411c146e9fa21455ece5ed0096b6a00de991b24e00b5d552a0a0177a3b57d77805b4411ff10a55f195b3bc860b244212d65fa31518aede3999ec22447ff1ff6a080d4b4162ec0ee950b9dc591590099ff9412ad00bfdd5762f033a9867474f0a5556793fd26fa049279fb8b4ee75ad89362c26f7d77909993af87edc8a16aca7747127daa8885f15cb0a02f606d8370056192fbe5af1c9adf89b3cf67aaf812718c63ee0e2cdc82801a5c6944ddd20f9c5ff688e869130e6fa3235895c96eb5d3dac3fd36854886ec99f73cce85cf0d8dd5122c80274bec156c901bffa0e97c6e77203e48a7d5368adb8c17972536831ee7d50e4787d1c618c5670d994dcefc09a72cda8d96cf769259482585fe9de45ce7da54a393a836e264b82dd0e24a8e6f26bb17ea739aeb5c0e7130bcc124bf68093020b1b78741e32c06849f56481c8a5c27f5583cf751d5be7b19060c0a2d47c83f2c0de8290a941116fdc4f2f6afe2f87d8ffe1fae5f72e7585df91c817229223710a284763f77686f1d25b50648ae082987cce9d4d32b468f9ccf88ef5faa884f358865b32437fa05984d024559e46158bcf469f1a35f2a39fdfaed52d30b30772a713770f437619dc6cfde1615d7f61c59e0006bc431c889e41ac2ad0b0e36922f2ed368eb2b3e2c64493a2be83f116298a42e1aed0c689f152d7d70ccddba5709b66e4c4564c25deb752758f9185fc0fb8c48fa7882150450450c1672817d414a3803759730b1c194e427be73cd3bc7ec1343fb5f5dd0c92a8efe7577c9b0ed22ee17bc2000e530ec2dedebf206db26f96b551e47af249e7823aa7fe18b848102ee4486705ca2cd09cbf93d104d60f46d0833a7c0ff5c3681754ba77c504362eafa2242825eb606b8e96ef678f8d065245f8fbdcb5c41cea35210f9d635f3aaafe6e4f19fb76d0503fde703da3d696dd2b938df9786be81ec42f411b65b78fdf79c6e63c92082d2169c92c12d33299471014adc3b4bd83bc5439631a073c2926e618029bf16fe67d6ceff066591648ea970e802664312c97c355197d574c57eaa35e0b215c0fd80f9662d6f80f237abec490d8a75edda4cc8571a0833e23907ab175757009743343ea9a948d2193547574825ef117b957aac021b63c9e44964cc611dd07f04d0352559017482ca71c76c49f8e6b4b87091f1f6c4cd757cf3a9febb0ec2ab438a6edb66734d9fdb027ff88adbc0b2</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+    <title>看不懂教程</title>
+    <url>/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
+<span id="more"></span>
+
+
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文中记录了一些阿岩看过的教程及极客论坛</li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>某些教程内容或已失效，建议去Google最新教程</li>
+<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
+</ul>
+<h2 id="01-Microsoft-365-A1账号申请"><a href="#01-Microsoft-365-A1账号申请" class="headerlink" title="01. Microsoft 365 A1账号申请"></a>01. Microsoft 365 A1账号申请</h2><ul>
+<li><code>警告：</code> 微软于 <code>2022/10/20</code> 对伪官方教育机构的A1账号进行了大规模封禁，即使现在还有个别没被封禁的，也快了，谨防上当受骗</li>
+<li>拥有学校配发的教育邮箱的用户可以直接前往<a href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>填写信息申请A1子账号</li>
+</ul>
+<blockquote>
+<p><a href="https://blog.ohao.net/834.html">用39元购买5年的Microsoft Office365个人版</a></p>
+</blockquote>
+<h2 id="02-Microsoft-365-E5账号申请"><a href="#02-Microsoft-365-E5账号申请" class="headerlink" title="02. Microsoft 365 E5账号申请"></a>02. Microsoft 365 E5账号申请</h2><h3 id="2-1-必看注意事项"><a href="#2-1-必看注意事项" class="headerlink" title="2.1 必看注意事项"></a>2.1 必看注意事项</h3><ul>
+<li>申请E5账号时可能需要使用魔法</li>
+<li>能否成功续期E5账号是概率问题</li>
+<li>通过Action续期时小心Github被封</li>
+</ul>
+<blockquote>
+<p>为防E5账号被封，最好不要给别人开子号；重要数据不要存在OneDrive里</p>
+</blockquote>
+<h3 id="2-2-推荐参考教程"><a href="#2-2-推荐参考教程" class="headerlink" title="2.2 推荐参考教程"></a>2.2 推荐参考教程</h3><ul>
+<li><p><a href="https://www.maxiaobang.com/9794.html">MS 365 E5 申请与续期</a> <code>马小帮-2023/6</code></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">MS 365 E5 申请与续期</a> 、<a href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a> <code>HEU-2022/1</code></p>
+</li>
+<li><p>Microsoft 365 E5 Renew Plus：微软E5开发者订阅续订软件<a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502"><code>博客</code></a>、<a href="https://e5renew.com/"><code>官网</code></a></p>
+</li>
+<li><p><code>警告：</code> 微软于<code>2023/4/4</code>对使用了<a href="https://qyi.io/archives/687.html">浅忆-qyi</a>自动订阅程序的E5账号进行了“强制”过期</p>
+</li>
+<li><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a></p>
+</li>
+<li><p>直达链接：<a href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
+</li>
+</ul>
+<h2 id="03-Hexo-Github-搭建博客"><a href="#03-Hexo-Github-搭建博客" class="headerlink" title="03. Hexo+Github 搭建博客"></a>03. Hexo+Github 搭建博客</h2><h3 id="3-1-博客搭建教程"><a href="#3-1-博客搭建教程" class="headerlink" title="3.1 博客搭建教程"></a>3.1 博客搭建教程</h3><ul>
+<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">Hexo生成博客并发布到Gitee</a>：讲解详细全面，非常适合小白 <code>安靖-2021/4</code></li>
+<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">Hexo搭建博客并发布到Github</a> <code>LieGuのBlog-2022/10</code></li>
+<li><a href="https://hexo.io/zh-cn/docs/github-pages">将Hexo部署到GitHub Pages</a> <code>Hexo官方</code></li>
+</ul>
+<h3 id="3-2-博客美化教程"><a href="#3-2-博客美化教程" class="headerlink" title="3.2 博客美化教程"></a>3.2 博客美化教程</h3><ul>
+<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">Hexo博客-Next主题美化</a> <code>vic.kim-2019/5</code></li>
+<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">Hexo的Next主题详细配置</a> <code>younger-2017/12</code></li>
+<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
+</ul>
+<h3 id="3-3-博客迁移教程"><a href="#3-3-博客迁移教程" class="headerlink" title="3.3 博客迁移教程"></a>3.3 博客迁移教程</h3><ul>
+<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">换电脑后进行hexo博客的迁移</a> <code>LolitaAnn-2021/06</code></li>
+</ul>
+<h2 id="04-实用资源搜索技巧记录"><a href="#04-实用资源搜索技巧记录" class="headerlink" title="04. 实用资源搜索技巧记录"></a>04. 实用资源搜索技巧记录</h2><blockquote>
+<p>搜索引擎推荐顺序：<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a href="https://www.google.com/">Google</a> &gt; <a href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
+</blockquote>
+<ol>
+<li>检索网盘分享资源：「资源名称+空格+“提取码”」，如「疾速追杀 提取码」</li>
+<li>检索磁力链接资源：「资源名称+空格+“magnet”」，如「疾速追杀 magnet」</li>
+<li>搜索特定网站内容：「资源名称+空格+(site:网站链接)」，如「Elden Ring (site:rutracker.org)」</li>
+<li>精确检索完整匹配：「intext:”需精确匹配文字”」，如「intext:”Based on OpenAI API (gpt-3.5-turbo)”」</li>
+<li>使用书签跨站检索：新建一个书签，将网址改为以下内容（需删除“站点1&#x2F;2网址”）</li>
+</ol>
+<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="05-人工智能（AI）项目集"><a href="#05-人工智能（AI）项目集" class="headerlink" title="05. 人工智能（AI）项目集"></a>05. 人工智能（AI）项目集</h2><ol>
+<li><p><a href="https://github.com/XingangPan/DragGAN">Drag Your GAN</a>：通过拖动图像上标定的几个点让AI自动P图（比如让狮子转头）</p>
+</li>
+<li><p>大语言模型：<a href="https://chat.openai.com/">ChatGPT</a>、<a href="https://claude.ai/">Claude</a>、<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">New Bing</a>、<a href="https://yiyan.baidu.com/">文心一言</a>、<a href="https://tongyi.aliyun.com/">通义千问</a></p>
+</li>
+</ol>
+<ul>
+<li><a href="https://chat.openai.com/">ChatGPT</a>：<a href="https://github.com/xx025/carrot">免费镜像站点</a>、<a href="https://chat-shared1.zhile.io/shared.html">免费共享账号</a></li>
+<li><a href="https://claude.ai/">Claude 2</a>：被称为ChatGPT的强劲对手 <code>请使用美国/英国节点！</code></li>
+<li>更多资讯见：<a href="https://github.com/runningcheese/Awesome-AI">Awesome-AI</a>、<a href="https://blog.ohao.net/1845.html">2023年可免费使用的AI平台</a></li>
+</ul>
+<ol start="3">
+<li><a href="https://github.com/lllyasviel/Fooocus">Fooocus</a>：AI画图工具，结合了Stable Diffusion 和 Midjourney的优点，开箱即用</li>
+</ol>
+<h2 id="06-好玩的Github开源项目"><a href="#06-好玩的Github开源项目" class="headerlink" title="06. 好玩的Github开源项目"></a>06. 好玩的Github开源项目</h2><ol>
+<li><p><a href="https://github.com/yairm210/Unciv">Unciv</a>：“文明5”的低配版像素游戏（&lt;100MB）</p>
+</li>
+<li><p><a href="https://github.com/HabitRPG/habitica">Habitica</a>：完成你的待办事项后，会升级解锁更多游戏玩法</p>
+</li>
+<li><p><a href="https://banksiagui.com/">Banksia GUI</a>：国际象棋GUI软件,内置强大的支持UCI协议的国际象棋AI引擎<a href="https://github.com/official-stockfish/Stockfish">Stockfish</a></p>
+</li>
+<li><p>围棋相关：</p>
+</li>
+</ol>
+<ul>
+<li><a href="https://www.sjeng.org/leela.html">Leela</a>：安装即玩的围棋软件，新手友好型围棋AI</li>
+<li><a href="https://github.com/SabakiHQ/Sabaki">Sabaki</a>：可以搭载<a href="https://github.com/leela-zero/leela-zero">Leela Zero</a>等多种支持GTP协议的<a href="https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/engines.md">围棋AI引擎</a>的围棋GUI软件</li>
+<li><a href="https://github.com/wonsiks/BadukMegapack">BadukMegapack</a>：傻瓜式安装多种开源<a href="https://zhuanlan.zhihu.com/p/267139001">围棋AI软件</a></li>
+</ul>
+<ol start="5">
+<li><a href="https://github.com/huiyadanli/RevokeMsgPatcher">微信&#x2F;QQ&#x2F;TIM防撤回&amp;多开补丁</a></li>
+</ol>
+<h2 id="07-一些硬核技术极客论坛"><a href="#07-一些硬核技术极客论坛" class="headerlink" title="07. 一些硬核技术极客论坛"></a>07. 一些硬核技术极客论坛</h2><ul>
+<li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a></li>
+<li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
+</ul>
+<p><span style="color:#FF0000;">红不红？</span></p>
+<p><span style='color:white;background:black;font-size:50px;font-family:仿宋;'>黑白配</span></p>
+<p><b>加粗</b></p>
+<p><b><span style="color:rgb(255, 0, 255);">骚紫色加粗</span></b></p>
+<p>上标：<sup>内容</sup><br>下标：<sub>内容</sub></p>
+<p>mm<sup>2</sup></p>
+<p>y &#x3D; log<sub>2 </sub>x</p>
+<div align="center">奇怪的知识增加了！</div>
+
+<div align="center"><span style='color:white;background:black;font-size:20px;'>&#12288“事情总会朝着意想不到的方向发展”&#12288</span></div>
+
+<p><span style=font-size:50px>黑白配</span></p>
+<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       <categories>
-        <category>医疗废物</category>
+        <category>DMUCD</category>
       </categories>
       <tags>
-        <tag>医学资源</tag>
+        <tag>自主学习</tag>
       </tags>
   </entry>
   <entry>
     <title>吹度玉门关</title>
     <url>/%E5%90%B9%E5%BA%A6%E7%8E%89%E9%97%A8%E5%85%B3/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="0f84ff680982f7df3328674459bfe0c7f0bd59aa9fceaf4d71e79a8a608893e3">0d0f3301b4472cf373d8d9ac48734149e582bef51244f9674827589c08ea1a435f5de5a00362ba5a6d31c93ca0d97276781e2a466c368098d895fde03e8f40cf8fa20adb5f274e48d35939cfb7ee4017d2f1928ffc94a81228a087f26124a10b8be6ff790637552315af1b6f824a9b2944efd3a72caf0107a4cfcceb6bb8d279490c5ca8726fca99cd8e8208fdb908152a01186007648037d4b82eefd422e72938d1d3e1d0dd6e4fb21b1212af2b61cd60fc62e990b8e659616d527c6e6ea03b9a2b17097c73f133f0af0e6d389eefdba256631234c66a32b5479c22a2ce7c406f9afe4752edcab54cbeb4ada2e5936cb695c0e4cd3bd1e200941635d25326023c5f7817a30b4869f847dc3f920149065329ab2653b2918c4981f24ccae733bfed06bc016ca8ce22c3357a42771cd0a05049afa41fd93dd5268b25ccd869f02c35b6d833d0b46febd4ac256c25f8225f6a72d58c6e718607290f332f610c5089f0bc7e8b3d6f543b4e2d56382069289732966e00b3437bd693290b8f482c373361c993dc87906d085ba9a29bff65b605c6346ea4484e1f4d47fa2250db35670ca2a179c6f11a417f8f439db58cb0cdad392715a08c15a60a390900c12ee6818b28a7fe5b613b6daa2b574398f753e00806f607460b10a4a373ca368c3da1e2119eb4340bde8be21bbbd880d005fb7a734a90a84ab943f823c7eee5153dc6238f4dbebd315b4e701bb098d4e96ab4457300401a7e4224737b8af904d5f5bb6b46ff08fb858f24d26f6009705cba49d41429b82ac2ed98f7bb0df8731144800fe139bd229d2fe7d48cb8f5d09dd900c3fd99ca261b36f232740a3bb3ebc9a848d7155118ee398269c3efea5ac552a36ab8f6f9cae9a143bb642a5c18f5d125f40d1e312e716bdaa6c79a6a557e187d541848949fd8407fc0fc6e13f9fd94c1612d96a8f17a95b0037aaaf0da1dcdbfbb12a7665969c5d9f9abcddbe945f583e041672c0ba533499c5c2312b4c2187ff6cd9dda7223f37b3d9ee23f8c1a16eaffbd49aacd41f6a81166913cd46289a8406851ce5f62f9963cd6da6d129c3e50eda16a96ac178e32dce5a8246b216e5b90b16ccb6624b633b13bda14f25db43cfc89acf0013898cf072d000a4055d409c589aff21684991cb99e3ac31d09f3eef96fbdc9182ecaa1e92851180ee23c9751885f8d399f4d290ccd9e5cf3c1823629537b2e9c4363d9f6df74b4b581d28eb8cd269d60362bed5e6e5c990313e1b6db49cd56d264e2d18b00e3dfacbd6864eff8730ba337128bbd528aca9a2bf8aed4f9730ac5ec8dbc25609d2b690dc4e70d4102eddcd2580c0cf0a40338461276756b7b8189a7fd5a131f4b61d77aca6ac122d73b26b9f7acbca8faa7efa814a025f3bb549bcc6c22538d9be3dc42143f4f5452f36268a93c795c4646c7e269f633499118963c40d68c94fced7f26208da2e585574e379d082c7c58d205812db20fe89872d8d77f08af3b6d7e44cd0a68b4006fc8b8b76b999c9390defd5b816e43407ce80cf7a6383e7866c3ef7a460dff73903294faab7998d0f7c097ce4fb51672763cb9bfe707de3b0162d606c0fddb23432adba50f64dbfd45438e500efcabb5cc0defa2406fa43c262b06e647eedff004950cba39c86c6a983cb13872385cc7f55b9e27f3a9e1124feb72fb3ade19efdda5ef3a1a5133093aea225c61620665586dc2d7e0e6516a73029a387327a79001956e5648e212b37514c003213ef6d86706d6cf2e46a16f9696bbf5df9ca0be96b2cf482d882b4a3274e9c39319d1cc3940a76e898cf6aa49d80d492f9302c307be5cb1787fa934842cbe6d45ba06650280fa7030aa2f38898fdd53e7ed402f41519587e4d1a6c87da23de538889c7fb34a66d548d253a00a5b4cc036e6098a7d758287720a6f0acefb2f0e0262ecd530facd89851bac6e500819adf0b6b009484b8fd3e5170e421e5fc3cec68de1b9b2247332d21e80085f003201a04d7e2c51ab98b91538a6d8a59eaa94387fabdec1fc9aea1691325ed2fbd6286352f8e286f51f7afbeb4378f32675afcc533d4e7caaa7eb5966cdc3ed8035c2fa1185b50e396116f263a01c66aa0f785522a0ed3de6c255ba31a83d64e8d458b372e646f5d175d56bfe53f1ed36396505ab7049faef08c05ffe129054f0dc59b092e2b8b850f4f30a630461c81f8ace78a33ccd644aa5b0f40c2943af5bf8383f0e91b6433c2c4743f2777fb6439dafcce3a94501cc98278c03184471712c770931304c6f413b09b620b77b838fd2b42a498a98205eb33ea41895ef03a469699ae72cea5374ed7d896ed8356ac8ebd54e45d14511040fc89e6c3ce1b735e895c620ad043f803e9e3a6b3ea5e3218d986208c5e00e36fe1cef66c96e5448e0f374047ac7c840f0c7fb3f2e681d65265a042cf1999ecc9481d6983fa034ac50aff6412e385ceff9713e80338ca85b5360449a4ab63eb96fb377c7cce78b30b9feb1511460bf3e0aaf5bbb9c5ab2d463b0010d18525366e8f53882ac4709036d5c73c1de51fbfc70d09b913b6c70b123e5e93eb323acf11a089c68473041149178a9fd2d8b3d19e013cf06dc02545d25adea37a00c37981a05c46861c6aba73f9ee1a3526bf6daeb818af37678c740dc58324590de3d61a472d4530170b69f3b514c7cc9671473eaa0e4b4dd5ecf14db5e8466003d6c138dc3d934b0bc008d30b02527c722e07643179e1e50565a9847e5fdc8b2c669f9f484ce51022bc6e27c8d8e059a221a51ff29d18405606a40715113c38943fb2240b4d2cf9335d0e3be7b3cb70f9c2e1e8ff7427ce76f9d7ae3cac42899914352379c8c83c5cf6bda2f26b071520eb99f941692d3300a0766099714e0c56b445035fa3f3070cf01243db451fb5e28d5e218e49c29167ed4cbb8da369f8f4644146e1ff932cb7ef9fad4056fe6c9533ed31ec0f22971e0061a3d84683678113e98d6f9cf2522b57d405454306669d6a8d4962635f1a828f34d3725ee0fe7bd501925f8471b7f2d18c7401dbbb3ef92e9fef9047ae2843f9819c7685e93f2fd3431adc795fccc74538af0ce611f0f4613ef8849b311b8bc78e808d0718a7051f8e1b89560c80402d9c251f714d85b09c6fc2715f3646b96196c38627cf19157bd4a44c1dcc149338c4db64c083a43c91b5e77a8375c491bd3f80e17fcb2a34f857b8dbbbc5197ae7e87c324b37581e65f9b0f43d03c222e4ab94f0009e5f7d7444066ed2980c556a73724c5f4ca33beefff3fb6554473275e4e256cb634f880271ea964500004ec5418d35e14659677cd26175af3bb4aa42aa6a7e01e1925d1ac39aed986871dd5adf8d8bd5134f192f5bdf4cc985c3ebdf0d12df5b9f636055c1f8870617f74326a6b17856e7da42e3e256900984cbecfe89ef79392e1c2fd2eb73925487abd180d1c73a549b431507ce01267aca2b7697b6c8e1dc59efb9afeba0ad06a9fc2548d6977bfa36aa04d11523e5dfc1048fbe4cbcde36fff9c86d51435bec3710d1ae7cdcb33e32b9f6a5c4f9a6eff820e5243382d42b223e1163977b2c1c4b391fd656937ec5f49933a4dbc976138387d3f3e55e19b26c4413af582a87e74637cd1f813ec9f19fd11cc1f0df113e249986b0198fe8e73dd648051c15673529fb40c237e8a415153b1e8e61b6aedbb533ce6f7f8b9064baf066b414c7daec0420ba9e339b1c3a11bdacc000c84b9368e39a41c6883fbf6b271e13a0ddd9447901375022858d973de133760ec61acee91f43faa66e013e9f13717b10210e5d35220a03c52db951bd78c1528fb452c4e831c7dd1a28af1c2bc3a0cbe4ba62931ba624e2b426b5c876b4d661062b9335e42139abe3a46f03b73b0c920eefed83901fa7be9a1494985dc80f40370010a16377c1962744b6e303f81d4cf6fb222c1696bdb3a63a65592f96f8a013a7c60ce454082ffb2ff07ac963924c3a539926ae0e3f588a9f81df17e365deed180dc028adc570d629abdff1ad37beea74ff69a43472c89c51241db14881b39f94d537e834e1ca95397b2170642e437e6cd808ac070239f95b439d14abe4150a6493606c9b68a21084c71ad9f9f605a52194b8db0888ede7f6271461beb8f0f0fa1521a61951cf3334d416ead11acfc283c34f5b5a8ddf05bd0896f53b1faefacf6cc37a31c14815a79d4384fc98b7f755dd8023dd11b649334018489d0e9b70a0d0a7c26f3a3c12551ca5fa05f3b0052e4b73a0ed5b94d24be2af9467fcf6a85f26c88656fc8cbaa85286562abd21c3c25dcde4beffc43aa8d288f25a473b0e766d7ead3a0867c44cb8553d7d8fcc71ca977779bc315754f525f04c326bca50fa86a51c85bbcf9598c1f6b92754964c3163f5a359f0eb23c57e797b87bf08262daa2b4dd8635625615f84b0b89b3aaabf76d22878e83b681fb0fa51f689373a432c75a0421ccc7946a45c4a57120eb16b895714fe7a205fa3e7852ac40881dd695b944e23a9e6969cc0a4fdd78c758139c3fc220e4b6b7bd8f8c53df00051335bf1e7081e02ce15df23ded6e7f79b29ff3b05dd3282d980d05ba6c1bf3b96b5e501e24aa5e4af1df81414aeaaf71c3661aa612dbeeea21dbbbe115ffc2b44957166531186e966d01726112166cc549b95f972978c844df21b7f459f5e1852eeeca5e405ec770070f1ffb0cc8b695b7377ad5a47104e68f2d6edf9331c13b2fd321796a90ec7acd98d3695fcf3f59377705219dab54d565dd2c4b27d2387e8547c6398a050ba1eaae04a46c0c32b79aa4f2b5f98adba37828738a1b0ab4568687c82065fc8b3017f5d76d3bacc91aa71fff56223c81f815ca2b580a4d74051aff96976d28938d90924274714f39f144eb4729da1bd84e817f3973390867eca25d0315aa76e0481d52d111daade305c951e87a6140fa58374322fe6a81b53d4c6fa1e3b16662ddc5622ee877c48885a576e77b33f879eba7acef47b45d98cf1d3787c11574f33c8d5bfd84caabfd9d6427eeb7f85ee5e308bfdb179429728ddfc6cb91d1cc88fea377eb82be8a17b87ea76ebb79f85b6aaa93583da385d52d987bb96b872c1eaf22a54043f9146eda01c9c250cf4bd9ffbb3a135a97dcdcb69e0f96ed1f35f06cf06ecb13fca13f2398d4ec17c02096725f9286add4fb2b1f6bace0591548b5961a002b9dbdaee7bd3d0dc47a9db507088e84fea81998dff931ba7f134a04e15aa52b96cc55b2c5ff7a936ac1e3b543e1c4965df11c0219e1bb33b1a66b1f31e073194fb2dd25c63efd42cfa1e47fbe3a4c91e9f0f97f73b5ecce1876bc01c6340cf9f10464703a7f2facbe7ac252637ee87eb18270430ca50f57ffabd62d98d635382af771eab8da371e8e8aad212ef79b8500b0d7699be58931da3c27d62d5fe2555095dc959d575f5fff272472a3b0aebc7acd3b7bc207c9d5996e84a3a59790f6e9cde661112659097de924a9b24ad088d47b27f268cae7408bcaf2caecb1e46593e23d1a370dfcbf816d6c3434fa81e50fe5d22e61706b82345fd98f9c6915d1c705b77da3ba764b42d83d2d2ade2cd49589e1ae29fb98c0f41c8ec120180d84cf5fb3d91dcf874c67b15eaaa694c2fb018996f51254e196a0ddb54a7b02bf06293ae172bbbb0942542ff500be83597095e90015704e64013e06b5c9059266b984936e33d61696c3ee81f691c6cc7a638a5a5967c6fab7f786618e29561c7b6e25c3eafe912c2b8efb60b8e4c516ec459290d652b44e34a77631ecd9bc287e02007b897ae98dab24b9f691b9b078e70e30ebd678e4ee6002233243a6bc03e179476c36f79f5baa58a4e10bfd9cdba7f959d25a77aea0d09d3c679ba8434cec71ca7153fe45cc6b5c2c3718ca85a8428cf67b163e47f4afd62747673e0c7aea93aecb67d75f8d733f13fd7d17ca48316574a6c63591fb58469ff36a04efcc4811442356106172c0237ca44817f3dcaa6b4a5e4413018ef8ba0d7c4d4b046b091b4e25e3f78a3d8d95db1d51c711db629551fcbc7cf7f1ab8cb0a84c4f9ed88db300b41413d6424d0af336da7b9880d632f6a05974fd5dbeb457eac77a3f4cd0ed9d0462cb75aa78f462371d49e3c5f6ea10d787d469aa292b2f2124603d9b8d84b56c88076ef8940ca34a75e9bcc6c0a4612d3f0a03ea0db8306cf8dccf75cb55c351085690ab5612debd6787dee5a6de4e33a8bd98df3264c27b927b67d0bbc3fa70f4b4e793485c78da2e1685f0d0e08949a8fef47bad5511503e3831a6245bd08fe4040ead365f399f3b98e0b110c17281b1f41ba838bab5d62398be629c7dd6c3cf1a6b614675dfb8bab14c41533de526c16499272da444aeecca1972f7368d91cd843005e9235da7ba13cf22ce4fc749d9d82ad1cd8a6190cd9dcba1ddc724ad75d1dd1077368421960e7d71d3972f3450d2ac160f938ed6f02280cdaa9055628791785331feec9de0b240c460d5c58d6c2a292359e78828382e56f4f657a2400404c11b926bcd7bf03259baf72bfc48852ee1d0339b4ba7540b43e88675870982ba967ceaf448302510805c850621a9f0b8679afe092e12a81cc6acdd3bc886bf88af215438bb385a7809feec59d36afc1120b4af7fb44b0e6c2b332f0d120975f84956bc238090bcbf24e73460bd09605daea55c53120d41d5dd8e99a62b97424dca93cb3ddd42d592f6bef95485de8e24f4bb6b72a0a922f67c1136f5ac7d01697e7544b8d3b414eef9797d54cd7bef582d6735c198f88a7cb0b265e49d34037b5c88c95f311e4d40f089eb77083bc6ea9e4e7c3dcbdd4a33244fea7a05184e5a07b0e851b41126c1836cb5c259ab829f30a1c1a987282e914f728d9613254ab39af683b2e6ed734c9a827088643c7cee1e397c6a4be9ba21941d142ba1e55278b106e5b814d37369a3fb640c3a9c333256474862a47740d7b4a8a14368d69dc3d61f58b39a97688c1dbf76176e10393294e15c3064222639c4c646710f1e4cb9aea53ff4c25be708d335cbf69a27d11a1eda0a9878f19d2daa74a97287cdb12e70c41ba20b69ff123ccf9f5ad48c8c4fc1abfa02c21ffd53175f4840b501ceb151f056cd0fea9e5bc2c69e5f5922bd114a719cc9f7fc7bd34dcef2532326f12f39e6f0cad150b89183f37b3247d996c9043c981c99e6586d3957b49fa0e21cd74b022e0c7540d7db2ed97252213aeca3dc90adb4b85f368023a4f7b4e373729e6b19a0e0e26039fe2ae003ece48d90b707ccc6295f30920de9d011b97ff56f04ebffb9fed6c1e530d8cf1d200a0f2a46ebe601c4448c9cc3dc5999d5ee25aa83505f3ba8e99610ca0abfff35bf0c5027604dd87a1513a94ec6bcdca0eb2a800b721ed46ee6d5f70d0e91406badf39904e294c01a1091f13064827724e93ae9ec6ba0ada9c3cca5eb8dc44b42755019e1fb84b2968d82777891156213afa268a71fb47f06085a04d8a864fe2291fd0f55bcd308079475040a952b5ae90db86b58922ce9e46b2bb4997fea15d226845b65be0c69c85478a69d25dc53b2fe55157b05b68f73a9abeeeea55dfefaa64de51417e16b2844c7d8e51a30975077122eef12aeba81d617468dea36b8f44ae7906fb1c0da7f3104b15db6de214396827bb716464f200ffe07c47e05c8648aafe03e53365507c5d22141aa76457b008633dcbe6a48d02cfc6ca9a714c643e287e3521df01dd39e774525228938a99c5d4b382e6abbae51de81a81d0a4a691d72ac7c10fee75211a369b3d34da3813e04e655d452e3090ed816f5ed56961ebe9feb86c0f108650921da18dc580a98a729fb0ff9398505e731f1ac13cd971ae3aa2837cb4f713c2c8ee5fbeb22c2a267b003136ad73bca8d8c44c1af4bc65f7c7c5dffe91803f048a005b83091815ea94b6247dbb5e399ed759d4ff8b3cffe5ecfa3757949f3a61c3b2e2cedf235f80ba0e6a6a0a2065fbdf8f69bfb439f8dbb71018021646904a9a1681a2b4da8841d6bc1b83744f1cd7b58d0bb391a1b8c4070df90abea5acbf864f0000481064a49beae1505c2d66251dc2b3368e490d3349cfee4e1b666727a06820939523f61f7669518dd8c7f3ef422af493d5ebff397a15ca970e3c335a0626cc96d09a469f34e861287588063bb3de773ab147b8df1bf7920808786acd531373c85cf6a175a73ecf2f3b7c922a8405d9a54e6247e406c9155631e1401f297bd4eeeef71342845d178dd2bdf8a93f1d4e376a89598866b50a061a1879f6f6d374e78c61f8da86c6dad7409015778f6eb363d32bfaeecdda2df3f9bf801aa6ee93895afb4cc797e4f4605c884d024ec6fdffddadf1183bd109e88fbd7232b3cafd045f3ee1e62eb3944cb6b060b16781e98e1ea1e0dc349722eebeab562623f9ac3fbd9a9a8e817108b580effc3018d0a37592cd865fcc14d1d8776760c94bb16355d63d0dd750006b02b499fb1be6515df476590425808fdabe660cd697e1e352212bb5a1ea094edc8a57d1788406d82e1d21ee3ccfff7fd8670af41fff4e1c7ca9f90fff9d90b333bc61a2783bab4469564e5209554a531332c385ce97b1cce1f5a0b2fe57d5ac3f7d1c2fd9566370ea4f29577b4936956977417bc875266d083fdab3390a31edfeeda98e1ff96d206d9854cf3ecfba81512f95330bc6a359d1141e591470ad5dabe49320cb23be526e5483ca7bf0be4b6227e3f052da29be58a375f9cd66d102ab4a24ab9c4c98a2f7348540702e03b3eff35229e7472d22cabe6e052a3b9b41db334e341d6ee8309a050684e38e1dceb6ce89970592ded23e4b3b409deb3e3135a4d175c27310f1760ec2fa90c821522f0d4395dc459db764bf3cea57a72d0e495a1d04ef33cea276f46346f8dd18887eaa25967c9afcfd7ec47b647626fab87ccd7df56e06b2de086d4b8977c9319a9c3429185f9435c7f20198de0f773667de4baad4d83b60205a69100bb4b25c8f3478ba539f9098168a562c3031887d9f75b07b045a112e8e009ac8dc86d84b589512c88ab5f45a99c652eb1902fbcefc4127f1a5617fd955b42ecd86a128a06af09eb59acfc55bac287c9cff18eceb9dbeae60dbfc44d07217561854c22277f3aa7b4fbf1b015a07b74cd196fa96de8cfdadecbe35297c3085789e5465452ba0a92619a6268fcff5aa7798bfbb9c2167dc9dca492173c1856f84b9006bb2cdeda2700bbc1c05030afabebba934224eab81a740b5053d3d47fcf3fec8aa994af7cc9e0962637f1d7ccaccb4c15fe81809b4cb678f3ea36be132a9c2470fa956228c1752edc56810d10ece363b56134bc32769601d26e8d6d63943f464dad008d16dab97451afa94a322bd4992b139594193b390cb8d486ef274886996df721cc68085dfad62456e8d749200d5a21c5364d2029a5a8f4122cb1e590345bf92d711403a58b993c7f52c9a2c6b5a2de0b253cd886c6ca476ab4c3f880a37e44239bd773ab0d28785bad3963ed183cf034ce0d3f6d616d91c7543946fd042420295f0c0cd4c10469cb788177b7fa046cd7cfa00ceba7cc52a82ea58d8b7be14ca02eef89bc7855c18e60099927d2399f756d6cc5d6fcda28094ad9796896365c2863ffce2f64ea6573ad3ba53d35a12b9d1d13df14c992279ab77ee5ca369c2a4b8443ea5240a11b6dc4aecff643eba5bffc49e258d7d1e24b9acb9cbe8d5c36d7fcadc383d03efe78471d4c45457a72a8b3dd451818864a7a4c8e7f9b85ba361fbe4e6daae155f5f72fcfdba8fc536dd9959f28a58085ffe2fcf3ba2d1ce20e132f5cfbd66627d4ed23b8d564f1de2d44b0264ab0987c9f4c03caf46e87a645be5d4f043e98f452dbfec22dcf9511fd18691cf1b9e9ce267be5c412d5fe27754b8a7d84c720f14bc46cc54a9c19ec319e4953de76993e949d3e42fc69231b78421188eb9853356a5168007688d54d12aab374aba476207d109c2ef4ba312f4a780ab55d0bfdc2b03c159b1dafa582a9ef12aafb9ade3d7e8fa57e6712f80d04ae57e55c17d6b9993935ba0c6a3d90248ba17046d86edf61252193bab3cefe69bfe76788b05dde39785d54b114115623bac29285a96dc1d63db317e0f80ed5d6968870a74e6505d6c2fdf1945a3d50b54accb1f5f000bd1c354f7fd9fe1e60e8cf935c42b2bcf0eb294760e88f6db3daf456dc5e5f1558ee2f5ed3a3b9af2363dcbfe124999f65dd155a75a314ada28b70c39a233efb1417727a142d2a777e97a11e9c1cb49768c662f1ed3b81d26d0ad157fc4a7eefee8f61363fbff5b1c75497d25c4c5b4cca9bcad0c759366d9c355425e6226cb5fe29636a15f507f69b6bdf5513984453db56413f8c79b9382e599e2fb6bbdad7be282d3173f6f3562fa5c446d3a8d3f920bca8e790eb3757b68d18c328bd8357015f9d3a8d94c9188eadea5be6fef01e772212bb7193ecac9a4ef77e2d001317b029e0e5081c04e78e889ee8b1e81088d34fec2a30923dbb8ca3df2f444a04a6144de926b7242ed15bec72b976cde43bb5663c93f66defac970879eb219440ac1aab7b76662b2b286d7cb91003f77c587e7b381699810617aa4375d0e08098c177d7febfa1dfbf7c04524430fe76e731bfcd9336588e4c2f57e094ca77ddb6aa17232d9a69e7f626e2674b7cb8063c74420bd6ba38ae00d03f3919bbdb739bd57970f8f5b46e6b3512fa8e8e251da144e6069e44e49b6a5e349ff98cc90f54167a9179f721cd9b90124c782296364422cd799ce7cfb386cc49cababbb88cc0a9f7a9132c6bd64ccca4a710c7cfa3feaf8680dbb88d456d9e2087c7764cb4cd5d8c968d5ef682973de63be6a35184f36b67e0c7488b9c88ab7822a95d4ab426ed45f72eb425a9ef2de7b2338f63607a4c84d7cda13b3e839c0528e4d596aac40372648f45a1f25be50ce039294e0de177ff2abea98e509f79928fd6329fa04a3994c0c07a2304c1f3672fffd67c1f27bbf7e9e2d35ef721b90e4dd50d62c567b6cc7034d25e031fb1522a3a19a9fb1a10d217fee83f86c012435b6f24f6788e212898604797efa5cd081ed0a38ee7115439d3e1987d20269442767a1684b0159efd8e4f1f69ab2edbb19bd0acaf950a4f1dc80dac8b4f53d3104b5ba95a44a01f8af4139b402261c54ebf0e4e80461278830e9d593b7fd36b8f6612c5f900e4ed1fa731362f07f575ab83ab9b1f9f9a934753713d94c6e3a5cad4506e48e53289fdfdb732e435abb8f1cbf6056ffd90c717135af2eea596ce077e25ee9d0a3eb8afddd702dcda69afa26e633da472b9aaf83ef27aacd8031773600f9e9d7bf0f150fb3b39188b6b4a9697354eb7bbfd9fc43319cbe6f7baca7bf2a687816ad7b2c9a246011dc3b92a51d30cb0fd15bf055cd3d249eccfd47d670246a4b6a0e604483e9bbef5e49add4fdb5c01d85228165ea619c7175c75102f778bfa2a927f8a7dd1467531e357f89aa17a8d1d68f4198a3cf0006a1ab55e4de6c9848516fcf06ea93ffa31bd6f32933536f25f55f891c57f2449e773e099c617618b681cfeb39ec02f4649edb06ec120fa462ce171880fd17374e5cf98b3a23ea3fbd827b2fb541a9098eaf1f25570c3bc9cf937473112a2b40c15af136f851428f84b98c85335850b8d249bbf10e120dba3008b8aaf9b1695dd36dada8dc83f422d5f0fd86c14e80c4a1ca69725fbf73a180b9764f65d092d87154172ffec2026fee11468e25532a9a1cf0b2f26efddbb0b9c0f64bde51e0069e76c1d39455eaa0185ec5f7a35cedc6155869b6e9961ac2568525f7485b480ee229a0545ebc5c6af40f4f6e60aa4d62db7a930d5803ae226a3b1af7df3a9935b233ce0fb931736df65bd69852d97b36494d34c7c457e7ae8c80b2467f3e3d4c05286b8a75e39e92a8ff915c586a44d371a3cc2e2496daf8358b21f0b3d9daf92d3f550dff1bac9e089068be48c3395a760cceacbf3db34ab5bf6bdfc1b91e99ed9c8ee6c606adecd61f6b10949f49c3b99693e797d0f28caf778f43ed6b2793309bd8bbf829c9e024e64db9de49b047a70f99185c31601fcf181add86d160aadc1ad58e4d9f60e65f8a519de4034894c61463d05a73b5d15f4b661bf6a9357b988fd1323ebe96204db1c30ee85fe01f190e6a0f897dec106d24a394c1df25d9b0ab519a339463739f30e576fcbe4d16e026998493e1aba3a77e9d9e0506dbc8467c45a50f1bb1d35bf99032f751c6d7fdbdaf2948ad11689ff13816bb0dee67d8983aa4f78adf36c7499e6b21d3b187810088152726db0e5caacfd17ef221a51e46b0376d4aee6e4e6a6a31af2e94298673f471b43c15f9111dd034e88dbd6a700e23628ddbbeeeb981333061d9b48872bf30f3458dcc6733935bda48131f1acaf02d171f56d8f1b8458fc3fe9f755d1cecf240c37edcf0d4087fbbaae4e33969d2ab03b93d3a4fe43a9fefeb084b9a9d919efdf9836244cf34a189914b2c091ac6006ca2e9a59062b2ef2c1fce196ee72c106e69a264284b9ee74e97274ca4faa937ca4ce688c4c94c9ae27cfa671acb2e89c961ea3996953c227c432b12919dc576041a1c7df1667ef3ae6c671e04f11039c34c808bc8c256dbd54f622b8503f2d3301dc1ad8323ccbc8b0fffa724d5607e3819bb7d31aa4b23b3e5660ce7c359ade85de77dd08578108525b4d15b58ab1663b915d03e15b654fb8c833ee81540c0014f888ad8a79390b84e55db48c55ed6d0782cb4bad5539b8101e6368ed68d84a8d99101d5ba7a21d89646e118761c6280b514b649c3e7e5bfee5d06b7ff4b8e359261ed1af40a0013c674d507a2b1d079241f9512959b97590ce298bc2d1d26f27990342dc2cab921f173a5cd01525321a12c53589f2af2ec6f440ca4455867c09292811391f3bf1fef92bbe6a4845e1df6ef8ec5fb41079d42e8821a09096e03b23ebb5628f3b1b5b961d7801cf393172773c4078ac21a195af637fb6c797baf70630ce010da36f6a150e9afabbe1a4882a1a9b3c39ac460a648a4a9be916e04b32da60dcab319b1e3bc1191513276fedacba649c848c8ec148b8c18a512745e0914767ea3d8ac9fc76a16387a3dfd1c3b9359a42425312e85667680f16365a4363bf11f8c81c94cec5efeaf5a7fd82345ea30e0272f2474b8052edf47c6f8a95fef38663fe2226717e62cb8585ca67a96fc082ca26fbe7f9218f9a61ca68173b6de163fa09a528c6c6e8b7989780871d96cf26b4acafb9fb73d1279062b22fc7b6e55c3dd3bae17da044e856e7de4639983e748eefd9d5e15d522030f3dd6538cf8dece159fda0e05519066fa10e8a9e3244567dde2dd0de5b7e3794d732fb7ba861163905aa846b6514925154d1f53dbe2fbfbb4e97f8b6c41e06d0717d986b93b7ec8c29f18748df114329e067d6cd128c34432fc195dc4b20ed6e32bfceda53c6db48bf4123def91c5ee48f37ccbceb2e74ce508ac1ef3d7f05935d8063ca82ebe9456ec1bb3980ed0627d02269848301ffc97ded007c0c8a25a34ab9a9bce6fb8e7139104219dab1abaf92d12ff91da5f4a21ffece0aadda677e18dc10d828a3b92eb8454d4d134d94679eb7306f1683c37cd84c6c180f309e33218fca76f7a87d1d2a7c5c2af771720a28a8187ca5d3e9b3045b0c71cfca704a0ab860e7e49a2c2768ba32fd811338dbc0ffffe85c6cbbe7a023b1879bc247dada30da538dc1581b95784fe751248296572ee9451a5d10037ed689fd8f19c5234acf6d9bb1050cebf3373e64951af859cf9ad8e38b2365198eb0de5020e4681186f806cfa1c6c55eb3403ef5b7aafdaad311bd51f0359324113826134161fe00a89fb94be40376e9dd91274e2fe0260624ef1111bd50a61a7e59e2a41530a1350d937f446f67034a7ef4977d9059394c09c112d80328c7196b687449101b74dfcf136fb5461a004db6bbfe84b89003e0770e3f101f7457733d8db9e3626f7b05958dd06b3d1e1b22b50a48e149038551e239f495af319ceb6e465427c77dc7fb760779e32b95859cb9d79a0db6228bbdaf9d70cd873f247643a25802c9cb13acaad3e46495f892fbd9b6aac8</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="8c6c9187deaaaf9ac3ac7d0b0d50f36ae47459b88e12e8d3e236cbf7ec55725d">0d0f3301b4472cf373d8d9ac48734149e582bef51244f9674827589c08ea1a435f5de5a00362ba5a6d31c93ca0d97276781e2a466c368098d895fde03e8f40cf8fa20adb5f274e48d35939cfb7ee4017d2f1928ffc94a81228a087f26124a10b8be6ff790637552315af1b6f824a9b2944efd3a72caf0107a4cfcceb6bb8d279490c5ca8726fca99cd8e8208fdb908152a01186007648037d4b82eefd422e72938d1d3e1d0dd6e4fb21b1212af2b61cd60fc62e990b8e659616d527c6e6ea03b9a2b17097c73f133f0af0e6d389eefdba256631234c66a32b5479c22a2ce7c406f9afe4752edcab54cbeb4ada2e5936cb695c0e4cd3bd1e200941635d25326023c5f7817a30b4869f847dc3f920149065329ab2653b2918c4981f24ccae733bfed06bc016ca8ce22c3357a42771cd0a05049afa41fd93dd5268b25ccd869f02c35b6d833d0b46febd4ac256c25f8225f6a72d58c6e718607290f332f610c5089f0bc7e8b3d6f543b4e2d56382069289732966e00b3437bd693290b8f482c373361c993dc87906d085ba9a29bff65b605c6346ea4484e1f4d47fa2250db35670ca2a179c6f11a417f8f439db58cb0cdad392715a08c15a60a390900c12ee6818b28a7fe5b613b6daa2b574398f753e00806f607460b10a4a373ca368c3da1e2119eb4340bde8be21bbbd880d005fb7a734a90a84ab943f823c7eee5153dc6238f4dbebd315b4e701bb098d4e96ab4457300401a7e4224737b8af904d5f5bb6b46ff08fb858f24d26f6009705cba49d41429b82ac2ed98f7bb0df8731144800fe139bd229d2fe7d48cb8f5d09dd900c3fd99ca261b36f232740a3bb3ebc9a848d7155118ee398269c3efea5ac552a36ab8f6f9cae9a143bb642a5c18f5d125f40d1e312e716bdaa6c79a6a557e187d541848949fd8407fc0fc6e13f9fd94c1612d96a8f17a95b0037aaaf0da1dcdbfbb12a7665969c5d9f9abcddbe945f583e041672c0ba533499c5c2312b4c2187ff6cd9dda7223f37b3d9ee23f8c1a16eaffbd49aacd41f6a81166913cd46289a8406851ce5f62f9963cd6da6d129c3e50eda16a96ac178e32dce5a8246b216e5b90b16ccb6624b633b13bda14f25db43cfc89acf0013898cf072d000a4055d409c589aff21684991cb99e3ac31d09f3eef96fbdc9182ecaa1e92851180ee23c9751885f8d399f4d290ccd9e5cf3c1823629537b2e9c4363d9f6df74b4b581d28eb8cd269d60362bed5e6e5c990313e1b6db49cd56d264e2d18b00e3dfacbd6864eff8730ba337128bbd528aca9a2bf8aed4f9730ac5ec8dbc25609d2b690dc4e70d4102eddcd2580c0cf0a40338461276756b7b8189a7fd5a131f4b61d77aca6ac122d73b26b9f7acbca8faa7efa814a025f3bb549bcc6c22538d9be3dc42143f4f5452f36268a93c795c4646c7e269f633499118963c40d68c94fced7f26208da2e585574e379d082c7c58d205812db20fe89872d8d77f08af3b6d7e44cd0a68b4006fc8b8b76b999c9390defd5b816e43407ce80cf7a6383e7866c3ef7a460dff73903294faab7998d0f7c097ce4fb51672763cb9bfe707de3b0162d606c0fddb23432adba50f64dbfd45438e500efcabb5cc0defa2406fa43c262b06e647eedff004950cba39c86c6a983cb13872385cc7f55b9e27f3a9e1124feb72fb3ade19efdda5ef3a1a5133093aea225c61620665586dc2d7e0e6516a73029a387327a79001956e5648e212b37514c003213ef6d86706d6cf2e46a16f9696bbf5df9ca0be96b2cf482d882b4a3274e9c39319d1cc3940a76e898cf6aa49d80d492f9302c307be5cb1787fa934842cbe6d45ba06650280fa7030aa2f38898fdd53e7ed402f41519587e4d1a6c87da23de538889c7fb34a66d548d253a00a5b4cc036e6098a7d758287720a6f0acefb2f0e0262ecd530facd89851bac6e500819adf0b6b009484b8fd3e5170e421e5fc3cec68de1b9b2247332d21e80085f003201a04d7e2c51ab98b91538a6d8a59eaa94387fabdec1fc9aea1691325ed2fbd6286352f8e286f51f7afbeb4378f32675afcc533d4e7caaa7eb5966cdc3ed8035c2fa1185b50e396116f263a01c66aa0f785522a0ed3de6c255ba31a83d64e8d458b372e646f5d175d56bfe53f1ed36396505ab7049faef08c05ffe129054f0dc59b092e2b8b850f4f30a630461c81f8ace78a33ccd644aa5b0f40c2943af5bf8383f0e91b6433c2c4743f2777fb6439dafcce3a94501cc98278c03184471712c770931304c6f413b09b620b77b838fd2b42a498a98205eb33ea41895ef03a469699ae72cea5374ed7d896ed8356ac8ebd54e45d14511040fc89e6c3ce1b735e895c620ad043f803e9e3a6b3ea5e3218d986208c5e00e36fe1cef66c96e5448e0f374047ac7c840f0c7fb3f2e681d65265a042cf1999ecc9481d6983fa034ac50aff6412e385ceff9713e80338ca85b5360449a4ab63eb96fb377c7cce78b30b9feb1511460bf3e0aaf5bbb9c5ab2d463b0010d18525366e8f53882ac4709036d5c73c1de51fbfc70d09b913b6c70b123e5e93eb323acf11a089c68473041149178a9fd2d8b3d19e013cf06dc02545d25adea37a00c37981a05c46861c6aba73f9ee1a3526bf6daeb818af37678c740dc58324590de3d61a472d4530170b69f3b514c7cc9671473eaa0e4b4dd5ecf14db5e8466003d6c138dc3d934b0bc008d30b02527c722e07643179e1e50565a9847e5fdc8b2c669f9f484ce51022bc6e27c8d8e059a221a51ff29d18405606a40715113c38943fb2240b4d2cf9335d0e3be7b3cb70f9c2e1e8ff7427ce76f9d7ae3cac42899914352379c8c83c5cf6bda2f26b071520eb99f941692d3300a0766099714e0c56b445035fa3f3070cf01243db451fb5e28d5e218e49c29167ed4cbb8da369f8f4644146e1ff932cb7ef9fad4056fe6c9533ed31ec0f22971e0061a3d84683678113e98d6f9cf2522b57d405454306669d6a8d4962635f1a828f34d3725ee0fe7bd501925f8471b7f2d18c7401dbbb3ef92e9fef9047ae2843f9819c7685e93f2fd3431adc795fccc74538af0ce611f0f4613ef8849b311b8bc78e808d0718a7051f8e1b89560c80402d9c251f714d85b09c6fc2715f3646b96196c38627cf19157bd4a44c1dcc149338c4db64c083a43c91b5e77a8375c491bd3f80e17fcb2a34f857b8dbbbc5197ae7e87c324b37581e65f9b0f43d03c222e4ab94f0009e5f7d7444066ed2980c556a73724c5f4ca33beefff3fb6554473275e4e256cb634f880271ea964500004ec5418d35e14659677cd26175af3bb4aa42aa6a7e01e1925d1ac39aed986871dd5adf8d8bd5134f192f5bdf4cc985c3ebdf0d12df5b9f636055c1f8870617f74326a6b17856e7da42e3e256900984cbecfe89ef79392e1c2fd2eb73925487abd180d1c73a549b431507ce01267aca2b7697b6c8e1dc59efb9afeba0ad06a9fc2548d6977bfa36aa04d11523e5dfc1048fbe4cbcde36fff9c86d51435bec3710d1ae7cdcb33e32b9f6a5c4f9a6eff820e5243382d42b223e1163977b2c1c4b391fd656937ec5f49933a4dbc976138387d3f3e55e19b26c4413af582a87e74637cd1f813ec9f19fd11cc1f0df113e249986b0198fe8e73dd648051c15673529fb40c237e8a415153b1e8e61b6aedbb533ce6f7f8b9064baf066b414c7daec0420ba9e339b1c3a11bdacc000c84b9368e39a41c6883fbf6b271e13a0ddd9447901375022858d973de133760ec61acee91f43faa66e013e9f13717b10210e5d35220a03c52db951bd78c1528fb452c4e831c7dd1a28af1c2bc3a0cbe4ba62931ba624e2b426b5c876b4d661062b9335e42139abe3a46f03b73b0c920eefed83901fa7be9a1494985dc80f40370010a16377c1962744b6e303f81d4cf6fb222c1696bdb3a63a65592f96f8a013a7c60ce454082ffb2ff07ac963924c3a539926ae0e3f588a9f81df17e365deed180dc028adc570d629abdff1ad37beea74ff69a43472c89c51241db14881b39f94d537e834e1ca95397b2170642e437e6cd808ac070239f95b439d14abe4150a6493606c9b68a21084c71ad9f9f605a52194b8db0888ede7f6271461beb8f0f0fa1521a61951cf3334d416ead11acfc283c34f5b5a8ddf05bd0896f53b1faefacf6cc37a31c14815a79d4384fc98b7f755dd8023dd11b649334018489d0e9b70a0d0a7c26f3a3c12551ca5fa05f3b0052e4b73a0ed5b94d24be2af9467fcf6a85f26c88656fc8cbaa85286562abd21c3c25dcde4beffc43aa8d288f25a473b0e766d7ead3a0867c44cb8553d7d8fcc71ca977779bc315754f525f04c326bca50fa86a51c85bbcf9598c1f6b92754964c3163f5a359f0eb23c57e797b87bf08262daa2b4dd8635625615f84b0b89b3aaabf76d22878e83b681fb0fa51f689373a432c75a0421ccc7946a45c4a57120eb16b895714fe7a205fa3e7852ac40881dd695b944e23a9e6969cc0a4fdd78c758139c3fc220e4b6b7bd8f8c53df00051335bf1e7081e02ce15df23ded6e7f79b29ff3b05dd3282d980d05ba6c1bf3b96b5e501e24aa5e4af1df81414aeaaf71c3661aa612dbeeea21dbbbe115ffc2b44957166531186e966d01726112166cc549b95f972978c844df21b7f459f5e1852eeeca5e405ec770070f1ffb0cc8b695b7377ad5a47104e68f2d6edf9331c13b2fd321796a90ec7acd98d3695fcf3f59377705219dab54d565dd2c4b27d2387e8547c6398a050ba1eaae04a46c0c32b79aa4f2b5f98adba37828738a1b0ab4568687c82065fc8b3017f5d76d3bacc91aa71fff56223c81f815ca2b580a4d74051aff96976d28938d90924274714f39f144eb4729da1bd84e817f3973390867eca25d0315aa76e0481d52d111daade305c951e87a6140fa58374322fe6a81b53d4c6fa1e3b16662ddc5622ee877c48885a576e77b33f879eba7acef47b45d98cf1d3787c11574f33c8d5bfd84caabfd9d6427eeb7f85ee5e308bfdb179429728ddfc6cb91d1cc88fea377eb82be8a17b87ea76ebb79f85b6aaa93583da385d52d987bb96b872c1eaf22a54043f9146eda01c9c250cf4bd9ffbb3a135a97dcdcb69e0f96ed1f35f06cf06ecb13fca13f2398d4ec17c02096725f9286add4fb2b1f6bace0591548b5961a002b9dbdaee7bd3d0dc47a9db507088e84fea81998dff931ba7f134a04e15aa52b96cc55b2c5ff7a936ac1e3b543e1c4965df11c0219e1bb33b1a66b1f31e073194fb2dd25c63efd42cfa1e47fbe3a4c91e9f0f97f73b5ecce1876bc01c6340cf9f10464703a7f2facbe7ac252637ee87eb18270430ca50f57ffabd62d98d635382af771eab8da371e8e8aad212ef79b8500b0d7699be58931da3c27d62d5fe2555095dc959d575f5fff272472a3b0aebc7acd3b7bc207c9d5996e84a3a59790f6e9cde661112659097de924a9b24ad088d47b27f268cae7408bcaf2caecb1e46593e23d1a370dfcbf816d6c3434fa81e50fe5d22e61706b82345fd98f9c6915d1c705b77da3ba764b42d83d2d2ade2cd49589e1ae29fb98c0f41c8ec120180d84cf5fb3d91dcf874c67b15eaaa694c2fb018996f51254e196a0ddb54a7b02bf06293ae172bbbb0942542ff500be83597095e90015704e64013e06b5c9059266b984936e33d61696c3ee81f691c6cc7a638a5a5967c6fab7f786618e29561c7b6e25c3eafe912c2b8efb60b8e4c516ec459290d652b44e34a77631ecd9bc287e02007b897ae98dab24b9f691b9b078e70e30ebd678e4ee6002233243a6bc03e179476c36f79f5baa58a4e10bfd9cdba7f959d25a77aea0d09d3c679ba8434cec71ca7153fe45cc6b5c2c3718ca85a8428cf67b163e47f4afd62747673e0c7aea93aecb67d75f8d733f13fd7d17ca48316574a6c63591fb58469ff36a04efcc4811442356106172c0237ca44817f3dcaa6b4a5e4413018ef8ba0d7c4d4b046b091b4e25e3f78a3d8d95db1d51c711db629551fcbc7cf7f1ab8cb0a84c4f9ed88db300b41413d6424d0af336da7b9880d632f6a05974fd5dbeb457eac77a3f4cd0ed9d0462cb75aa78f462371d49e3c5f6ea10d787d469aa292b2f2124603d9b8d84b56c88076ef8940ca34a75e9bcc6c0a4612d3f0a03ea0db8306cf8dccf75cb55c351085690ab5612debd6787dee5a6de4e33a8bd98df3264c27b927b67d0bbc3fa70f4b4e793485c78da2e1685f0d0e08949a8fef47bad5511503e3831a6245bd08fe4040ead365f399f3b98e0b110c17281b1f41ba838bab5d62398be629c7dd6c3cf1a6b614675dfb8bab14c41533de526c16499272da444aeecca1972f7368d91cd843005e9235da7ba13cf22ce4fc749d9d82ad1cd8a6190cd9dcba1ddc724ad75d1dd1077368421960e7d71d3972f3450d2ac160f938ed6f02280cdaa9055628791785331feec9de0b240c460d5c58d6c2a292359e78828382e56f4f657a2400404c11b926bcd7bf03259baf72bfc48852ee1d0339b4ba7540b43e88675870982ba967ceaf448302510805c850621a9f0b8679afe092e12a81cc6acdd3bc886bf88af215438bb385a7809feec59d36afc1120b4af7fb44b0e6c2b332f0d120975f84956bc238090bcbf24e73460bd09605daea55c53120d41d5dd8e99a62b97424dca93cb3ddd42d592f6bef95485de8e24f4bb6b72a0a922f67c1136f5ac7d01697e7544b8d3b414eef9797d54cd7bef582d6735c198f88a7cb0b265e49d34037b5c88c95f311e4d40f089eb77083bc6ea9e4e7c3dcbdd4a33244fea7a05184e5a07b0e851b41126c1836cb5c259ab829f30a1c1a987282e914f728d9613254ab39af683b2e6ed734c9a827088643c7cee1e397c6a4be9ba21941d142ba1e55278b106e5b814d37369a3fb640c3a9c333256474862a47740d7b4a8a14368d69dc3d61f58b39a97688c1dbf76176e10393294e15c3064222639c4c646710f1e4cb9aea53ff4c25be708d335cbf69a27d11a1eda0a9878f19d2daa74a97287cdb12e70c41ba20b69ff123ccf9f5ad48c8c4fc1abfa02c21ffd53175f4840b501ceb151f056cd0fea9e5bc2c69e5f5922bd114a719cc9f7fc7bd34dcef2532326f12f39e6f0cad150b89183f37b3247d996c9043c981c99e6586d3957b49fa0e21cd74b022e0c7540d7db2ed97252213aeca3dc90adb4b85f368023a4f7b4e373729e6b19a0e0e26039fe2ae003ece48d90b707ccc6295f30920de9d011b97ff56f04ebffb9fed6c1e530d8cf1d200a0f2a46ebe601c4448c9cc3dc5999d5ee25aa83505f3ba8e99610ca0abfff35bf0c5027604dd87a1513a94ec6bcdca0eb2a800b721ed46ee6d5f70d0e91406badf39904e294c01a1091f13064827724e93ae9ec6ba0ada9c3cca5eb8dc44b42755019e1fb84b2968d82777891156213afa268a71fb47f06085a04d8a864fe2291fd0f55bcd308079475040a952b5ae90db86b58922ce9e46b2bb4997fea15d226845b65be0c69c85478a69d25dc53b2fe55157b05b68f73a9abeeeea55dfefaa64de51417e16b2844c7d8e51a30975077122eef12aeba81d617468dea36b8f44ae7906fb1c0da7f3104b15db6de214396827bb716464f200ffe07c47e05c8648aafe03e53365507c5d22141aa76457b008633dcbe6a48d02cfc6ca9a714c643e287e3521df01dd39e774525228938a99c5d4b382e6abbae51de81a81d0a4a691d72ac7c10fee75211a369b3d34da3813e04e655d452e3090ed816f5ed56961ebe9feb86c0f108650921da18dc580a98a729fb0ff9398505e731f1ac13cd971ae3aa2837cb4f713c2c8ee5fbeb22c2a267b003136ad73bca8d8c44c1af4bc65f7c7c5dffe91803f048a005b83091815ea94b6247dbb5e399ed759d4ff8b3cffe5ecfa3757949f3a61c3b2e2cedf235f80ba0e6a6a0a2065fbdf8f69bfb439f8dbb71018021646904a9a1681a2b4da8841d6bc1b83744f1cd7b58d0bb391a1b8c4070df90abea5acbf864f0000481064a49beae1505c2d66251dc2b3368e490d3349cfee4e1b666727a06820939523f61f7669518dd8c7f3ef422af493d5ebff397a15ca970e329537395b5978c125fc238494a36bff2dbfa4aaf36eb1ab1ab689833c98a8850172dbf7c1a3fc1398e8723e788e1a5bb0c3d15834361b072c659cad1c540446176bebe06700612975a3e9a92769bb793d1fc0e1b95d6fbf2294f6718b48e4714bbfa26a794eef1804f5fb0507e51eb9e65767bdf3238965d99e600a3c9f0d8c6f4c7bffa3631ca7fa71b9fb84556db2fe76012492cb558cba3f7f5748bff69dfa9e93a1d1bf3c8081e4e2a16747d62c78ffe19d514030383f1759f6939f08d36ea9e10e49719456d616a77ff5c1abb6223725e5e62d9c71cfb8cfa86029da73d74d91854f96fe21a7777ff0547ba67c3ec7dd51c0d5247f6fca125f39f2fffcdf9c50bba398b5e045dad2a3e3d15e719cad147a3ead4517b095421b53fb8e1a91b3e259bb68b44b9e8de34f5de5b96f0b4cf2042ccbeaa507fdeafcba68dcbae384e8172794b12e44c5edf009ee5a4f4c11964bff79066f76d6b304ec00d906e20f43a7075b2726fbe85695b1e4b56a3c3091421fbc8d723abfc8b782491665042e58d43732c99e058fdb6eadbe390730fa6364de90dd5843c433c9325d2fd0fef3d73b2ee767e3816b4a5d40b8bbffa6475973db6a94b5526a60d7321c4ee9f740b2651fb14a12a0739ce5a04f2060e9eaa0c2cf000193e644744ad092cdc23637d0922b54369109706d91ac59d383e9242baed52231aa9da62c772695c27db0a69564cc9c1c984ef8d103ff38240b043d37cbbccada898bcaac271ed17f39607157af1c5b7494111b2025b31171242da4e1395f737993aa3cd37c6e61a84e3fc34e13a598ff0b8613d9605f61ffe3c8cd4d4386e01b79170c73a19bf5c2c8fb7ac629a643249f4fc5623f1dc7bfb92f2fc1859fc853154d37795a85fad08aaa20e0f86917fcf9d77cf36d747fd4aacb35ee2c909de62e40716a4aa890ec5e4cfa45a8aadc31913e41fb1d138fd7689375bce52bd02795148ad6c03bfb4809d9f2425937f30c8caf988bc357cd1604f6beea89c6eae0eb2f4e108d62342d54318c75acc5b3afb4dbd8a1d3286ef5bcb70e0ea2f82b702069ca961b39727cbece190144e45b46c75677c668c7eaf2b7456a692fb247c3cd903c89722d90596867c0e9c962fd35b0c41982984e94e9479c3b6971d049dfa36c650465379475528d939b932b0d0bca682769b4a920e22023d3e32ba02d1595a1fddef3050a44bf2ba331a4793d6c789188b803a8fe9d47e7e1fae9859375458badec3fd0811d9a96675ce7af25f55cc6f13c20cb7ad9ce82efb1a78d1320242fe0e6b8cde3444a56acdb551ef5f6c4b6e1a72d000d9cad16eba3bf7b204d3fd94986ec1e4cff41de672a165dc6c5cbf7e28d12b1a4b9da8b25558408a1d6e6b5e6081b3a69ee2c2545e0223442279d7e49cb31b1ab93f7584cd5d4f7f5e448afccc2a31d97bc3fee2c9f6fd7b10f3c08283e28dd04568c57e52e527615a210ecd10042b49476e30dd702aa985b0ca47ed81f9bc54ca605cc707e3419a583db9d7ffa1723a26d70e3a36b8732feb32055106372df6826ddbc8b6c549417f7a89eddf1991facd89397d03a5dc9c0c4f2debb5a02b62bc20665e8b49c752a85e9f9d89607499430a4d5573f6ccb90d57ab27bc370b2c8a8526e90793a363be36d7c2db7368a37aca12a24200ca169640771d8eeef2a3a435065f3a5ca5efe1b0e9117be496f0b472c869ec36b54ee9a7b1a93c8a2e1ee41095f57c3fcfcba2969600491bad2e8f4eea72e8f8c433c4aece3467ff4963996fe54f3fa54100ec18107c43965f9d1a7f18776da908d951612f0ae21fc8cf7fd23f8f13294161a9ba1c6425b220dc77d58048835d32865d267fa0cb217773146318bf0c6a2820b07b8fef28cfaca8c522d7a277e90f9d71de06c1765f1e35714a6e5a78e0df28b65448296e26b1f352929bbe2374b2c8343591408c8d3ddabdb198baeefa00abc3ef097f1f94c7ce972f31abc7d88b7b2cd393b88e567621381449ac0a004571f99142c79b1a35fff1f3edb1fc07b5fed55bf33a75efcd8197046fc2fd06b9cdfa3730c91ef4deff3f9a2460a1ced998209cbb0a645267e42de71dad532501778692948653a9659ac659df48b6d80961ffd1e99749f676e5028612e014a6dbaa8d10d3fb7e78bbcba27b4f6d349d59d284cb3b201d567bb7609135e6720a786b25293d0816e750d5c4c1e31fe7d9d05852a79eda2598381c664eb6f0509b32bf7a6a6a99fc443e726bc0643d11fe0ed57e4cc5afea3890de9943bb66cc073242ba658f2688552c5cb8959de7c9e20f0f0fa37e2df13ec5bc0967ebb8c3be4382c85272519b48cfc431ac1e6b833945016c7bc39fe712eb8e679082a8c0c46e4b52cf9968bff16baca2dc317890d4384fb88a4a7a252b59ce1d9648859737f879d481d5eb73b96e0fb09c4d42aa4b7dcb7f2ba89363cca23a7384f65cee4be57e8f11576974478670a8aefea0b117915a1aa3cfb2ec543deaadbc26ea47128f8011bc8bee99b6d9e764bec80f76a9235ad5a6f66f3c6d9493dbc5ed3d1e8ad08c7f94c3254dea070ce13b585ce18a305a739eb325bd5a00304351e937fb71c9f1be7bc33454d96a68a3b9fdbb87fe400748501529157db51ed2931f02febf11c36fbe0d21a09efcc79a28587c6fff098c6115581135e7ff88e8038b64d56b3f27a6dc5d2c56d41969633a102dc85123141e1fa163adac297c33bca9a9053d3c5f1b35aea909a4c3c011d2fe6a3703039eb1bf5330cfd5b1ffbc1ae557f97cc63adf4097bd7bb9033ad20c95aebf0f6a0f86762bc88017621a2a6e655a7276144944cd3c8eb79470eeb6b7d3b1cdc6f3c468b10d40ef5b98e649cd17aad42c825f5ff1a607a9b2697db47ff42b66f6706efc0192176b1a36bdb833d40f486a90bda00ae0c45d0f59e301a7d1ab74017402481bc420bcb223ccb50e83a33a14e2104ecd9f7a5cc285c0b5d668ccbadb9e6b72ef276dfc12b0d2109588517f86c900a84163b27c127d10956c85d646feddd1defbf76da5799412fa5219ae7f5d59faf599323e1588c90c91e9e51986f1ffc27ffd62b09ca8759858bd8b6aef3190b95d9643b33aaf6c5eb22b0b2de4add62f81efd0f3feabdeabbb5a423dce381873555fffc6177834aa88ca791589cb08415253795fbcbd6a76f2a94d75c49de403845b9f30c42e369f9eb69bfe508c548f73e48ac53872cafb47a9681bcb1cb4f10f60c4e2b8ba4b78f6c80a94d46551c8ea33507a84222c1cd9775d3474e35c0604bb3ad5158e493361d181a5d3b9f0fe08817bf98e267ee3ff1a044c38fc9430daa049781f7fde4b463e8766359558e54c10d3a530ff09c05dc443b80f065950ee47285c9248e69cf2390390aac92598bafcdfaf32da757d5662e216352193af5623a82d88b13cec978c834d907b3d46b3eea9fd90ed6bf5be18dba77d5f4ec66612189dcbd6792fb22c736f6a44a542f328b13471cf77c965490ce747723215682ee029d2fb2efbcd470e0ab16f836f015916b7279da0f936df3edeaad48b640d236861c0dbe47cd8e736f4feb489ab9ca9ff9f84404319e7951b7e820139be894315f690790117def1c494b31667bc54b4ac1a01b6d498b0b6e3f977d608b1725fc29e27001a21622873a40d492696056d5428fc1f9730d41df0e03a36442de35dd594959f3e2ae6559867e653939583f6154115b478d79e3360605965ace933d710a88d000bcb7848956fc26949482bd66be7fb2ffc294897a691b889f93c7fcc70a4506170b0385c61ae0bc627752a66cacccca90f35a9e16de9a97706e40aa5647d171017203ca48ae937eaecce372a3a43021f4239497b51e5f9c816c5aebf94a7686fa6f630bfa74e63a8b8cf0b764648a93b7e2ada7086d8d723b6de3f79af0e9b67580e54097f40208bb6ad8e78f29c8c5e480fd9a93de8068785fc4241817fbf5a7db9a8d7689a982b3d37bfff40f4ca981a4fea5a91b611e5f80d5348e5634c4410a647d0c18d74922fcd2c015996ae095feed924e24c1c0b56335c1dae42b2c7730f4cc16d19fd9693b809753bd857c82f9811c5b667aae7474eae612f4cbe893a6cb1d30837d4c874c6222f90c0baa391b4a54e0b528ed1b98f7719ca11603834bc8d32c5a4a7dcc02fc3777dc7a7eeaf408a5b8d9eedba28cdd64edab7183b755f3da026bb41cb61216a0b299eae8d93862a2e98024cdf79fceb14ff83a67714c38a8a1ca1d72e1edddc94a4ac0703f130f72a3ec0516654041769c2511ae0465d86a406c14f3dffa0d53b34c1232340ba5aba7701bc42638a1222d54238f28ca431eae9ab040adeb770f4509b30fcb41df0b63637e2cef1b25f1c032a1583f42eafc60dc43526d6b33d242dbc886819cbd10a8ae4b64b01f86e2f917bb281bfdbc69794676e45e4ae869ad9bf0c4b4049bca36dc119afe546ec536d54f496bef10918e2051ce3bb63f3a481e3aa19ea3b513b1de4bb8d4d993fa6b484a9849fcab9cacdb01d91a7d481d0516f53e840ffffb399ec864162d91e9b103bac0481cd182b352ab76125d8d6c57023ec0650e5cb8c20e71d9ec9b45e25b88e61b1e60173cc3c685fd49055eeeb27322f119780db01cb20dadab0dee14c3372966a98c94f082c94c80f11f128323001773141cf30514a7302bf1c11d17aebddf55b1291e7166892a8ef2b197c54625880c5dcd9a60a6e6202f9afce9c257dd99c2adce98b4c9c3b14d68330d112096622380196a18ad1952845e7ae90b4891fc55f6107cda24fc9aba837d7d8975c965a72f8a0b5e7dda7fa62360406a3ea54ae418f61ef0138bb651f4be5ab0eae26f67021b7c50e74345f4e4edd96ea4a585f9dceadfa6a6df3a8e960703c5eff71dc51eb62526873859edcab60780fef7871835ae3966652d32c61e1bd347670055fe92ce3cab592c7835c2d1bb796de010fce95de03603bbe6778a8689b688a85c292bd7f1741f27684a38579e95cd48e6b48df1db9adfeb0f395d788cebf9f27367e2379dd98c8ec77b2fc3891145cf8d89e3bca1350eceb0a006deaaff86d83089b31ea68733d31698481b2766e773aef4ba3b5f622dfb09a63f8e6da7a1c9581385904686954f8781b2e25feda7c581694126d8b5d688136fe2536ab87a58609f82df6502e173d4b7428b86989318fb0ab01a3cccbc0df93118404a1d3cad03c230ef2958415ab8ae4704e0a9d7a224554725b5ca85b4ff73c7b52f92ff0ffefe2f17f4f84b6553f6ade954bafbb7125d647dfa28cf3299e86007bdc47a119456386e43ae99946855c727f442994d3943e82e8f089ca3cc42071e37a5520d99e9478dc7e82454d1ba9ec17cac222155eed32a9977b5331ad337531e2a4fa535aef05a5361c66a74e36d7d5dfc23ed65ee2aa8bb0a9453eb803d0ea553ffc4a7f2ac341a6fa969ef1f612f989a6ff38d0c06bd9657046bf92dfffd2888237eb7291715924295d69c29aa8b4f4c18914538a00b238c9ef189a65f3a8c158dceeb4dca1eaa75673182905036c51f4aa8893b25047dce8cb768a1af7cc10081addd47aa8e75bf8b46e760bc96f286d9cec7c8f590683438092cc38e839f213b4ff7534429b2c37b8e9b7f88c1dc9dd1e3e71fc83b74f4438919082b647efb48fcb1708efa74d0d858c93f3949ec087e358fcd97294359eaedc1f22e4abdf2fc8a6d08d367fb8020518c3e6d7f4f6f95f323e2649d679955d634c2b59ababce2d169ec22ab834af18f151f974847b16147dff13cc5e16d882ae0a56632be0fd267e049ef255b8f92fef9d17863019d763fa28bc7a84dde240faa500fd79001e9746958277477930ebc18b77794dce55c79352cba17cc233a6c93a181acd294012bf82befc420420a95d5a5a5617dde862652632ecac560088ae7a2e66406c672e0295493c864f980ce6285147d064829d01076c1864a5cb864ffff1ab8c6dd0861e85f77d8317ee6c53c27eadb6ab333c93baf8d4ef60db6c1fd2c389d49e96952032e9233fde3e978831564dc6036f591c2443aadc4af906bc26cee6bf06285008321d3a4d2a085eca2a5f0e14707fdb1dd3d87dd0d286a8ce3d8eb57f33d92945a2746bedc12778985c459984c7939e96a33b03d391c4e34ac74f31c0ce271de5d8941ca48c5f7fa74d89189bdd28d2729f13a5d0209a8cfe3dd476c0ec4b59e3ce7c3352f179745f9d843fb293e0b4fbae7ee9cb07ff2c670bb0caafb630859f622c2cb6c87aa7978d9a15ae8544f726f84367bf16ae1e30fa2b7e4c2419f1c3e3dbe6cf439d490a7b43355cf99e46ae1d814cae88e540c5501ff7605e77b46ac3ba1e39be7d500e406fd163cf82642a16df7321478c53b02779cf1c1db20fde8acaab178fc97444c07c382266c37e4731e42e50c7b8375bac88407d1b976ab103ba3f10d83f780f948748715d3ed0c63c86f76ca8c027f37477e12770b0df173ada0dd3d5916a058ccd060ff9ee7f36a02dc1dfa5fe7f5f5357a327f86efc3c5d68db067c054ea2b782ca743544a9500f7f752b3b480838ebbe78a12214aabc47276193c1da2f3503ddc5919f81c91242e2ae9b52450133b3541ccb7fe224aec8344ff05f297f6f4a7636da7788c074bd3fcfecba390c49b871825c342b9341ce3dddb5fd0d742d86f721ad4c41d60b58b305bfb3f1c4754763b8c1023a27d8e56cc8ac936e2c0d8678d1cabb9a431234d68e0a14830cdc931b5102a0381fad13a5e9b3285451c3a44b41a75d9d2ade67c699a80dbdbe911be5626dfb5a119b21c7f49a495e7b1ac74c3fc74522ffc4d9d77fe6d3c441dfe6c5d1c8a2ef1be6c4f77d4fb94328c3b4b90be230df7210cf7a1e145dae074673663fbe0b48720e056890a8325797ddda85e7612045a621e0d4bac42bd3383afefbc0c43642c89ef4e05165d98fdf</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -1044,312 +1350,6 @@
       </categories>
       <tags>
         <tag>优质站点</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>看不懂教程</title>
-    <url>/%E7%9C%8B%E4%B8%8D%E6%87%82%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>横看成岭侧成峰，远近高低各不同。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文中记录了一些阿岩看过的教程及极客论坛</li>
-</ul>
-<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
-<li>某些教程内容或已失效，建议去Google最新教程</li>
-<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
-</ul>
-<h2 id="01-Microsoft-365-A1账号申请"><a href="#01-Microsoft-365-A1账号申请" class="headerlink" title="01. Microsoft 365 A1账号申请"></a>01. Microsoft 365 A1账号申请</h2><ul>
-<li><code>警告：</code> 微软于 <code>2022/10/20</code> 对伪官方教育机构的A1账号进行了大规模封禁，即使现在还有个别没被封禁的，也快了，谨防上当受骗</li>
-<li>拥有学校配发的教育邮箱的用户可以直接前往<a href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>填写信息申请A1子账号</li>
-</ul>
-<blockquote>
-<p><a href="https://blog.ohao.net/834.html">用39元购买5年的Microsoft Office365个人版</a></p>
-</blockquote>
-<h2 id="02-Microsoft-365-E5账号申请"><a href="#02-Microsoft-365-E5账号申请" class="headerlink" title="02. Microsoft 365 E5账号申请"></a>02. Microsoft 365 E5账号申请</h2><h3 id="2-1-必看注意事项"><a href="#2-1-必看注意事项" class="headerlink" title="2.1 必看注意事项"></a>2.1 必看注意事项</h3><ul>
-<li>申请E5账号时可能需要使用魔法</li>
-<li>能否成功续期E5账号是概率问题</li>
-<li>通过Action续期时小心Github被封</li>
-</ul>
-<blockquote>
-<p>为防E5账号被封，最好不要给别人开子号；重要数据不要存在OneDrive里</p>
-</blockquote>
-<h3 id="2-2-推荐参考教程"><a href="#2-2-推荐参考教程" class="headerlink" title="2.2 推荐参考教程"></a>2.2 推荐参考教程</h3><ul>
-<li><p><a href="https://www.maxiaobang.com/9794.html">MS 365 E5 申请与续期</a> <code>马小帮-2023/6</code></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">MS 365 E5 申请与续期</a> 、<a href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a> <code>HEU-2022/1</code></p>
-</li>
-<li><p>Microsoft 365 E5 Renew Plus：微软E5开发者订阅续订软件<a href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502"><code>博客</code></a>、<a href="https://e5renew.com/"><code>官网</code></a></p>
-</li>
-<li><p><code>警告：</code> 微软于<code>2023/4/4</code>对使用了<a href="https://qyi.io/archives/687.html">浅忆-qyi</a>自动订阅程序的E5账号进行了“强制”过期</p>
-</li>
-<li><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a></p>
-</li>
-<li><p>直达链接：<a href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
-</li>
-</ul>
-<h2 id="03-Hexo-Github-搭建博客"><a href="#03-Hexo-Github-搭建博客" class="headerlink" title="03. Hexo+Github 搭建博客"></a>03. Hexo+Github 搭建博客</h2><h3 id="3-1-博客搭建教程"><a href="#3-1-博客搭建教程" class="headerlink" title="3.1 博客搭建教程"></a>3.1 博客搭建教程</h3><ul>
-<li><a href="https://www.bilibili.com/video/BV1Th411S7HH">Hexo生成博客并发布到Gitee</a>：讲解详细全面，非常适合小白 <code>安靖-2021/4</code></li>
-<li><a href="https://liegu0317.top/2021/12/08/LieGu%E3%81%AEBlog-%E6%90%AD%E5%BB%BA%E7%AF%87/">Hexo搭建博客并发布到Github</a> <code>LieGuのBlog-2022/10</code></li>
-<li><a href="https://hexo.io/zh-cn/docs/github-pages">将Hexo部署到GitHub Pages</a> <code>Hexo官方</code></li>
-</ul>
-<h3 id="3-2-博客美化教程"><a href="#3-2-博客美化教程" class="headerlink" title="3.2 博客美化教程"></a>3.2 博客美化教程</h3><ul>
-<li><a href="https://vic.kim/2019/05/25/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96%E4%B9%8BNext%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/">Hexo博客-Next主题美化</a> <code>vic.kim-2019/5</code></li>
-<li><a href="https://youngerli.github.io/2017/12/02/Hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE/">Hexo的Next主题详细配置</a> <code>younger-2017/12</code></li>
-<li><a href="http://theme-next.iissnan.com/theme-settings.html">主题配置-NexT 使用文档</a></li>
-<li><a href="https://hexo.io/zh-cn/docs/configuration">配置-Hexo 官方帮助文档</a></li>
-</ul>
-<h3 id="3-3-博客迁移教程"><a href="#3-3-博客迁移教程" class="headerlink" title="3.3 博客迁移教程"></a>3.3 博客迁移教程</h3><ul>
-<li><a href="https://blog.csdn.net/qq_36667170/article/details/118163563">换电脑后进行hexo博客的迁移</a> <code>LolitaAnn-2021/06</code></li>
-</ul>
-<h2 id="04-实用资源搜索技巧记录"><a href="#04-实用资源搜索技巧记录" class="headerlink" title="04. 实用资源搜索技巧记录"></a>04. 实用资源搜索技巧记录</h2><blockquote>
-<p>搜索引擎推荐顺序：<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a href="https://www.google.com/">Google</a> &gt; <a href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
-</blockquote>
-<ol>
-<li>检索网盘分享资源：「资源名称+空格+“提取码”」，如「疾速追杀 提取码」</li>
-<li>检索磁力链接资源：「资源名称+空格+“magnet”」，如「疾速追杀 magnet」</li>
-<li>搜索特定网站内容：「资源名称+空格+(site:网站链接)」，如「Elden Ring (site:rutracker.org)」</li>
-<li>精确检索完整匹配：「intext:”需精确匹配文字”」，如「intext:”Based on OpenAI API (gpt-3.5-turbo)”」</li>
-<li>使用书签跨站检索：新建一个书签，将网址改为以下内容（需删除“站点1&#x2F;2网址”）</li>
-</ol>
-<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"><span class="symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="symbol">:document</span>.getSelection?document.getSelection()<span class="symbol">:document</span>.selection.createRange().text);<span class="keyword">if</span>(!keyword)keyword=prompt(<span class="string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="string">&quot;&quot;</span>);window.open(<span class="string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="regexp">/script&gt;</span></span><br><span class="line"><span class="regexp">From：知乎@北城以南single</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="05-人工智能（AI）项目集"><a href="#05-人工智能（AI）项目集" class="headerlink" title="05. 人工智能（AI）项目集"></a>05. 人工智能（AI）项目集</h2><ol>
-<li><p><a href="https://github.com/XingangPan/DragGAN">Drag Your GAN</a>：通过拖动图像上标定的几个点让AI自动P图（比如让狮子转头）</p>
-</li>
-<li><p>大语言模型：<a href="https://chat.openai.com/">ChatGPT</a>、<a href="https://claude.ai/">Claude</a>、<a href="https://www.bing.com/?setmkt=en-US&setlang=en-US">New Bing</a>、<a href="https://yiyan.baidu.com/">文心一言</a>、<a href="https://tongyi.aliyun.com/">通义千问</a></p>
-</li>
-</ol>
-<ul>
-<li><a href="https://chat.openai.com/">ChatGPT</a>：<a href="https://github.com/xx025/carrot">免费镜像站点</a>、<a href="https://chat-shared1.zhile.io/shared.html">免费共享账号</a></li>
-<li><a href="https://claude.ai/">Claude 2</a>：被称为ChatGPT的强劲对手 <code>请使用美国/英国节点！</code></li>
-<li>更多资讯见：<a href="https://github.com/runningcheese/Awesome-AI">Awesome-AI</a>、<a href="https://blog.ohao.net/1845.html">2023年可免费使用的AI平台</a></li>
-</ul>
-<ol start="3">
-<li><a href="https://github.com/lllyasviel/Fooocus">Fooocus</a>：AI画图工具，结合了Stable Diffusion 和 Midjourney的优点，开箱即用</li>
-</ol>
-<h2 id="06-好玩的Github开源项目"><a href="#06-好玩的Github开源项目" class="headerlink" title="06. 好玩的Github开源项目"></a>06. 好玩的Github开源项目</h2><ol>
-<li><p><a href="https://github.com/yairm210/Unciv">Unciv</a>：“文明5”的低配版像素游戏（&lt;100MB）</p>
-</li>
-<li><p><a href="https://github.com/HabitRPG/habitica">Habitica</a>：完成你的待办事项后，会升级解锁更多游戏玩法</p>
-</li>
-<li><p><a href="https://banksiagui.com/">Banksia GUI</a>：国际象棋GUI软件,内置强大的支持UCI协议的国际象棋AI引擎<a href="https://github.com/official-stockfish/Stockfish">Stockfish</a></p>
-</li>
-<li><p>围棋相关：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://www.sjeng.org/leela.html">Leela</a>：安装即玩的围棋软件，新手友好型围棋AI</li>
-<li><a href="https://github.com/SabakiHQ/Sabaki">Sabaki</a>：可以搭载<a href="https://github.com/leela-zero/leela-zero">Leela Zero</a>等多种支持GTP协议的<a href="https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/engines.md">围棋AI引擎</a>的围棋GUI软件</li>
-<li><a href="https://github.com/wonsiks/BadukMegapack">BadukMegapack</a>：傻瓜式安装多种开源<a href="https://zhuanlan.zhihu.com/p/267139001">围棋AI软件</a></li>
-</ul>
-<ol start="5">
-<li><a href="https://github.com/huiyadanli/RevokeMsgPatcher">微信&#x2F;QQ&#x2F;TIM防撤回&amp;多开补丁</a></li>
-</ol>
-<h2 id="07-一些硬核技术极客论坛"><a href="#07-一些硬核技术极客论坛" class="headerlink" title="07. 一些硬核技术极客论坛"></a>07. 一些硬核技术极客论坛</h2><ul>
-<li>系统封装重装系统：<a href="http://bbs.pcbeta.com/">远景论坛</a>、<a href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a href="https://www.yrxitong.com/">小鱼儿yr系统</a></li>
-<li>编程技术交流社区：<a href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a href="https://www.runoob.com/">菜鸟技术教程</a>、<a href="https://bbs.pediy.com/">看雪论坛</a></li>
-</ul>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
-</ul>
-<p><span style="color:#FF0000;">红不红？</span></p>
-<p><span style='color:white;background:black;font-size:50px;font-family:仿宋;'>黑白配</span></p>
-<p><b>加粗</b></p>
-<p><b><span style="color:rgb(255, 0, 255);">骚紫色加粗</span></b></p>
-<p>上标：<sup>内容</sup><br>下标：<sub>内容</sub></p>
-<p>mm<sup>2</sup></p>
-<p>y &#x3D; log<sub>2 </sub>x</p>
-<div align="center">奇怪的知识增加了！</div>
-
-<div align="center"><span style='color:white;background:black;font-size:20px;'>&#12288“事情总会朝着意想不到的方向发展”&#12288</span></div>
-
-<p><span style=font-size:50px>黑白配</span></p>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>DMUCD</category>
-      </categories>
-      <tags>
-        <tag>自主学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>顶刊留名客</title>
-    <url>/%E9%A1%B6%E5%88%8A%E7%95%99%E5%90%8D%E5%AE%A2/</url>
-    <content><![CDATA[<p>新松恨不高千尺，恶竹应须斩万竿。</p>
-<span id="more"></span>
-
-
-<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
-<li>本文档中收集了一些编者认为对医学科研有帮助的信息</li>
-</ul>
-<h2 id="参与创作"><a href="#参与创作" class="headerlink" title="参与创作"></a>参与创作</h2><ul>
-<li>欢迎各位同行加入到本文的持续创作中来！</li>
-</ul>
-<ol>
-<li>内容要求：任何你觉得对“搞科研&#x2F;搞学术”有用的信息</li>
-<li>内容投递：整理好后私发给阿岩即可</li>
-</ol>
-<h2 id="01-白嫖文献"><a href="#01-白嫖文献" class="headerlink" title="01. 白嫖文献"></a>01. 白嫖文献</h2><h3 id="1-1-中国知网"><a href="#1-1-中国知网" class="headerlink" title="1.1 中国知网"></a>1.1 中国知网</h3><h4 id="1-1-1-白嫖数据库"><a href="#1-1-1-白嫖数据库" class="headerlink" title="1.1.1 白嫖数据库"></a>1.1.1 白嫖数据库</h4><ul>
-<li>很多省市的大型图书馆都免费对外提供中文数据库：</li>
-</ul>
-<ol>
-<li>如<a href="https://www.gslib.com.cn/szzy/xwlw">甘肃省图书馆</a>免费对外提供<code>万方</code>数据库</li>
-<li>在<a href="http://www.gxlib.org.cn/">广西壮族图书馆</a>注册账号，登陆即可使用其所购数据库</li>
-<li>打开“支付宝”搜索“浙江图书馆”，可以注册读者证以使用其所购数据库</li>
-<li>某些省市的大型图书馆大厅可以办理用来访问其所购数据库的读者证</li>
-</ol>
-<h4 id="1-1-2-CAJ转成PDF"><a href="#1-1-2-CAJ转成PDF" class="headerlink" title="1.1.2 CAJ转成PDF"></a>1.1.2 CAJ转成PDF</h4><ul>
-<li><a href="https://caj2pdf-qt.sainnhe.dev/">CAJ2PDF-qt</a>：一款简单好用的格式转换软件</li>
-<li>通过<a href="https://chn.oversea.cnki.net/index/">中国知网海外版</a>可直接下载PDF格式文献</li>
-<li>使用<a href="https://www.cnki.net/">中国知网国内版</a>时可配合<code>脚本</code> <a href="https://greasyfork.org/zh-CN/scripts/389343">知网硕博论文PDF下载</a></li>
-</ul>
-<h3 id="1-2-百度文库"><a href="#1-2-百度文库" class="headerlink" title="1.2 百度文库"></a>1.2 百度文库</h3><ul>
-<li>百度文库下载<code>软件</code>：<a href="https://www.52pojie.cn//thread-1699941-1-1.html">文库下载器</a>、<a href="https://www.52pojie.cn/thread-1664112-1-1.html">xx文库下载器</a>、<a href="https://www.52pojie.cn//thread-1645444-1-1.html">稻壳阅读器</a>、<a href="https://www.52pojie.cn/thread-1699941-1-1.html">BdDownload</a>、<del><a href="https://www.52pojie.cn/thread-1260205-1-1.html">冰点文库</a></del></li>
-<li>百度文库下载<code>脚本</code>：<a href="https://greasyfork.org/zh-CN/scripts/437609">百度文库下载</a>、<a href="https://greasyfork.org/zh-CN/scripts/435884">Wenku Doc DLer</a></li>
-<li>展开全文阅读<code>脚本</code>：<a href="https://greasyfork.org/zh-CN/scripts/438420">百度文库净化</a></li>
-<li>如果你所在的机构购买了百度文库（高校版），那你就不用担心没有VIP了</li>
-</ul>
-<h3 id="1-3-文献传递"><a href="#1-3-文献传递" class="headerlink" title="1.3 文献传递"></a>1.3 文献传递</h3><ol>
-<li>外文文献可前往SCI-hub搜索：<a href="https://sci-hub.se/mirrors">镜像发布-官方</a>、<a href="https://www.ooopn.com/tool/scihub/">镜像发布-国内</a></li>
-<li>在学术论坛进行文献求助：<a href="http://bbs.99lb.net/">谷粉学术</a>、<a href="https://www.ablesci.com/">科研通</a>等</li>
-<li>在医济群里礼貌求助总会有热心群众帮你<code>快速</code>找到的</li>
-</ol>
-<h3 id="1-4-找电子书"><a href="#1-4-找电子书" class="headerlink" title="1.4 找电子书"></a>1.4 找电子书</h3><h4 id="1-4-1-综合查询"><a href="#1-4-1-综合查询" class="headerlink" title="1.4.1 综合查询"></a>1.4.1 综合查询</h4><ol>
-<li><p><a href="https://yibook.org/">易书主页</a> | <a href="https://search.yibook.org/">书籍检索</a>：最好用的中文电子书搜索引擎</p>
-</li>
-<li><p>Z-Library 全世界电子资源最多的书库：</p>
-</li>
-</ol>
-<ul>
-<li>官方：<a href="https://zh.go-to-zlibrary.se/">各种访问Z-Library的正规渠道</a> <code>Web、TOR、Bot、APP</code></li>
-<li>民间：<a href="https://zlib.app/">Zlib App Web API</a>、<a href="https://clibrary.cn/">Clibrary</a>、<a href="http://pilimi.org/zlib-downloads.html">书库Torrent</a>、<a href="https://github.com/runningcheese/Awesome-Zlibrary">More</a></li>
-<li>开源：<a href="https://github.com/book-searcher-org/book-searcher">Book Searcher</a>、<a href="https://github.com/tw93/Pake">软件成品-PC</a>、<a href="https://zbook.lol/">网页成品1</a>、<a href="https://zlibsearch.1kbtool.com/">网页成品2</a></li>
-<li>关注：<a href="https://twitter.com/Z_Lib_official">Twitter</a>、<a href="https://mastodon.social/@Z_Lib_official">Mastadon</a>、<a href="https://t.me/zlibrary_official">Telegram</a>、<a href="https://t.me/zlib_china_official">Telegram-CN</a></li>
-</ul>
-<ol start="3">
-<li><a href="https://annas-archive.org/">Anna’s Archive</a>：支持对Z-Library, Library Genesis, Sci-Hub进行跨库检索</li>
-<li>Library Genesis|帮助全人类知识无版权传播：<a href="https://librarygenesis.net/">镜像发布-国外</a>、<a href="https://www.ooopn.com/tool/libgen/">镜像发布-国内</a></li>
-<li><a href="https://www.jiumodiary.com/">鸠摩搜书</a> ：矮子里面选将军≈搜索国内电子书最好的引擎</li>
-<li><a href="https://ssdown.org/">SSDOWN</a>：全国图书馆参考咨询联盟&#x2F;超星电子书库研究分享</li>
-<li>三五块钱购买电子书：<a href="https://u.xueshu86.com/">互助联盟</a>、<a href="https://www.xueshu86.com/">互助查询</a></li>
-</ol>
-<h4 id="1-4-2-标准指南"><a href="#1-4-2-标准指南" class="headerlink" title="1.4.2 标准指南"></a>1.4.2 标准指南</h4><ul>
-<li><a href="https://openstd.samr.gov.cn/bzgk/gb/index">国家标准全文公开系统</a></li>
-<li><a href="https://www.qitubk.com/">Standards Free Download</a>：IEC、ANSI、IEEE、BS Standards</li>
-<li>搜索各种“指南”可使用微信搜索功能</li>
-</ul>
-<h2 id="02-辅助工具"><a href="#02-辅助工具" class="headerlink" title="02. 辅助工具"></a>02. 辅助工具</h2><h3 id="2-1-文献翻译"><a href="#2-1-文献翻译" class="headerlink" title="2.1 文献翻译"></a>2.1 文献翻译</h3><ol>
-<li><p>文献翻译软件：<a href="http://www.zhiyunwenxian.cn/">知云文献翻译&#x2F;Xtranslator</a>、<a href="https://copytranslator.github.io/">CopyTranslator</a>、<a href="https://www.xljsci.com/">小绿鲸</a>、<a href="https://pot.pylogmon.com/">Pot</a></p>
-</li>
-<li><p>网页翻译插件：</p>
-</li>
-</ol>
-<ul>
-<li><a href="https://github.com/FilipePS/Traduzir-paginas-web">Translate Web Pages</a>：使用 Google 或 Yandex 实时翻译网页 </li>
-<li><a href="https://github.com/immersive-translate/immersive-translate">Immersive-Translate</a>：沉浸式双语网页翻译</li>
-<li><a href="https://saladict.crimx.com/">沙拉查词</a>：聚合词典划词翻译</li>
-</ul>
-<ol start="3">
-<li>在线翻译网站：<a href="https://www.deepl.com/translator">DeepL翻译</a>、<a href="https://fanyi.qq.com/">腾讯翻译君</a></li>
-<li><a href="https://dict.cnki.net/index">CNKI学术翻译助手</a></li>
-</ol>
-<h3 id="2-2-文献管理"><a href="#2-2-文献管理" class="headerlink" title="2.2 文献管理"></a>2.2 文献管理</h3><ul>
-<li>两大主流文献管理软件：Endnote、Noteexpress</li>
-<li><a href="https://github.com/wanzhenchn/EndNote_Tutorial_Hand_by_Hand">手把手教你使用 EndNote X9&#x2F;NoteExpress</a></li>
-<li>免费好用文献管理软件：<a href="https://www.zotero.org/">Zotero</a></li>
-</ul>
-<h3 id="2-3-网页插件"><a href="#2-3-网页插件" class="headerlink" title="2.3 网页插件"></a>2.3 网页插件</h3><ul>
-<li><a href="https://easyscholar.cc/">easyScholar</a>：显示期刊等级、在线翻译、期刊等级查询等</li>
-<li><a href="https://github.com/naivenaive/EasyPubMed">EasyPubMed </a>：专为新版PubMed设计的工具条，详细介绍见链接指向</li>
-<li><a href="https://greasyfork.org/zh-CN/scripts/447389-scihub-crx">SciHub CRX</a>：显示IF、分区、引用次数、下载途径等，支持划词翻译</li>
-</ul>
-<h2 id="03-检索导航"><a href="#03-检索导航" class="headerlink" title="03. 检索导航"></a>03. 检索导航</h2><h3 id="3-1-IF及分区查询"><a href="#3-1-IF及分区查询" class="headerlink" title="3.1 IF及分区查询"></a>3.1 IF及分区查询</h3><ul>
-<li><a href="https://jcr.clarivate.com/jcr/">Journal Citation Reports</a></li>
-<li><a href="https://www.fenqubiao.com/Default.aspx">中国科学院文献情报中心期刊分区表</a></li>
-<li><a href="http://cssci.nju.edu.cn/">中文社会科学引文索引（CSSCI）</a></li>
-<li>第三方期刊智能查询系统：<a href="http://www.letpub.com.cn/index.php?page=journalapp">LetPub</a>、<a href="https://www.medsci.cn/sci/index.do">MedSci</a></li>
-</ul>
-<h3 id="3-2-检索语言查询"><a href="#3-2-检索语言查询" class="headerlink" title="3.2 检索语言查询"></a>3.2 检索语言查询</h3><ul>
-<li><a href="http://ztflh.com/">中图分类号查询</a></li>
-<li>MeSH主题词查询:<a href="https://meshb.nlm.nih.gov/search">途径1</a>、<a href="https://www.ncbi.nlm.nih.gov/mesh/">途径2</a></li>
-</ul>
-<h3 id="3-3-中文的数据库"><a href="#3-3-中文的数据库" class="headerlink" title="3.3 中文的数据库"></a>3.3 中文的数据库</h3><ul>
-<li><a href="https://chkd.cnki.net/">中国医院知识总库（CHKD）</a>：支持<code>MeSH主题词</code>检索</li>
-<li><a href="http://qikan.cqvip.com/">维普期刊</a>：支持<code>同义词扩展</code>功能</li>
-<li><a href="https://g.wanfangdata.com.cn/">万方数据</a>：推荐检索词（输入一段文字提取检索词）</li>
-<li><a href="http://www.yiigle.com/index">中华医学期刊全文数据库</a></li>
-</ul>
-<h3 id="3-4-英文的数据库"><a href="#3-4-英文的数据库" class="headerlink" title="3.4 英文的数据库"></a>3.4 英文的数据库</h3><ul>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a>：<a href="https://www.ncbi.nlm.nih.gov/nlmcatalog/journals/">期刊查询</a>、<a href="https://pubmed.ncbi.nlm.nih.gov/clinical/">临床查询</a>、<a href="https://pubmed.ncbi.nlm.nih.gov/citmatch/">单批论文匹配</a></li>
-<li><a href="https://www.webofscience.com/">Web of Science</a>：从文献之间相互引证关系的角度检索</li>
-<li><a href="https://facultyopinions.com/">Faculty Opinion</a>：根据生物学和医学领域的全球领导者意见来评级和评价，并且由此推荐最好的科研文献</li>
-<li>谷歌学术搜索：<a href="https://so.hiqq.com.cn/">镜像1</a>、<a href="http://scholar.scqylaw.com/">镜像2</a>、<a href="https://sc.panda321.com/">镜像3</a>、<a href="https://www.ooopn.com/tool/ggscholar/">镜像发布</a></li>
-</ul>
-<h3 id="3-5-文献追踪助手"><a href="#3-5-文献追踪助手" class="headerlink" title="3.5 文献追踪助手"></a>3.5 文献追踪助手</h3><ul>
-<li><a href="https://www.storkapp.me/">Stork</a>：根据<code>检索关键词</code>定期推送相关的最新文献至邮箱中</li>
-<li><a href="https://www.ncbi.nlm.nih.gov/research/litsuggest/">LitSuggest</a>：运用先进的机器学习筛选所文献，<a href="https://academic.oup.com/nar/article/49/W1/W352/6266425?login+=+true&login=false">工作原理</a>、<a href="https://www.ncbi.nlm.nih.gov/research/litsuggest/tutorial">使用教程</a></li>
-</ul>
-<h3 id="3-6-特色检索工具"><a href="#3-6-特色检索工具" class="headerlink" title="3.6 特色检索工具"></a>3.6 特色检索工具</h3><ol>
-<li><p><a href="https://www.connectedpapers.com/">Connected Papers</a>：获得与所检索文献相关的论文<code>知识图谱</code>，追踪文献的引用和被引关系</p>
-</li>
-<li><p><a href="https://citespace.podia.com/">Citespace</a>：可视化文献分析软件（有人用它写了综述）</p>
-</li>
-<li><p>PubMed第三方检索工具：&#96;</p>
-</li>
-</ol>
-<ul>
-<li><p><a href="https://pm.yuntsg.com/">本地PubMed</a>：界面与PubMed类似，支持标题翻译，<code>一键申请全文</code>(秒下载)</p>
-<blockquote>
-<p>注意：申请全文需要（注册）登录个人账号。若在校园网IP范围内，可以直接注册，若不在，需输入本单位的公共账号和密码（咨询本校图书馆或去网上搜），<code>注册成功后使用不受IP限制</code></p>
-</blockquote>
-</li>
-<li><p><a href="https://www.geenmedical.com/">GM-根哥学术</a>：支持按照IF（区间）、中科院分区、被引次数对检索结果排序；显示文献IF、分区</p>
-</li>
-<li><p><a href="https://www.pmop.cn/">银杏叶-PMOP</a>：支持按照IF区间筛选检索结果；显示文献IF、<del>分区(类型未知)</del></p>
-</li>
-</ul>
-<h2 id="04-文章写作"><a href="#04-文章写作" class="headerlink" title="04. 文章写作"></a>04. 文章写作</h2><h3 id="4-1-配图制作"><a href="#4-1-配图制作" class="headerlink" title="4.1 配图制作"></a>4.1 配图制作</h3><ul>
-<li>免费医学插图素材：<a href="https://scidraw.io/">SCI Draw</a>、<a href="https://smart.servier.com/">SMART</a>、<a href="https://healthicons.org/">HealthIcons</a></li>
-<li>医学生物插图绘制：<a href="https://app.biorender.com/">Biorender-❤</a>、PPT插件“ScienceSlides”、<a href="https://www.figdraw.com/static/index.html#/">科研绘-国内</a></li>
-<li>学术图表绘制工具：<a href="https://hiplot-academic.com/">HIPLOT-网站</a>、Graphpad Prism</li>
-<li><a href="https://nicesci.com/">科技素材开放获取公益图库</a> <a href="https://nicesci.com/forum.php?mod=viewthread&tid=15">（网站介绍）</a></li>
-</ul>
-<h3 id="4-2-查重降重"><a href="#4-2-查重降重" class="headerlink" title="4.2 查重降重"></a>4.2 查重降重</h3><ul>
-<li><a href="https://www.bigan.net/">笔杆网</a>：连接校网的情况下可以每天免费查两次</li>
-<li><a href="https://xiezuocat.com/">秘塔写作猫</a>：对语句进行同义改写，降重可用，但请<code>谨慎使用！</code></li>
-</ul>
-<h3 id="4-3-句子润色"><a href="#4-3-句子润色" class="headerlink" title="4.3 句子润色"></a>4.3 句子润色</h3><ul>
-<li><a href="https://www.phrasebank.manchester.ac.uk/">phrasebank</a>：学术写作语料库（该站付费PDF文件见医济网盘）</li>
-<li><a href="https://www.grammarly.com/">Grammarly</a>：Free Online Writing Assistant</li>
-<li><a href="https://aimwriting.mtutor.engkoo.com/">微软爱写作-Aim Writing</a></li>
-</ul>
-<h3 id="4-4-文献复制"><a href="#4-4-文献复制" class="headerlink" title="4.4 文献复制"></a>4.4 文献复制</h3><ul>
-<li><a href="https://github.com/CopyPlusPlus/CopyPlusPlus">CopyPlusPlus</a>：复制后自动合并多余换行，保留文献原有换行，自动合并空格（翻译鸡肋）</li>
-<li><a href="https://automeris.io/WebPlotDigitizer/">WebPlotDigitizer</a>：从论文给出的图像中提取数据，适用于<a href="https://www.jianshu.com/p/fd9713e49de2">散点图, 条形图</a>，极坐标图, 地图等</li>
-</ul>
-<h2 id="05-文章发表"><a href="#05-文章发表" class="headerlink" title="05. 文章发表"></a>05. 文章发表</h2><h3 id="5-1-选刊网站"><a href="#5-1-选刊网站" class="headerlink" title="5.1 选刊网站"></a>5.1 选刊网站</h3><ul>
-<li><p>英文期刊推荐：<a href="https://journalfinder.elsevier.com/">JournalFinder</a>、<a href="https://journalsuggester.springer.com/">JournalSuggester</a>、<a href="https://www.journalguide.com/">JournalGuide</a></p>
-</li>
-<li><p>中文期刊推荐：暂无</p>
-</li>
-</ul>
-<h2 id="06-其他查询"><a href="#06-其他查询" class="headerlink" title="06. 其他查询"></a>06. 其他查询</h2><h3 id="6-1-国自然基金"><a href="#6-1-国自然基金" class="headerlink" title="6.1 国自然基金"></a>6.1 国自然基金</h3><ul>
-<li><code>官方</code> 国家自然科学基金：<a href="https://output.nsfc.gov.cn/">共享服务网</a>、<a href="https://www.nsfc.gov.cn/publish/portal0/tab938/">2021申请代码</a>、<a href="https://kd.nsfc.gov.cn/">大数据知识管理服务门户</a>（主要用于查询结题项目）</li>
-<li><code>非官方</code> <a href="https://www.izaiwen.cn/">国家自然科学基金查询网</a>：可显示项目结题与否</li>
-<li><a href="http://www.letpub.com.cn/index.php?page=grant">LetPub网查询</a>：可批量导出查询结果</li>
-</ul>
-<h2 id="特别鸣谢"><a href="#特别鸣谢" class="headerlink" title="特别鸣谢"></a>特别鸣谢</h2><p>我谨在此表达对各位为本文做出贡献的同道们的由衷的感激之情！</p>
-<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
-<li>后续更新事宜会在微信公众号“DMU虫洞”发布</li>
-</ul>
-<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>医疗废物</category>
-      </categories>
-      <tags>
-        <tag>科研笔记</tag>
       </tags>
   </entry>
 </search>
