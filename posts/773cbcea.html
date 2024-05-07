@@ -1,0 +1,821 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/dmucd.png">
+  <link rel="icon" href="/img/dmucd.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="阿岩">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="山重水复疑无路，柳暗花明又一村">
+<meta property="og:type" content="article">
+<meta property="og:title" content="科技不加糖">
+<meta property="og:url" content="https://dmucd.github.io/posts/773cbcea">
+<meta property="og:site_name" content="DMUCD">
+<meta property="og:description" content="山重水复疑无路，柳暗花明又一村">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2022-07-01T16:00:00.000Z">
+<meta property="article:modified_time" content="2024-05-07T14:30:32.992Z">
+<meta property="article:author" content="阿岩">
+<meta property="article:tag" content="科技前沿">
+<meta name="twitter:card" content="summary_large_image">
+  
+  
+  
+  <title>科技不加糖 - DMUCD</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"dmucd.github.io","root":"/","version":"1.9.7","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":false,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+
+  
+<meta name="generator" content="Hexo 7.2.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>DMUCD</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>首页</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>归档</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>分类</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>标签</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>关于</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">
+              <i class="iconfont icon-dark" id="color-toggle-icon"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="科技不加糖"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-author" aria-hidden="true"></i>
+        阿岩
+      </span>
+    
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          1.7k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          14 分钟
+        
+      </span>
+    
+
+    
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">科技不加糖</h1>
+            
+              <p id="updated-time" class="note note-info" style="">
+                
+                  
+                    本文最后更新于 2024年5月7日 晚上
+                  
+                
+              </p>
+            
+            
+              <div class="markdown-body">
+                
+                <p>山重水复疑无路，柳暗花明又一村</p>
+<span id="more"></span>
+
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://nkiufz10we.feishu.cn/docx/BueSdSTvDoW65ix0NtWc9Lk1nGi">19元&#x2F;29元月租的全国大流量卡免费领</a> <code>AD</code></p>
+</blockquote>
+<h2 id="文档描述"><a href="#文档描述" class="headerlink" title="文档描述"></a>文档描述</h2><ul>
+<li>本文记录了一些技术教程及前沿科技相关信息</li>
+<li>建议在PC端打开博客文章，可显示目录(TOC)</li>
+</ul>
+<h2 id="温馨提示"><a href="#温馨提示" class="headerlink" title="温馨提示"></a>温馨提示</h2><ul>
+<li>某些教程内容或已失效，请使用<a target="_blank" rel="noopener" href="https://www.google.com/">Google</a>搜索最新教程</li>
+<li>在实践之前建议先把教程看个 <code>2-3</code> 遍，做到心中有数</li>
+</ul>
+<h2 id="01-白嫖MS-365"><a href="#01-白嫖MS-365" class="headerlink" title="01. 白嫖MS 365"></a>01. 白嫖MS 365</h2><ol>
+<li>Microsoft 365 A1账号</li>
+</ol>
+<ul>
+<li><span style="color:#FF4500;">警告：</span>微软于 <code>2022/10/20</code> 大规模封禁了伪官方教育机构的A1账号</li>
+<li>拥有教育邮箱的用户直接去<a target="_blank" rel="noopener" href="https://www.microsoft.com/zh-cn/education/products/office">Microsoft 365|教育官网</a>申请A1子账号</li>
+</ul>
+<ol start="2">
+<li>Microsoft 365 E5账号</li>
+</ol>
+<ul>
+<li>MS 365 E5 申请与续期：<a target="_blank" rel="noopener" href="https://www.maxiaobang.com/9794.html">马小帮&#x2F;2023&#x2F;6</a>、<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/Z70wmTjMtsaEdiX5O4kJ1Q">HEU&#x2F;2022&#x2F;1</a> 、<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/Il8Gog9_L7oUvQkrIKYzBw">疑难解决</a></li>
+<li>Microsoft 365 E5 Renew Plus🎯：微软E5开发者订阅续订软件<a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_33212020/article/details/114482595?spm=1001.2014.3001.5502">[博客]</a>、<a target="_blank" rel="noopener" href="https://e5renew.com/">[官网]</a>、<a target="_blank" rel="noopener" href="https://t.me/MS365E5Renew_Channel">[TG]</a></li>
+<li><a target="_blank" rel="noopener" href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR1CSwHLWdmtChCItwt9Wb0RUNkxDRVM5RDRRTjBEMEI3QVFXUE1CWE9XMyQlQCN0PWcu">MS 365 E5 申诉续期工单</a>，<a target="_blank" rel="noopener" href="https://ednovas.gitbook.io/e5/#xu-ding-shi-ji">申诉填写内容参照</a>（应该没啥用）</li>
+</ul>
+<blockquote>
+<p>直达链接：<a target="_blank" rel="noopener" href="https://login.microsoftonline.com/">Microsoft 365 账号登陆</a>、<a target="_blank" rel="noopener" href="https://developer.microsoft.com/zh-cn/microsoft-365/profile">E5 账号剩余天数查询</a></p>
+</blockquote>
+<ol start="3">
+<li><a target="_blank" rel="noopener" href="https://blog.ohao.net/834.html">用39元购买5年的Microsoft Office365个人版</a></li>
+</ol>
+<h2 id="02-资源搜索技巧"><a href="#02-资源搜索技巧" class="headerlink" title="02. 资源搜索技巧"></a>02. 资源搜索技巧</h2><blockquote>
+<p>搜索引擎推荐顺序：<a target="_blank" rel="noopener" href="https://www.bing.com/?setmkt=en-US&setlang=en-US">Bing</a> &gt; <a target="_blank" rel="noopener" href="https://www.google.com/">Google</a> &gt; <a target="_blank" rel="noopener" href="https://duckduckgo.com/">DuckDuckGo</a> &gt; 微信搜索</p>
+</blockquote>
+<ul>
+<li><p>检索<span style="color:#FF4500;">网盘</span>分享资源：「资源名称+空格+提取码」</p>
+</li>
+<li><p>检索<span style="color:#FF4500;">磁力</span>链接资源：「资源名称+空格+magnet」</p>
+</li>
+<li><p>检索<span style="color:#FF4500;">小说</span>TXT资源：「资源名称+空格+TXT」</p>
+</li>
+<li><p>搜索<span style="color:#FF4500;">特定</span>网站内容：「资源名称+空格+(site:网站链接)」</p>
+</li>
+<li><p><span style="color:#FF4500;">精确</span>检索完整匹配：「intext:“需精确匹配文字”」</p>
+</li>
+<li><p>使用书签<span style="color:#FF4500;">跨站</span>检索：新建一个书签，将网址改为以下格式：</p>
+</li>
+</ul>
+<figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs ruby">➊<span class="hljs-title class_">Google</span>配置：<br><span class="hljs-symbol">data:</span>text/html,&lt;script&gt;(function()&#123;var keyword=<span class="hljs-string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="hljs-symbol">:document</span>.getSelection?document.getSelection()<span class="hljs-symbol">:document</span>.selection.createRange().text);<span class="hljs-keyword">if</span>(!keyword)keyword=prompt(<span class="hljs-string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="hljs-string">&quot;&quot;</span>);window.open(<span class="hljs-string">&#x27;https://www.google.co.jp/search?hl=&amp;lr=&amp;as_q=&#x27;</span>+keyword+<span class="hljs-string">&#x27; (site:https://foxirj.com“站点1网址” OR site:https://www.qijishow.com“站点2网址”)&amp;as_oq=&amp;as_eq=&amp;as_nlo=&amp;as_nhi=&amp;lr=&amp;cr=&amp;as_qdr=all&amp;as_occt=any&amp;safe=off&amp;as_filetype=&amp;as_rights=&#x27;</span>)&#125;)();&lt;<span class="hljs-regexp">/script&gt;</span><br><span class="hljs-regexp">---</span><br><span class="hljs-regexp">➋Bing配置：</span><br><span class="hljs-regexp">data:text/html</span>,&lt;script&gt;(function()&#123;var keyword=<span class="hljs-string">&quot;&quot;</span>+(window.getSelection?window.getSelection()<span class="hljs-symbol">:document</span>.getSelection?document.getSelection()<span class="hljs-symbol">:document</span>.selection.createRange().text);<span class="hljs-keyword">if</span>(!keyword)keyword=prompt(<span class="hljs-string">&quot;\u8BF7\u8F93\u5165\u641C\u7D22\u7684\u5173\u952E\u8BCD:&quot;</span>,<span class="hljs-string">&quot;&quot;</span>);window.open(<span class="hljs-symbol">site:</span><span class="hljs-symbol">https:</span>/<span class="hljs-regexp">/foxirj.com“站点1网址” OR site:https:/</span><span class="hljs-regexp">/www.qijishow.com“站点2网址”)&#x27;)&#125;)();&lt;/script</span>&gt;<br><span class="hljs-title class_">From</span>：知乎@北城以南single<br></code></pre></td></tr></table></figure>
+
+<h2 id="03-人工智能项目"><a href="#03-人工智能项目" class="headerlink" title="03. 人工智能项目"></a>03. <a target="_blank" rel="noopener" href="https://ai-bot.cn/">人工智能项目</a></h2><h3 id="3-1-大语言模型"><a href="#3-1-大语言模型" class="headerlink" title="3.1 大语言模型"></a>3.1 大语言模型</h3><blockquote>
+<p>国产主流大语言模型：<a target="_blank" rel="noopener" href="https://yiyan.baidu.com/">文心一言</a>、<a target="_blank" rel="noopener" href="https://tongyi.aliyun.com/">通义千问</a>、<a target="_blank" rel="noopener" href="https://xinghuo.xfyun.cn/">讯飞星火</a></p>
+</blockquote>
+<blockquote>
+<p>国外主流大语言模型：<a target="_blank" rel="noopener" href="https://chat.openai.com/">ChatGPT</a>、<a target="_blank" rel="noopener" href="https://claude.ai/">Claude 2</a>、<a target="_blank" rel="noopener" href="https://www.bing.com/?setmkt=en-US&setlang=en-US">New Bing</a>、<a target="_blank" rel="noopener" href="https://gemini.google.com/">Gemini</a></p>
+</blockquote>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://chat.reka.ai/">Reka</a>：<a target="_blank" rel="noopener" href="https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model">自称媲美 GPT-4V 的多模型LLM</a>，支持音视频、图像输入</li>
+<li>免魔法使用<a target="_blank" rel="noopener" href="https://chat.openai.com/">ChatGPT</a>：<a target="_blank" rel="noopener" href="https://chat.rawchat.cc/">RawChat</a>、<a target="_blank" rel="noopener" href="https://sharedchat.fun/">SharedChat</a>、<a target="_blank" rel="noopener" href="https://chat.gking.me/"><span style="color:#FFA500;">ChatK</span></a></li>
+<li>支持多个AI模型的平台：<a target="_blank" rel="noopener" href="https://poe.com/">Poe</a>、<a target="_blank" rel="noopener" href="https://sdk.vercel.ai/">Vercel</a>、<a target="_blank" rel="noopener" href="https://www.coze.com/">Coze</a>、<a target="_blank" rel="noopener" href="https://www.zaiwen.top/">在问</a></li>
+<li>更多替代方案见：<a target="_blank" rel="noopener" href="https://blog.ohao.net/1845.html">[1]</a>、<a target="_blank" rel="noopener" href="https://github.com/xx025/carrot">[2]</a>、<a target="_blank" rel="noopener" href="https://github.com/runningcheese/Awesome-AI">[3]</a>、<a target="_blank" rel="noopener" href="https://www.runningcheese.com/chatgpt">[4]</a></li>
+</ul>
+<h3 id="3-2-图像处理AI"><a href="#3-2-图像处理AI" class="headerlink" title="3.2 图像处理AI"></a>3.2 图像处理AI</h3><blockquote>
+<p>获取各种AI模型整合包：B站<a target="_blank" rel="noopener" href="https://space.bilibili.com/12566101">@秋葉aaaki</a>、<a target="_blank" rel="noopener" href="https://space.bilibili.com/4228235">@万能君的软件库</a></p>
+</blockquote>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/camenduru/stable-diffusion-webui-colab">Stable Diffusion</a>：文生图（text-to-image）模型，<a target="_blank" rel="noopener" href="https://tag.redsex.cc/">[训练词]</a>、<a target="_blank" rel="noopener" href="https://civitai.com/">[模型库]</a>、<a target="_blank" rel="noopener" href="https://sdxlturbo.ai/stable-diffusion3">SD3</a>、<a target="_blank" rel="noopener" href="https://maxlay.github.io/2023/03/13/stable-diffusion/">More</a></li>
+<li>结合手绘内容以文生图：<a target="_blank" rel="noopener" href="https://www.fal.ai/dynamic">Dynamic</a>、<a target="_blank" rel="noopener" href="https://www.imgpilot.com/">ImgPilot</a>、<a target="_blank" rel="noopener" href="https://drawfast.tldraw.com/">Drawfast</a> （基于<a href="latent-consistency-models.github.io">LCM模型</a>）</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/lllyasviel/Fooocus">Fooocus</a>：AI画图工具，结合了Stable Diffusion 和 Midjourney的优点，开箱即用</li>
+<li>AI抠图模型：<a target="_blank" rel="noopener" href="https://github.com/xuebinqin/U-2-Net">U2-Net</a>、<a target="_blank" rel="noopener" href="https://github.com/PaddlePaddle/PaddleSeg">飞桨</a>、<a target="_blank" rel="noopener" href="https://github.com/nadermx/backgroundremover">Background Remover</a>、<a target="_blank" rel="noopener" href="https://github.com/mattyamonaca/PBRemTools">PBRem Tool</a>、<a target="_blank" rel="noopener" href="https://github.com/plemeri/transparent-background">Transparent Background</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/invoke-ai/InvokeAI">Invoke AI</a>：用于Stable Diffusion等模型的AI绘画可视化工具 <a target="_blank" rel="noopener" href="https://www.52pojie.cn/thread-1828708-1-1.html">[52]</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/tyxsspa/AnyText">AnyText</a>：在图像中修改或生成高度融合的文本</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/XingangPan/DragGAN">Drag Your GAN</a>：通过拖动图像上标定的几个点让AI自动P图（比如让狮子转头）</li>
+</ul>
+<blockquote>
+<p> 腾讯ARC（Applied Research Center）：</p>
+</blockquote>
+<ol>
+<li><a target="_blank" rel="noopener" href="https://github.com/TencentARC/GFPGAN">GFPGAN</a>：老照片人脸修复、着色</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/TencentARC/PhotoMaker">PhotoMaker</a>：基于上传的人像生成各种风格的逼真照片</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/TencentARC/T2I-Adapter">T2I-Adapter</a>：基于手绘内容与文本描述生成图片</li>
+</ol>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://aitestkitchen.withgoogle.com/tools/image-fx">Image-fx</a>：<code>Google</code> 的以文生图模型</li>
+</ul>
+<h3 id="3-3-音视频模型"><a href="#3-3-音视频模型" class="headerlink" title="3.3 音视频模型"></a>3.3 音视频模型</h3><ul>
+<li>视频AI换脸：<a target="_blank" rel="noopener" href="https://github.com/iperov/DeepFaceLab">DeepFaceLab</a><a target="_blank" rel="noopener" href="https://dfldata.cc/">[中文论坛]</a>、<a target="_blank" rel="noopener" href="https://github.com/iperov/DeepFaceLive">DeepFaceLive</a>、<a target="_blank" rel="noopener" href="https://github.com/Hillobar/Rope">Rope</a></li>
+<li>AI歌声合成：<a target="_blank" rel="noopener" href="https://github.com/MoonInTheRiver/DiffSinger">DiffSinger</a> <a target="_blank" rel="noopener" href="http://file.本兮.cn/">[<span style="color:#FF69B4;">AI本兮</span>]</a></li>
+<li>AI音色克隆：<a target="_blank" rel="noopener" href="https://github.com/RVC-Boss/GPT-SoVITS">GPT-SoVITS</a> <a target="_blank" rel="noopener" href="https://www.52pojie.cn//thread-1886747-1-1.html">[介绍]</a></li>
+<li>AI歌曲生成：<a target="_blank" rel="noopener" href="https://suno.ai/">Suno</a><a target="_blank" rel="noopener" href="https://github.com/suno-ai/bark">[Bark]</a>、<a target="_blank" rel="noopener" href="https://stableaudio.com/">Stable Audio</a></li>
+</ul>
+<h2 id="04-优秀开源游戏"><a href="#04-优秀开源游戏" class="headerlink" title="04. 优秀开源游戏"></a>04. 优秀开源游戏</h2><h3 id="4-1-棋类引擎"><a href="#4-1-棋类引擎" class="headerlink" title="4.1 棋类引擎"></a>4.1 棋类引擎</h3><ul>
+<li><a target="_blank" rel="noopener" href="https://www.sjeng.org/leela.html">Leela</a>：安装即玩的围棋软件，新手友好型围棋AI</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/SabakiHQ/Sabaki">Sabaki</a>：可以搭载<a target="_blank" rel="noopener" href="https://github.com/leela-zero/leela-zero">Leela Zero</a>等多种支持<code>GTP</code>协议的<a target="_blank" rel="noopener" href="https://github.com/SabakiHQ/Sabaki/blob/master/docs/guides/engines.md">围棋AI引擎</a>的围棋GUI软件</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/wonsiks/BadukMegapack">BadukMegapack</a>：傻瓜式安装多种开源<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/267139001">围棋AI软件</a></li>
+<li><a target="_blank" rel="noopener" href="https://banksiagui.com/">Banksia GUI</a>：国际象棋GUI软件,内置强大的支持<code>UCI</code>协议的国际象棋AI引擎<a target="_blank" rel="noopener" href="https://github.com/official-stockfish/Stockfish">Stockfish</a></li>
+<li><a target="_blank" rel="noopener" href="https://mdevs.cn/">棋路-中国象棋</a>：素雅中国风、强大而全面，内置象棋免费开源第一引擎<a target="_blank" rel="noopener" href="http://pikafish.org/">Pikafish</a></li>
+</ul>
+<h3 id="4-2-其他游戏"><a href="#4-2-其他游戏" class="headerlink" title="4.2 其他游戏"></a>4.2 其他游戏</h3><ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/yairm210/Unciv">Unciv</a>：“文明5”的低配版像素游戏 <code>&lt;100MB</code></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/HabitRPG/habitica">Habitica</a>：完成你的待办事项后，会升级解锁更多游戏玩法</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/CorsixTH/CorsixTH">CorsixTH</a>：Theme Hospital 游戏的开源复刻版</li>
+</ul>
+<h2 id="05-实用开源工具"><a href="#05-实用开源工具" class="headerlink" title="05. 实用开源工具"></a>05. 实用开源工具</h2><ul>
+<li><p><a target="_blank" rel="noopener" href="https://github.com/gezhaoyou/picprose">PicProse</a>：快速生成各种比例的推文封面图</p>
+</li>
+<li><p>自动跳过APP开屏广告：<del><a target="_blank" rel="noopener" href="https://github.com/eddlez/litiaotiao_package_backup">李跳跳</a></del>、<a target="_blank" rel="noopener" href="https://github.com/zfdang/Android-Touch-Helper">Android-Touch-Helper</a>、<a target="_blank" rel="noopener" href="https://github.com/gkd-kit/gkd/">gkd</a>、<a target="_blank" rel="noopener" href="https://github.com/GuoXiCheng/SKIP">SKIP</a>、<a target="_blank" rel="noopener" href="https://github.com/LGH1996/TapClick">TapClick</a></p>
+</li>
+<li><p>Android本地音乐播放器：<a target="_blank" rel="noopener" href="https://github.com/Moriafly/SaltPlayerSource/">椒盐音乐</a>、<a target="_blank" rel="noopener" href="https://github.com/RetroMusicPlayer/RetroMusicPlayer">Retro Music Player</a>、<a target="_blank" rel="noopener" href="https://github.com/MuntashirAkon/Metro">Metro</a></p>
+</li>
+<li><p>Android本地视频播放器：<a target="_blank" rel="noopener" href="https://github.com/videolan/vlc">VLC</a>、<a target="_blank" rel="noopener" href="https://github.com/xbmc/xbmc">Kodi</a>、<a href="hhttps://github.com/nova-video-player/aos-AVP">NOVA</a>、<a target="_blank" rel="noopener" href="https://github.com/mpv-android/mpv-android">MPV</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://github.com/gedoor/legado">Legado&#x2F;阅读</a>：安卓端最好的网络小说阅读器，支持自定义书源<a target="_blank" rel="noopener" href="https://legado.aoaostar.com/">[1]</a>、<a target="_blank" rel="noopener" href="https://legado.cn/forum-rssSources-1.html">[2]</a>、<a target="_blank" rel="noopener" href="https://yckceo.vip/">[3]</a>、<a target="_blank" rel="noopener" href="https://github.com/XIU2/Yuedu">[4]</a></p>
+</li>
+<li><p>播放全网免费音乐：<a target="_blank" rel="noopener" href="https://github.com/lyswhut">洛雪音乐助手</a>、<a target="_blank" rel="noopener" href="https://github.com/maotoumao">MusicFree</a></p>
+</li>
+</ul>
+<h2 id="06-第三方客户端"><a href="#06-第三方客户端" class="headerlink" title="06. 第三方客户端"></a>06. 第三方客户端</h2><blockquote>
+<p>解锁本地会员权限，如去广告、离线下载等</p>
+</blockquote>
+<ul>
+<li>YouTube Music：<a target="_blank" rel="noopener" href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a>、<a target="_blank" rel="noopener" href="https://github.com/z-huang/InnerTune/">InnerTune</a>、<a target="_blank" rel="noopener" href="https://github.com/gokadzev/Musify">Musify</a>、<a target="_blank" rel="noopener" href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></li>
+<li>YouTube：<a target="_blank" rel="noopener" href="https://github.com/libre-tube/LibreTube">LibreTube</a>、<a target="_blank" rel="noopener" href="https://github.com/TeamNewPipe/NewPipe">NewPipe</a>、<a target="_blank" rel="noopener" href="https://revanced.net/">YouTube ReVanced</a></li>
+<li>BiliBili：<a target="_blank" rel="noopener" href="https://github.com/guozhigq/pilipala">PiliPala</a>、<a target="_blank" rel="noopener" href="https://github.com/lucinhu/bili_you">Bili You</a>、<a target="_blank" rel="noopener" href="https://github.com/10miaomiao/bilimiao2">哔哩喵</a></li>
+<li>Spotify：<a target="_blank" rel="noopener" href="https://github.com/KRTirtho/spotube/">Spotube</a>、<a target="_blank" rel="noopener" href="https://github.com/mrpond/BlockTheSpot">BlockTheSpot</a>、<a target="_blank" rel="noopener" href="https://github.com/Team-xManager/xManager">xManager</a></li>
+<li>Pixiv：<a target="_blank" rel="noopener" href="https://github.com/Notsfsssf/pixez-flutter">PixEz Flutter</a>、<a target="_blank" rel="noopener" href="https://github.com/CeuiLiSA/Pixiv-Shaft">Shaft</a>、<a target="_blank" rel="noopener" href="https://github.com/Pixeval/Pixeval">Pixeval</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/kjfx/rj/releases/tag/tiktok_android">TikTok 免拔卡安卓版本</a>、<a target="_blank" rel="noopener" href="https://myhydrogen.gitee.io/">Hydrogen-知乎极简版</a></li>
+</ul>
+<h2 id="07-语音-⇌-文字"><a href="#07-语音-⇌-文字" class="headerlink" title="07. 语音 ⇌ 文字"></a>07. 语音 <code>⇌</code> 文字</h2><ul>
+<li>文字转语音：<a target="_blank" rel="noopener" href="https://www.ttson.cn/">TTS Online</a>、<a target="_blank" rel="noopener" href="http://www.51taojinge.com/include/voice/voice.php">淘金阁</a>、<a target="_blank" rel="noopener" href="https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#overview">Microsoft Azure</a>、<a target="_blank" rel="noopener" href="http://balabolka.site/cn/balabolka.htm">Balabolka</a>、<a target="_blank" rel="noopener" href="https://zenvideo.qq.com/home">智影</a>、<a target="_blank" rel="noopener" href="https://t.me/MultiTTS/20137">MultiTTS</a><code>Android</code></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/LokerL/tts-vue/releases">TTS-Vue</a>：调用微软官方语音合成接口进行文字转语音</li>
+<li>语音转文字：<a target="_blank" rel="noopener" href="https://github.com/Const-me/Whisper">Whisper</a>、<a target="_blank" rel="noopener" href="https://www.feishu.cn/product/minutes?from=thosefree.com">飞书妙记</a>、<a target="_blank" rel="noopener" href="https://www.capcut.cn/">剪映</a>、<a target="_blank" rel="noopener" href="https://tingwu.aliyun.com/home">通议听悟</a>、<a target="_blank" rel="noopener" href="https://www.52pojie.cn/thread-1876752-1-1.html">音视频取文本工具</a>（带时间轴）</li>
+</ul>
+<h2 id="08-GitHub收集盒"><a href="#08-GitHub收集盒" class="headerlink" title="08. GitHub收集盒"></a>08. GitHub收集盒</h2><blockquote>
+<p>Github<a target="_blank" rel="noopener" href="https://github.com/trending">热门榜</a>、<a target="_blank" rel="noopener" href="https://gitstar-ranking.com/">标星榜</a>、<a target="_blank" rel="noopener" href="https://wangchujiang.com/github-rank/">用户榜</a></p>
+</blockquote>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/ikaijua/Awesome-AITools">Awesome AI Tools</a>：收集与人工智能相关的实用程序</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/bleedline/aimoneyhunter">AiMonneyHunter</a>：这是一个AI副业赚钱资讯信息的大合集</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/Archmage83/tvapk">TVapk</a>：收集各大AndroidTV的apk应用，可免费看vip和国外电影电视</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/HCLonely/awesome-bilibili-extra">Awesome Bilibili Extra</a>：收集一些让我们在使用B站时更加方便的浏览器扩展&#x2F;脚本&#x2F;程序</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/skywind3000/preserve-cd">绝版游戏保护工程</a>：收录DOS游戏，红白机，SFC&#x2F;MD 等主机游戏机</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/wgwang/LLMs-In-China">Awesome LLMs In China</a>：全面收集有明确来源的中国大模型情况，包括机构、来源信息和分类等</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM">Awesome Chinese LLM</a>：收集和梳理中文LLM相关的开源模型、应用、数据集及教程等资料</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/1c7/chinese-independent-developer">中国独立开发者项目列表</a>：聚合所有中国独立开发者的项目</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts">GitHub中文排行榜</a>，各语言分设「软件 | 资料」榜单，<a target="_blank" rel="noopener" href="https://github.com/GrowingGit/GitHub-English-Top-Charts">GitHub英文排行榜</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/SUSTech-CRA/chinese-opensource-mirror-site">国内开源镜像站点汇总</a>：分企业站、教育站等</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/jaywcjlove/awesome-mac/">Awesome Mac</a>：收集各种好用的Mac软件，包括但不限于开源、免费软件</li>
+</ul>
+<h2 id="09-技术极客论坛"><a href="#09-技术极客论坛" class="headerlink" title="09. 技术极客论坛"></a>09. 技术极客论坛</h2><ul>
+<li>系统封装重装系统：<a target="_blank" rel="noopener" href="http://bbs.pcbeta.com/">远景论坛</a>、<a target="_blank" rel="noopener" href="http://bbs.wuyou.net/forum.php">无忧启动</a>、<a target="_blank" rel="noopener" href="https://www.yrxitong.com/">小鱼儿yr系统</a></li>
+<li>编程技术交流社区：<a target="_blank" rel="noopener" href="https://fishc.com.cn/forum.php">鱼C工作室</a>、<a target="_blank" rel="noopener" href="https://www.runoob.com/">菜鸟技术教程</a>、<a target="_blank" rel="noopener" href="https://bbs.pediy.com/">看雪论坛</a>、<a target="_blank" rel="noopener" href="https://www.v2ex.com/">V2EX</a>、<a target="_blank" rel="noopener" href="http://www.bathome.net/">批处理之家</a></li>
+</ul>
+<h2 id="获取更新"><a href="#获取更新" class="headerlink" title="获取更新"></a>获取更新</h2><ul>
+<li>后续更新事宜会在<a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyNDA4MDI2Mw==&action=getalbum&album_id=3143460003933077506#wechat_redirect">微信公众号</a> and&#x2F;or <a target="_blank" rel="noopener" href="https://pd.qq.com/s/363clqc1a">QQ频道</a>发布</li>
+</ul>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+    <div class="post-meta mr-3 d-flex align-items-center">
+      <i class="iconfont icon-category"></i>
+      
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/DMUCD/" class="category-chain-item">DMUCD</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+    </div>
+  
+  
+    <div class="post-meta">
+      <i class="iconfont icon-tags"></i>
+      
+        <a href="/tags/%E7%A7%91%E6%8A%80%E5%89%8D%E6%B2%BF/" class="print-no-link">#科技前沿</a>
+      
+    </div>
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>科技不加糖</div>
+      <div>https://dmucd.github.io/posts/773cbcea</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>阿岩</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2022年7月2日</div>
+        </div>
+      
+      
+      
+        <div class="license-meta-item">
+          <div>许可协议</div>
+          <div>
+            
+              
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                    <i class="iconfont icon-by"></i>
+                  </span>
+                </a>
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="NC - 非商业性使用">
+                    <i class="iconfont icon-nc"></i>
+                  </span>
+                </a>
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="SA - 相同方式共享">
+                    <i class="iconfont icon-sa"></i>
+                  </span>
+                </a>
+              
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/posts/f96b1ee4" title="顶刊留名客">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">顶刊留名客</span>
+                        <span class="visible-mobile">上一篇</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/posts/8f4ca2a4" title="上网去冲浪">
+                        <span class="hidden-mobile">上网去冲浪</span>
+                        <span class="visible-mobile">下一篇</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>目录</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
+  
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>
