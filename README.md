@@ -13,6 +13,6 @@ DMUCD Links 是拆解原 DMUCD Blog 文章内容得到的常用优质资源导�
 - 所收录链接指向的第三方内容可能随时变更，非本站所能控制，请访问者自行甄别并遵守相关法律法规，由此产生的风险由访问者自行承担。
 - 如有侵权请联系 dmucd2020@qq.com 删除。
 
-## 版权
+## 版权声明
 
 Copyright © 2026 DMUCD. All rights reserved.
